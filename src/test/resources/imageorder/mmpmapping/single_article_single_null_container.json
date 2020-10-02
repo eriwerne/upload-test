@@ -1,0 +1,26 @@
+{
+  "Artikel": [
+    {
+      "Artikelnummer": 425854,
+      "Container": [
+        {
+          "ContainerId": 1000002869,
+          "KombinationsId": null,
+          "Inhaltsklassifizierung": null,
+          "Printdarstellung": null,
+          "Ansicht": null,
+          "Aufnahmeart": null,
+          "Geschlecht des Models": null,
+          "Altersgruppe des Models": null,
+          "Anschnitt des Models": null,
+          "Detailfotografie": null,
+          "Location": null,
+          "Jahreszeiten": null,
+          "Hintergrund": null,
+          "Hintergrundfarbe": null,
+          "Rendering-Components": null
+        }
+      ]
+    }
+  ]
+}

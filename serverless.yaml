@@ -1,0 +1,156 @@
+service:
+  name: order-extractor
+
+provider:
+  name: aws
+  runtime: java8
+  region: eu-central-1
+  stage: ${opt:stage, 'dev'}
+  logRetentionInDays: 14
+  environment:
+    S3_BUCKET_EXPORT: ${self:custom.S3_BUCKET_EXPORT}
+
+custom:
+  S3_BUCKET_EXPORT: S3BucketExport
+  MMP_PROD_URL: "http://mmp-prod.ov.otto.de/media_production/api"
+  M2_PROD_URL: "https://api.prod.m2.ov.otto.de"
+  SECRET_NAME": "order-extractor"
+  AWS_REGION: "eu-central-1"
+
+resources:
+  Resources:
+    lambdaS3:
+      Type: AWS::IAM::Role
+      Properties:
+        Path: /my/cust/path/
+        RoleName: LambdaS3
+        AssumeRolePolicyDocument:
+          Version: '2012-10-17'
+          Statement:
+            - Effect: Allow
+              Principal:
+                Service:
+                  - lambda.amazonaws.com
+              Action: sts:AssumeRole
+        Policies:
+          - PolicyName: lambdaS3
+            PolicyDocument:
+              Version: '2012-10-17'
+              Statement:
+                - Effect: Allow
+                  Action:
+                    - logs:CreateLogGroup
+                    - logs:CreateLogStream
+                    - logs:PutLogEvents
+                  Resource:
+                    - 'Fn::Join':
+                        - ':'
+                        - - 'arn:aws:logs'
+                          - Ref: 'AWS::Region'
+                          - Ref: 'AWS::AccountId'
+                          - 'log-group:/aws/lambda/*:*:*'
+                - Effect: "Allow"
+                  Action:
+                    [
+                        "s3:PutObject",
+                        "s3:GetObject",
+                        "s3:DeleteObject"
+                    ]
+                  Resource:
+                    Fn::Join:
+                      - ""
+                      - - "arn:aws:s3:::"
+                        - "Ref": S3BucketExport
+                        - "/*"
+                - Effect: "Allow"
+                  Action: "s3:ListBucket"
+                  Resource:
+                    Fn::Join:
+                      - ""
+                      - - "arn:aws:s3:::"
+                        - "Ref": S3BucketExport
+                - Effect: "Allow"
+                  Action: "secretsmanager:GetSecretValue"
+                  Resource: "arn:aws:secretsmanager:eu-central-1:379547031598:secret:order-extractor-jupDNH"
+    lambdaInvoke:
+      Type: AWS::IAM::Role
+      Properties:
+        Path: /my/cust/path/
+        RoleName: LambdaInvoke
+        AssumeRolePolicyDocument:
+          Version: '2012-10-17'
+          Statement:
+            - Effect: Allow
+              Principal:
+                Service:
+                  - lambda.amazonaws.com
+              Action: sts:AssumeRole
+        Policies:
+          - PolicyName: LambdaInvoke
+            PolicyDocument:
+              Version: '2012-10-17'
+              Statement:
+                - Effect: Allow
+                  Action:
+                    - logs:CreateLogGroup
+                    - logs:CreateLogStream
+                    - logs:PutLogEvents
+                  Resource:
+                    - 'Fn::Join':
+                        - ':'
+                        - - 'arn:aws:logs'
+                          - Ref: 'AWS::Region'
+                          - Ref: 'AWS::AccountId'
+                          - 'log-group:/aws/lambda/*:*:*'
+                - Effect: "Allow" # needed when object exists
+                  Action: "s3:GetObject"
+                  Resource:
+                    Fn::Join:
+                      - ""
+                      - - "arn:aws:s3:::"
+                        - "Ref": S3BucketExport
+                        - "/*"
+                - Effect: "Allow"
+                  Action: "s3:ListBucket"
+                  Resource:
+                    Fn::Join:
+                      - ""
+                      - - "arn:aws:s3:::"
+                        - "Ref": S3BucketExport
+                - Effect: "Allow"
+                  Action:
+                    - "lambda:*"
+                  Resource: "arn:aws:lambda:eu-central-1:379547031598:function:order-execution"
+    S3BucketExport:
+      Type: AWS::S3::Bucket
+package:
+  artifact: build/libs/order-extractor-all-1.0-SNAPSHOT.jar
+
+functions:
+  async-service-invoker:
+    handler: lambdas.asyncinvoker.AsyncServiceInvokerLambda
+    name: async-service-invoker
+    timeout: 40
+    role: lambdaInvoke
+    environment:
+      S3_BUCKET_EXPORT:
+        Ref: S3BucketExport
+  order-execution:
+    handler: lambdas.orderexecution.OrderExecutionLambda
+    name: order-execution
+    timeout: 40
+    role: lambdaS3
+    environment:
+      S3_BUCKET_EXPORT:
+        Ref: S3BucketExport
+      MMP_PROD_URL: ${self:custom:MMP_PROD_URL}
+      M2_PROD_URL: ${self:custom:M2_PROD_URL}
+      SECRET_NAME: ${self:custom:SECRET_NAME}
+      AWS_REGION: ${self:custom:AWS_REGION}
+  order-reset:
+    handler: lambdas.orderreset.OrderResetLambda
+    name: order-reset
+    timeout: 40
+    environment:
+      S3_BUCKET_EXPORT:
+        Ref: S3BucketExport

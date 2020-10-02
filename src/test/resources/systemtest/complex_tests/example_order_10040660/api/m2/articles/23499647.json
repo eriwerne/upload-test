@@ -1,0 +1,246 @@
+[
+  {
+    "ageGroup": "Zielgruppenunabh\u00e4ngig",
+    "articleNumber": "23499647",
+    "assortmentCode": "809",
+    "assortmentName": "Polsterm\u00f6bel",
+    "businessProcessOwnerCode": "1",
+    "businessProcessOwnerDescription": "EKR Applikation",
+    "businessProcessOwnerId": "1",
+    "buyingGroupCode": "21",
+    "color": "cafe",
+    "companyId": "0",
+    "companyName": "Otto",
+    "createdAt": "2017-11-16T09:11:51.215+00:00",
+    "deletedAt": null,
+    "dimension1": "caf\u00e9",
+    "dimension3": "283 cm, Recamiere rechts",
+    "dimension4": "mit Bettfunktion",
+    "gender": "neutral",
+    "id": "624489620",
+    "itemEfforts": [],
+    "itemOptions": {
+      "624489642": {
+        "createdAt": "2017-11-16T09:11:51.215+00:00",
+        "deletedAt": null,
+        "dimension2": "Luxus-Microfaser ALTARA NUBUCK\u00ae",
+        "europeanArticleNumbers": [
+          "5900984053328"
+        ],
+        "id": "624489642",
+        "looseCharacteristics": [],
+        "processingSystemCode": "7",
+        "seasonId": "141",
+        "sequence": "170319747",
+        "sizes": [
+          {
+            "description": "ASTA-Bin\u00e4r Gr\u00f6\u00dfe",
+            "groupKey": null,
+            "primary": "N",
+            "regionId": "1",
+            "size": "0",
+            "regionCode": "EU"
+          },
+          {
+            "description": "Einfache Gr\u00f6\u00dfe",
+            "groupKey": null,
+            "primary": "Y",
+            "regionId": "1",
+            "size": null,
+            "regionCode": "EU"
+          },
+          {
+            "description": "Druck Gr\u00f6\u00dfe",
+            "groupKey": null,
+            "primary": "N",
+            "regionId": "1",
+            "size": null,
+            "regionCode": "EU"
+          }
+        ],
+        "suppliers": [
+          {
+            "europeanArticleNumbers": [
+              "5900984053328"
+            ],
+            "id": "624489669",
+            "size": "Altara Nubuck macchiato"
+          }
+        ],
+        "updatedAt": "2020-03-05T18:23:25.626+00:00",
+        "@links": {
+          "self": {
+            "href-resource": "tag:mmpas@otto.de,2016:entity",
+            "href-vars": {
+              "entity:id": "624489642",
+              "entity:version": "170319747",
+              "entity:entity": "item-option"
+            },
+            "href": "https:\/\/api.prod.m2.ov.otto.de\/entity\/item-option\/624489642\/170319747"
+          },
+          "latest-version": {
+            "href-resource": "tag:mmpas@otto.de,2016:entity",
+            "href-vars": {
+              "entity:id": "624489642",
+              "entity:entity": "item-option"
+            },
+            "href": "https:\/\/api.prod.m2.ov.otto.de\/entity\/item-option\/624489642"
+          },
+          "up": {
+            "href-resource": "tag:mmpas@otto.de,2016:entity",
+            "href-vars": {
+              "entity:id": "624489620",
+              "entity:version": "172072251",
+              "entity:entity": "item"
+            },
+            "href": "https:\/\/api.prod.m2.ov.otto.de\/entity\/item\/624489620\/172072251"
+          },
+          "root": {
+            "href-resource": "tag:mmpas@otto.de,2016:entity",
+            "href-vars": {
+              "entity:id": "358690228",
+              "entity:version": "172072250",
+              "entity:entity": "style"
+            },
+            "href": "https:\/\/api.prod.m2.ov.otto.de\/entity\/style\/358690228\/172072250"
+          }
+        }
+      }
+    },
+    "looseCharacteristics": {
+      "Anzahl Sitzfl\u00e4chen": [
+        "6"
+      ],
+      "Art Polsterung": [
+        "Poly\u00e4therschaum-Polsterung",
+        "Wellenunterfederung"
+      ],
+      "Ausf\u00fchrung": [
+        "mit Bettfunktion"
+      ],
+      "Bezug": [
+        "Luxus-Microfaser ALTARA NUBUCK\u00ae"
+      ],
+      "Breite": [
+        "283"
+      ],
+      "Breite Liegefl\u00e4che": [
+        "125"
+      ],
+      "Farbe": [
+        "caf\u00e9"
+      ],
+      "Grundfarbe": [
+        "braun"
+      ],
+      "H\u00f6he": [
+        "88"
+      ],
+      "L\u00e4nge Liegefl\u00e4che": [
+        "212"
+      ],
+      "Pflegehinweise Bezug": [
+        "pflegeleicht",
+        "feucht abwischbar"
+      ],
+      "Pillingbildung Bezug": [
+        "4 (gering)"
+      ],
+      "Scheuerbest\u00e4ndigkeit Bezug": [
+        "20000"
+      ],
+      "Sitzh\u00f6he": [
+        "40"
+      ],
+      "Stellvariante": [
+        "Recamiere rechts"
+      ],
+      "Tiefe": [
+        "174"
+      ],
+      "Tiefe Hauptelement": [
+        "95"
+      ],
+      "Tiefe Recamiere": [
+        "174"
+      ],
+      "Tiefe Sitzfl\u00e4che": [
+        "60"
+      ],
+      "materialComposition": [],
+      "qualityDetails": {
+        "Eco Bio": "FSC-Holz\/weitere FSC-Materialien (Bambus...)"
+      }
+    },
+    "merchandiseGroupCode": "5",
+    "name": "Ecke Rec.re m.Fkt",
+    "orderName": "Ecke Rec.re m.Fkt",
+    "productControlGroup": "11",
+    "seasonId": "141",
+    "sequence": "172072251",
+    "shortName": "Ecke Rec.re m.Fkt",
+    "sizeTypeCode": "23",
+    "sizeTypeDescription": "N-Gr",
+    "stateContentProductionCode": "0",
+    "stateContentProductionDescription": "keine Angabe (Defaultwert)",
+    "suppliers": [
+      {
+        "articleName": "Valant. PE KV m.Fkt.Rec.re. AN FSCm",
+        "articleNumber": null,
+        "articleWorkName": "Valantine PE KV m.Fkt.Rec.re. AN",
+        "id": "40115",
+        "name": "Steinpol Central Services Sp.z",
+        "primary": "Y",
+        "productDescription": "Neu:Steinpol_AN_macchiato_306.jpg, Alt:Steinpol_PB_Cafe_2.jpg",
+        "supplierColorDescription": null
+      }
+    ],
+    "updatedAt": "2020-03-16T15:33:53.943+00:00",
+    "@links": {
+      "self": {
+        "href-resource": "tag:mmpas@otto.de,2016:entity",
+        "href-vars": {
+          "entity:id": "624489620",
+          "entity:version": "172072251",
+          "entity:entity": "item"
+        },
+        "href": "https:\/\/api.prod.m2.ov.otto.de\/entity\/item\/624489620\/172072251"
+      },
+      "latest-version": {
+        "href-resource": "tag:mmpas@otto.de,2016:entity",
+        "href-vars": {
+          "entity:id": "624489620",
+          "entity:entity": "item"
+        },
+        "href": "https:\/\/api.prod.m2.ov.otto.de\/entity\/item\/624489620"
+      },
+      "up": {
+        "href-resource": "tag:mmpas@otto.de,2016:entity",
+        "href-vars": {
+          "entity:id": "358690228",
+          "entity:version": "172072250",
+          "entity:entity": "style"
+        },
+        "href": "https:\/\/api.prod.m2.ov.otto.de\/entity\/style\/358690228\/172072250"
+      },
+      "root": {
+        "href-resource": "tag:mmpas@otto.de,2016:entity",
+        "href-vars": {
+          "entity:id": "358690228",
+          "entity:version": "172072250",
+          "entity:entity": "style"
+        },
+        "href": "https:\/\/api.prod.m2.ov.otto.de\/entity\/style\/358690228\/172072250"
+      },
+      "predecessor-version": {
+        "href-resource": "tag:mmpas@otto.de,2016:entity",
+        "href-vars": {
+          "entity:id": "624489620",
+          "entity:version": "170722625",
+          "entity:entity": "item"
+        },
+        "href": "https:\/\/api.prod.m2.ov.otto.de\/entity\/item\/624489620\/170722625"
+      }
+    }
+  }
+]

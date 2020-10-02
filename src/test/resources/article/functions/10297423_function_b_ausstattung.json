@@ -1,0 +1,297 @@
+[
+  {
+    "ageGroup": null,
+    "articleNumber": "10297423",
+    "assortmentCode": "809",
+    "assortmentName": "Polstermöbel",
+    "businessProcessOwnerCode": "3",
+    "businessProcessOwnerDescription": "B2B Wholesale",
+    "businessProcessOwnerId": "2",
+    "buyingGroupCode": "21",
+    "color": "schlamm",
+    "colorReference": "steinpol_lars_braun_99",
+    "companyId": "0",
+    "companyName": "Otto",
+    "createdAt": "2019-11-29T09:10:13.852+00:00",
+    "deletedAt": null,
+    "dimension1": "schlamm",
+    "dimension3": "295 cm, Recamiere links",
+    "dimension4": "mit Sitztiefenverstellung",
+    "gender": null,
+    "id": "1033232059",
+    "itemEfforts": [],
+    "itemOptions": {
+      "1033232060": {
+        "createdAt": "2019-11-29T09:10:13.852+00:00",
+        "deletedAt": null,
+        "dimension2": "Luxus-Microfaser",
+        "europeanArticleNumbers": [
+          "5900984281912"
+        ],
+        "id": "1033232060",
+        "looseCharacteristics": [],
+        "processingSystemCode": "7",
+        "seasonId": "141",
+        "sequence": "173152580",
+        "sizes": [
+          {
+            "description": "ASTA-Binär Größe",
+            "groupKey": null,
+            "primary": "N",
+            "regionId": "1",
+            "size": "0",
+            "regionCode": "EU"
+          },
+          {
+            "description": "Einfache Größe",
+            "groupKey": null,
+            "primary": "Y",
+            "regionId": "1",
+            "size": null,
+            "regionCode": "EU"
+          },
+          {
+            "description": "Druck Größe",
+            "groupKey": null,
+            "primary": "N",
+            "regionId": "1",
+            "size": null,
+            "regionCode": "EU"
+          }
+        ],
+        "suppliers": [
+          {
+            "europeanArticleNumbers": [
+              "5900984281912"
+            ],
+            "id": "1033232070",
+            "size": "Euphoria schlamm 14"
+          }
+        ],
+        "updatedAt": "2020-03-20T13:50:55.893+00:00",
+        "@links": {
+          "self": {
+            "href-resource": "tag:mmpas@otto.de,2016:entity",
+            "href-vars": {
+              "entity:id": "1033232060",
+              "entity:version": "173152580",
+              "entity:entity": "item-option"
+            },
+            "href": "https://api.prod.m2.ov.otto.de/entity/item-option/1033232060/173152580"
+          },
+          "latest-version": {
+            "href-resource": "tag:mmpas@otto.de,2016:entity",
+            "href-vars": {
+              "entity:id": "1033232060",
+              "entity:entity": "item-option"
+            },
+            "href": "https://api.prod.m2.ov.otto.de/entity/item-option/1033232060"
+          },
+          "up": {
+            "href-resource": "tag:mmpas@otto.de,2016:entity",
+            "href-vars": {
+              "entity:id": "1033232059",
+              "entity:version": "173152581",
+              "entity:entity": "item"
+            },
+            "href": "https://api.prod.m2.ov.otto.de/entity/item/1033232059/173152581"
+          },
+          "root": {
+            "href-resource": "tag:mmpas@otto.de,2016:entity",
+            "href-vars": {
+              "entity:id": "1033231252",
+              "entity:version": "173152579",
+              "entity:entity": "style"
+            },
+            "href": "https://api.prod.m2.ov.otto.de/entity/style/1033231252/173152579"
+          }
+        }
+      }
+    },
+    "looseCharacteristics": {
+      "Abriebfestigkeit Bezug": [
+        "3 (ziemlich gut)"
+      ],
+      "Anzahl Armlehnen": [
+        "2"
+      ],
+      "Anzahl Füße": [
+        "11"
+      ],
+      "Anzahl Packstücke": [
+        "2"
+      ],
+      "Anzahl Sitzflächen": [
+        "4,5"
+      ],
+      "Art Polsterung": [
+        "Federkern",
+        "Wellenunterfederung"
+      ],
+      "Ausstattung": [
+        "Function B"
+      ],
+      "Bezug": [
+        "Luxus-Microfaser"
+      ],
+      "Breite": [
+        "295"
+      ],
+      "Breite Nierenkissen": [
+        "65"
+      ],
+      "Breite Sitzfläche": [
+        "214"
+      ],
+      "Breite Sitzfläche Recamiere": [
+        "83"
+      ],
+      "Farbe": [
+        "schlamm"
+      ],
+      "Farbe Füße": [
+        "silber"
+      ],
+      "Gewicht": [
+        "130"
+      ],
+      "Grundfarbe": [
+        "braun"
+      ],
+      "Höhe": [
+        "87"
+      ],
+      "Höhe Füße": [
+        "12"
+      ],
+      "Höhe Nierenkissen": [
+        "23"
+      ],
+      "Höhe maximal": [
+        "104"
+      ],
+      "Höhe minimal": [
+        "87"
+      ],
+      "Material Füße": [
+        "Metall"
+      ],
+      "Materialhinweis": [
+        "Rückseite Originalbezugsqualiät"
+      ],
+      "Pflegehinweise Bezug": [
+        "abstaubbar",
+        "feucht abwischbar",
+        "nicht waschbar"
+      ],
+      "Pillingbildung Bezug": [
+        "4 (gering)"
+      ],
+      "Raumgewicht": [
+        "30"
+      ],
+      "Scheuerbeständigkeit Bezug": [
+        "20000"
+      ],
+      "Sitzhöhe": [
+        "48"
+      ],
+      "Tiefe": [
+        "183"
+      ],
+      "Tiefe Hauptelement": [
+        "112"
+      ],
+      "Tiefe Nierenkissen": [
+        "13"
+      ],
+      "Tiefe Sitzfläche": [
+        "52"
+      ],
+      "Tiefe Sitzfläche Recamiere": [
+        "141"
+      ],
+      "Tiefe Sitzfläche maximal": [
+        "67"
+      ],
+      "Tiefe Sitzfläche minimal": [
+        "52"
+      ],
+      "Vordere Breite Recamiere": [
+        "123"
+      ],
+      "materialComposition": [],
+      "qualityDetails": []
+    },
+    "merchandiseGroupCode": "5",
+    "name": "Eck RecXL li",
+    "orderName": "Eck RecXL li",
+    "productControlGroup": "11",
+    "seasonId": "141",
+    "sequence": "173152581",
+    "shortName": "Eck RecXL li",
+    "sizeTypeCode": "23",
+    "sizeTypeDescription": "N-Gr",
+    "stateContentProductionCode": "0",
+    "stateContentProductionDescription": "keine Angabe (Defaultwert)",
+    "suppliers": [
+      {
+        "articleName": "CabrioV5657-7690_NKEuphoriaFSCm",
+        "articleNumber": null,
+        "articleWorkName": "CabrioV,Eck RecXL liEuphoria",
+        "id": "40115",
+        "name": "Steinpol Central Services Sp.z",
+        "primary": "Y",
+        "productDescription": "inkl.2 Nierenkissen, inkl.Sitztiefenverstellung, inkl.Kopfteilverstellung,inkl.Armteilverstellung",
+        "supplierColorDescription": null
+      }
+    ],
+    "updatedAt": "2020-03-20T13:50:55.893+00:00",
+    "@links": {
+      "self": {
+        "href-resource": "tag:mmpas@otto.de,2016:entity",
+        "href-vars": {
+          "entity:id": "1033232059",
+          "entity:version": "173152581",
+          "entity:entity": "item"
+        },
+        "href": "https://api.prod.m2.ov.otto.de/entity/item/1033232059/173152581"
+      },
+      "latest-version": {
+        "href-resource": "tag:mmpas@otto.de,2016:entity",
+        "href-vars": {
+          "entity:id": "1033232059",
+          "entity:entity": "item"
+        },
+        "href": "https://api.prod.m2.ov.otto.de/entity/item/1033232059"
+      },
+      "up": {
+        "href-resource": "tag:mmpas@otto.de,2016:entity",
+        "href-vars": {
+          "entity:id": "1033231252",
+          "entity:version": "173152579",
+          "entity:entity": "style"
+        },
+        "href": "https://api.prod.m2.ov.otto.de/entity/style/1033231252/173152579"
+      },
+      "root": {
+        "href-resource": "tag:mmpas@otto.de,2016:entity",
+        "href-vars": {
+          "entity:id": "1033231252",
+          "entity:version": "173152579",
+          "entity:entity": "style"
+        },
+        "href": "https://api.prod.m2.ov.otto.de/entity/style/1033231252/173152579"
+      },
+      "predecessor-version": {
+        "href-resource": "tag:mmpas@otto.de,2016:entity",
+        "href-vars": {
+          "entity:id": "1033232059",
+          "entity:version": "172184186",
+          "entity:entity": "item"
+        },
+        "href": "https://api.prod.m2.ov.otto.de/entity/item/1033232059/172184186"
+      }
+    }
+  }
+]

@@ -1,0 +1,227 @@
+[
+  {
+    "ageGroup": null,
+    "articleNumber": "19211601",
+    "assortmentCode": "809",
+    "assortmentName": "Polsterm\u00f6bel",
+    "businessProcessOwnerCode": "3",
+    "businessProcessOwnerDescription": "B2B Wholesale",
+    "businessProcessOwnerId": "2",
+    "buyingGroupCode": "21",
+    "color": "altrosa",
+    "colorReference": "steinpol_linea_altrosa_10",
+    "companyId": "0",
+    "companyName": "Otto",
+    "createdAt": "2020-01-20T07:43:58.900+00:00",
+    "deletedAt": null,
+    "dimension1": "altrosa",
+    "dimension3": null,
+    "dimension4": null,
+    "gender": null,
+    "id": "1074155786",
+    "itemEfforts": [],
+    "itemOptions": {
+      "1074155787": {
+        "createdAt": "2020-01-20T07:43:58.900+00:00",
+        "deletedAt": null,
+        "dimension2": "Struktur fein",
+        "europeanArticleNumbers": [],
+        "id": "1074155787",
+        "looseCharacteristics": [],
+        "processingSystemCode": "7",
+        "seasonId": "142",
+        "sequence": "187020308",
+        "sizes": [
+          {
+            "description": "Druck Gr\u00f6\u00dfe",
+            "groupKey": null,
+            "primary": "N",
+            "regionId": "1",
+            "size": null,
+            "regionCode": "EU"
+          },
+          {
+            "description": "ASTA-Bin\u00e4r Gr\u00f6\u00dfe",
+            "groupKey": null,
+            "primary": "N",
+            "regionId": "1",
+            "size": "0",
+            "regionCode": "EU"
+          },
+          {
+            "description": "Einfache Gr\u00f6\u00dfe",
+            "groupKey": null,
+            "primary": "Y",
+            "regionId": "1",
+            "size": null,
+            "regionCode": "EU"
+          }
+        ],
+        "suppliers": [
+          {
+            "europeanArticleNumbers": [],
+            "id": "1074155793",
+            "size": "626"
+          }
+        ],
+        "updatedAt": "2020-06-13T04:09:32.046+00:00",
+        "@links": {
+          "self": {
+            "href-resource": "tag:mmpas@otto.de,2016:entity",
+            "href-vars": {
+              "entity:id": "1074155787",
+              "entity:version": "187020308",
+              "entity:entity": "item-option"
+            },
+            "href": "https:\/\/api.prod.m2.ov.otto.de\/entity\/item-option\/1074155787\/187020308"
+          },
+          "latest-version": {
+            "href-resource": "tag:mmpas@otto.de,2016:entity",
+            "href-vars": {
+              "entity:id": "1074155787",
+              "entity:entity": "item-option"
+            },
+            "href": "https:\/\/api.prod.m2.ov.otto.de\/entity\/item-option\/1074155787"
+          },
+          "up": {
+            "href-resource": "tag:mmpas@otto.de,2016:entity",
+            "href-vars": {
+              "entity:id": "1074155786",
+              "entity:version": "187020309",
+              "entity:entity": "item"
+            },
+            "href": "https:\/\/api.prod.m2.ov.otto.de\/entity\/item\/1074155786\/187020309"
+          },
+          "root": {
+            "href-resource": "tag:mmpas@otto.de,2016:entity",
+            "href-vars": {
+              "entity:id": "1074155770",
+              "entity:version": "187020307",
+              "entity:entity": "style"
+            },
+            "href": "https:\/\/api.prod.m2.ov.otto.de\/entity\/style\/1074155770\/187020307"
+          }
+        }
+      }
+    },
+    "looseCharacteristics": {
+      "Abriebfestigkeit Bezug": [
+        "5 (sehr gut)"
+      ],
+      "Anzahl F\u00fc\u00dfe": [
+        "8"
+      ],
+      "Bezug": [
+        "Struktur fein"
+      ],
+      "Breite Sitzfl\u00e4che": [
+        "104 cm"
+      ],
+      "Farbe": [
+        "altrosa"
+      ],
+      "Farbe F\u00fc\u00dfe": [
+        "schwarz"
+      ],
+      "Gewicht": [
+        "15 kg"
+      ],
+      "Grundfarbe": [
+        "rosa"
+      ],
+      "Material F\u00fc\u00dfe": [
+        "Kunststoff"
+      ],
+      "Material Untergestell": [
+        "Spanplatte"
+      ],
+      "Pillingbildung Bezug": [
+        "4 (gering)"
+      ],
+      "Raumgewicht": [
+        "30 kg\/m\u00b3"
+      ],
+      "Scheuerbest\u00e4ndigkeit Bezug": [
+        "45000 Scheuertouren"
+      ],
+      "Sitzh\u00f6he": [
+        "42 cm"
+      ],
+      "Tiefe Sitzfl\u00e4che": [
+        "104 cm"
+      ],
+      "materialComposition": [],
+      "qualityDetails": []
+    },
+    "merchandiseGroupCode": "5",
+    "name": "Rundhocker",
+    "orderName": "HO 140x42",
+    "productControlGroup": "11",
+    "seasonId": "142",
+    "sequence": "187020309",
+    "shortName": "Rundhocker",
+    "sizeTypeCode": "23",
+    "sizeTypeDescription": "N-Gr",
+    "stateContentProductionCode": "0",
+    "stateContentProductionDescription": "keine Angabe (Defaultwert)",
+    "suppliers": [
+      {
+        "articleName": "CADABRAVHO5645-6034_104CLinea ros",
+        "articleNumber": null,
+        "articleWorkName": "CADABRAVHO140x42Lineaaltrosa",
+        "id": "40115",
+        "name": "Steinpol Central Services Sp.z",
+        "primary": "Y",
+        "productDescription": "steinpol_linea_altrosa_10",
+        "supplierColorDescription": null
+      }
+    ],
+    "updatedAt": "2020-06-13T04:09:32.046+00:00",
+    "@links": {
+      "self": {
+        "href-resource": "tag:mmpas@otto.de,2016:entity",
+        "href-vars": {
+          "entity:id": "1074155786",
+          "entity:version": "187020309",
+          "entity:entity": "item"
+        },
+        "href": "https:\/\/api.prod.m2.ov.otto.de\/entity\/item\/1074155786\/187020309"
+      },
+      "latest-version": {
+        "href-resource": "tag:mmpas@otto.de,2016:entity",
+        "href-vars": {
+          "entity:id": "1074155786",
+          "entity:entity": "item"
+        },
+        "href": "https:\/\/api.prod.m2.ov.otto.de\/entity\/item\/1074155786"
+      },
+      "up": {
+        "href-resource": "tag:mmpas@otto.de,2016:entity",
+        "href-vars": {
+          "entity:id": "1074155770",
+          "entity:version": "187020307",
+          "entity:entity": "style"
+        },
+        "href": "https:\/\/api.prod.m2.ov.otto.de\/entity\/style\/1074155770\/187020307"
+      },
+      "root": {
+        "href-resource": "tag:mmpas@otto.de,2016:entity",
+        "href-vars": {
+          "entity:id": "1074155770",
+          "entity:version": "187020307",
+          "entity:entity": "style"
+        },
+        "href": "https:\/\/api.prod.m2.ov.otto.de\/entity\/style\/1074155770\/187020307"
+      },
+      "predecessor-version": {
+        "href-resource": "tag:mmpas@otto.de,2016:entity",
+        "href-vars": {
+          "entity:id": "1074155786",
+          "entity:version": "183804366",
+          "entity:entity": "item"
+        },
+        "href": "https:\/\/api.prod.m2.ov.otto.de\/entity\/item\/1074155786\/183804366"
+      }
+    }
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "ageGroup": null,
+    "articleNumber": "123456",
+    "assortmentCode": "809",
+    "assortmentName": "Polstermöbel",
+    "businessProcessOwnerCode": "3",
+    "businessProcessOwnerDescription": "B2B Wholesale",
+    "businessProcessOwnerId": "2",
+    "buyingGroupCode": "21",
+    "color": "anthrazit",
+    "colorReference": "steinpol_lars_braun_99",
+    "companyId": "0",
+    "companyName": "Otto",
+    "createdAt": "2019-05-09T09:40:05.139+00:00",
+    "deletedAt": null,
+    "dimension1": "anthrazit",
+    "dimension3": "252 cm, Recamiere links",
+    "dimension4": null,
+    "gender": null,
+    "id": "889346458",
+    "itemEfforts": [],
+    "itemOptions": {
+      "889346485": {
+        "createdAt": "2019-05-09T09:40:05.139+00:00",
+        "deletedAt": null,
+        "dimension2": "Flachgewebe",
+        "europeanArticleNumbers": [
+          "5900984245211"
+        ],
+        "id": "889346485",
+        "looseCharacteristics": [],
+        "processingSystemCode": "7",
+        "seasonId": "141",
+        "sequence": "171278127",
+        "sizes": [
+          {
+            "description": "ASTA-Binär Größe",
+            "groupKey": null,
+            "primary": "N",
+            "regionId": "1",
+            "size": "0",
+            "regionCode": "EU"
+          },
+          {
+            "description": "Druck Größe",
+            "groupKey": null,
+            "primary": "N",
+            "regionId": "1",
+            "size": null,
+            "regionCode": "EU"
+          },
+          {
+            "description": "Einfache Größe",
+            "groupKey": null,
+            "primary": "Y",
+            "regionId": "1",
+            "size": null,
+            "regionCode": "EU"
+          }
+        ],
+        "suppliers": [
+          {
+            "europeanArticleNumbers": [
+              "5900984245211"
+            ],
+            "id": "889346618",
+            "size": "Mura anthrazit 96"
+          }
+        ],
+        "updatedAt": "2020-03-11T11:49:14.363+00:00",
+        "@links": {
+          "self": {
+            "href-resource": "tag:mmpas@otto.de,2016:entity",
+            "href-vars": {
+              "entity:id": "889346485",
+              "entity:version": "171278127",
+              "entity:entity": "item-option"
+            },
+            "href": "https://api.prod.m2.ov.otto.de/entity/item-option/889346485/171278127"
+          },
+          "latest-version": {
+            "href-resource": "tag:mmpas@otto.de,2016:entity",
+            "href-vars": {
+              "entity:id": "889346485",
+              "entity:entity": "item-option"
+            },
+            "href": "https://api.prod.m2.ov.otto.de/entity/item-option/889346485"
+          },
+          "up": {
+            "href-resource": "tag:mmpas@otto.de,2016:entity",
+            "href-vars": {
+              "entity:id": "889346458",
+              "entity:version": "172191369",
+              "entity:entity": "item"
+            },
+            "href": "https://api.prod.m2.ov.otto.de/entity/item/889346458/172191369"
+          },
+          "root": {
+            "href-resource": "tag:mmpas@otto.de,2016:entity",
+            "href-vars": {
+              "entity:id": "889345295",
+              "entity:version": "172191368",
+              "entity:entity": "style"
+            },
+            "href": "https://api.prod.m2.ov.otto.de/entity/style/889345295/172191368"
+          }
+        }
+      }
+    },
+    "looseCharacteristics": {
+      "Abriebfestigkeit Bezug": [
+        "5 (sehr gut)"
+      ],
+      "Anzahl Armlehnen": [
+        "2"
+      ],
+      "Anzahl Füße": [
+        "8"
+      ],
+      "Anzahl Packstücke": [
+        "2"
+      ],
+      "Anzahl Sitzflächen": [
+        "4,5"
+      ],
+      "Art Polsterung": [
+        "Federkern"
+      ],
+      "Ausführung": [
+        "mit Kopfteilverstellung"
+      ],
+      "Bezug": [
+        "Flachgewebe"
+      ],
+      "Breite": [
+        "252"
+      ],
+      "Breite Füße": [
+        "6,5"
+      ],
+      "Breite Rückenlehne": [
+        "202"
+      ],
+      "Breite Sitzfläche": [
+        "200"
+      ],
+      "Breite Sitzfläche Recamiere": [
+        "70"
+      ],
+      "Farbe": [
+        "anthrazit"
+      ],
+      "Farbe Füße": [
+        "silber"
+      ],
+      "Gewicht": [
+        "81"
+      ],
+      "Grundfarbe": [
+        "grau"
+      ],
+      "Höhe": [
+        "84"
+      ],
+      "Höhe Füße": [
+        "12"
+      ],
+      "Höhe Rückenlehne": [
+        "41"
+      ],
+      "Höhe maximal": [
+        "100"
+      ],
+      "Höhe minimal": [
+        "84"
+      ],
+      "Material Füße": [
+        "Metall"
+      ],
+      "Pflegehinweise Bezug": [
+        "abstaubbar",
+        "feucht abwischbar",
+        "nicht waschbar"
+      ],
+      "Pillingbildung Bezug": [
+        "4 (gering)"
+      ],
+      "Scheuerbeständigkeit Bezug": [
+        "80000"
+      ],
+      "Sitzhöhe": [
+        "48"
+      ],
+      "Stellvariante": [
+        "Recamiere links"
+      ],
+      "Tiefe": [
+        "165"
+      ],
+      "Tiefe Füße": [
+        "1"
+      ],
+      "Tiefe Hauptelement": [
+        "93"
+      ],
+      "Tiefe Recamiere": [
+        "165"
+      ],
+      "Tiefe Sitzfläche": [
+        "51"
+      ],
+      "Tiefe Sitzfläche Recamiere": [
+        "123"
+      ],
+      "Tiefe Sitzfläche maximal": [
+        "123"
+      ],
+      "Tiefe Sitzfläche minimal": [
+        "51"
+      ],
+      "Vordere Breite Recamiere": [
+        "82"
+      ],
+      "Wohnstil": [
+        "modern"
+      ],
+      "materialComposition": [],
+      "qualityDetails": []
+    },
+    "merchandiseGroupCode": "5",
+    "name": "Ecksofa",
+    "orderName": "Rec re",
+    "productControlGroup": "11",
+    "seasonId": "141",
+    "sequence": "172191369",
+    "shortName": "Ecksofa",
+    "sizeTypeCode": "23",
+    "sizeTypeDescription": "N-Gr",
+    "stateContentProductionCode": "0",
+    "stateContentProductionDescription": "keine Angabe (Defaultwert)",
+    "suppliers": [
+      {
+        "articleName": "VincenzoPELgch.re5509-7380Mura FSC",
+        "articleNumber": null,
+        "articleWorkName": "Vincenzo,PE Rec re,Mura",
+        "id": "40115",
+        "name": "Steinpol Central Services Sp.z",
+        "primary": "Y",
+        "productDescription": "steinpol_mura anthrazit 96,Kopfteilverstellung",
+        "supplierColorDescription": null
+      }
+    ],
+    "updatedAt": "2020-03-16T16:09:12.837+00:00",
+    "@links": {
+      "self": {
+        "href-resource": "tag:mmpas@otto.de,2016:entity",
+        "href-vars": {
+          "entity:id": "889346458",
+          "entity:version": "172191369",
+          "entity:entity": "item"
+        },
+        "href": "https://api.prod.m2.ov.otto.de/entity/item/889346458/172191369"
+      },
+      "latest-version": {
+        "href-resource": "tag:mmpas@otto.de,2016:entity",
+        "href-vars": {
+          "entity:id": "889346458",
+          "entity:entity": "item"
+        },
+        "href": "https://api.prod.m2.ov.otto.de/entity/item/889346458"
+      },
+      "up": {
+        "href-resource": "tag:mmpas@otto.de,2016:entity",
+        "href-vars": {
+          "entity:id": "889345295",
+          "entity:version": "172191368",
+          "entity:entity": "style"
+        },
+        "href": "https://api.prod.m2.ov.otto.de/entity/style/889345295/172191368"
+      },
+      "root": {
+        "href-resource": "tag:mmpas@otto.de,2016:entity",
+        "href-vars": {
+          "entity:id": "889345295",
+          "entity:version": "172191368",
+          "entity:entity": "style"
+        },
+        "href": "https://api.prod.m2.ov.otto.de/entity/style/889345295/172191368"
+      },
+      "predecessor-version": {
+        "href-resource": "tag:mmpas@otto.de,2016:entity",
+        "href-vars": {
+          "entity:id": "889346458",
+          "entity:version": "171278128",
+          "entity:entity": "item"
+        },
+        "href": "https://api.prod.m2.ov.otto.de/entity/item/889346458/171278128"
+      }
+    }
+  }
+]

@@ -1,0 +1,132 @@
+{
+  "orderNumber" : "12345",
+  "imageGroups" : [ {
+    "productComKey" : "889345295",
+    "basisOcvModel" : {
+      "materials" : [ {
+        "materialCode" : "steinpol_lars_braun_99",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "steinpol_lars_braun_99"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Flachgewebe]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[andere Farbe]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[silber]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "345678",
+          "name" : "Ecksofa (Rec re)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "",
+          "filenames" : [ "3451.jpg" ],
+          "filenames_mirror" : [ ]
+        } ]
+      }, {
+        "materialCode" : "steinpol_lars_braun_99",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "steinpol_lars_braun_99"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Flachgewebe]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[anthrazit]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[silber]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "123456",
+          "name" : "Ecksofa (Rec re)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "",
+          "filenames" : [ "1231.jpg" ],
+          "filenames_mirror" : [ ]
+        } ]
+      } ]
+    },
+    "functionModels" : [ {
+      "function" : "andere Funktion",
+      "materials" : [ {
+        "materialCode" : "steinpol_lars_braun_99",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "steinpol_lars_braun_99"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Flachgewebe]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[andere Farbe]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[silber]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "345678",
+          "name" : "Ecksofa (Rec re)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "",
+          "filenames" : [ "3452.jpg" ],
+          "filenames_mirror" : [ ]
+        } ]
+      } ]
+    }, {
+      "function" : "Funktion",
+      "materials" : [ {
+        "materialCode" : "steinpol_lars_braun_99",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "steinpol_lars_braun_99"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Flachgewebe]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[anthrazit]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[silber]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "123456",
+          "name" : "Ecksofa (Rec re)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "",
+          "filenames" : [ "1232.jpg" ],
+          "filenames_mirror" : [ ]
+        } ]
+      } ]
+    } ]
+  } ]
+}

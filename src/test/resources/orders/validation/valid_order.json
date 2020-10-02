@@ -1,0 +1,91 @@
+{
+  "orderNumber" : "12345",
+  "imageGroups" : [ {
+    "styleNumber" : "889345295",
+    "basisOcvModel" : {
+      "materials" : [ {
+        "materialCode" : "[ - Example values - :, Korpus:steinpol_paris_rot_32, Sitz-Rücken:steinpol_paris_silver_45]",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "[ - Example values - :, Korpus:steinpol_paris_rot_32, Sitz-Rücken:steinpol_paris_silver_45]"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Flachgewebe]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[anthrazit]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[silber]"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "",
+          "filenames" : [ "1231", "3451" ],
+          "filenames_mirror" : null
+        } ]
+      } ]
+    },
+    "functionModels" : [ {
+      "function" : "andere Funktion",
+      "materials" : [ {
+        "materialCode" : "[ - Example values - :, Korpus:steinpol_paris_rot_32, Sitz-Rücken:steinpol_paris_silver_45]",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "[ - Example values - :, Korpus:steinpol_paris_rot_32, Sitz-Rücken:steinpol_paris_silver_45]"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Flachgewebe]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[anthrazit]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[silber]"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "",
+          "filenames" : [ "3452" ],
+          "filenames_mirror" : null
+        } ]
+      } ]
+    }, {
+      "function" : "Funktion",
+      "materials" : [ {
+        "materialCode" : "[ - Example values - :, Korpus:steinpol_paris_rot_32, Sitz-Rücken:steinpol_paris_silver_45]",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "[ - Example values - :, Korpus:steinpol_paris_rot_32, Sitz-Rücken:steinpol_paris_silver_45]"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Flachgewebe]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[anthrazit]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[silber]"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "",
+          "filenames" : [ "1232" ],
+          "filenames_mirror" : null
+        } ]
+      } ]
+    } ]
+  } ]
+}

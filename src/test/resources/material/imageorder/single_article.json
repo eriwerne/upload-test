@@ -1,0 +1,26 @@
+{
+  "Artikel": [
+    {
+      "Artikelnummer": 123456,
+      "Container": [
+        {
+          "ContainerId": 1000002869,
+          "KombinationsId": null,
+          "Inhaltsklassifizierung": "Produktbild",
+          "Printdarstellung": null,
+          "Ansicht": "Vorderansicht",
+          "Aufnahmeart": "alleinstehend",
+          "Geschlecht des Models": null,
+          "Altersgruppe des Models": null,
+          "Anschnitt des Models": null,
+          "Detailfotografie": "Digitales Stoffmuster",
+          "Location": null,
+          "Jahreszeiten": null,
+          "Hintergrund": null,
+          "Hintergrundfarbe": null,
+          "Rendering-Components": null
+        }
+      ]
+    }
+  ]
+}

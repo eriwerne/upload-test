@@ -1,0 +1,4632 @@
+{
+  "orderNumber" : "10043142",
+  "imageGroups" : [ {
+    "productComKey" : "1158909319",
+    "basisOcvModel" : {
+      "materials" : [ {
+        "materialCode" : "domo_nossa_anthrazit_3678",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_nossa_anthrazit_3678"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Samtoptik]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[anthrazit]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "46301945",
+          "name" : "Hocker (Hocker)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838291.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838293.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838294.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838298.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838299.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838300.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838301.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838302.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15838303.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15838304.jpg" ],
+          "filenames_mirror" : [ ]
+        } ]
+      }, {
+        "materialCode" : "domo_arco_blau_3671",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_arco_blau_3671"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Struktur]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[blau]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "57932205",
+          "name" : "Hocker (Hocker)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838193.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838195.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838196.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838200.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838201.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838202.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838203.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838204.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15838205.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15838206.jpg" ],
+          "filenames_mirror" : [ ]
+        } ]
+      }, {
+        "materialCode" : "domo_kira_darkblue_3679",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_kira_darkblue_3679"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Struktur weich]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[dunkelblau]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "96680503",
+          "name" : "Hocker (Hocker)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837801.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837803.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837804.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837808.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837809.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837810.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837811.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837812.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15837813.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15837814.jpg" ],
+          "filenames_mirror" : [ ]
+        } ]
+      }, {
+        "materialCode" : "domo_nossa_hunter_3675",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_nossa_hunter_3675"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Samtoptik]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[dunkelgrün]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "14860715",
+          "name" : "Hocker (Hocker)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838655.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838657.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838658.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838662.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838663.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838664.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838665.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838666.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15838667.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15838668.jpg" ],
+          "filenames_mirror" : [ ]
+        } ]
+      }, {
+        "materialCode" : "domo_kira_scarlet_3680",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_kira_scarlet_3680"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Struktur weich]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[dunkelrot]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "51301017",
+          "name" : "Hocker (Hocker)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838249.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838251.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838252.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838256.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838257.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838258.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838259.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838260.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15838261.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15838262.jpg" ],
+          "filenames_mirror" : [ ]
+        } ]
+      }, {
+        "materialCode" : "Domo_Nossa_gold",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "Domo_Nossa_gold"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Samtoptik]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[goldfarben]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "57970147",
+          "name" : "Hocker (Hocker)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838179.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838181.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838182.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838186.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838187.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838188.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838189.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838190.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15838191.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15838192.jpg" ],
+          "filenames_mirror" : [ ]
+        } ]
+      }, {
+        "materialCode" : "domo_arco_grau_3673",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_arco_grau_3673"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Struktur]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[grau]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "22393605",
+          "name" : "Hocker (Hocker)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838571.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838573.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838574.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838578.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838579.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838580.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838581.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838582.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15838583.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15838584.jpg" ],
+          "filenames_mirror" : [ ]
+        } ]
+      }, {
+        "materialCode" : "domo_arco_gruen_3672",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_arco_gruen_3672"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Struktur]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[grün]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "29425563",
+          "name" : "Hocker (Hocker)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838515.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838517.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838518.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838522.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838523.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838524.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838525.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838526.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15838527.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15838528.jpg" ],
+          "filenames_mirror" : [ ]
+        } ]
+      }, {
+        "materialCode" : "domo_kira_hellgrau_3681",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_kira_hellgrau_3681"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Struktur weich]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[hellgrau]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "60079649",
+          "name" : "Hocker (Hocker)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838137.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838139.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838140.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838144.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838145.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838146.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838147.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838148.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15838149.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15838150.jpg" ],
+          "filenames_mirror" : [ ]
+        } ]
+      }, {
+        "materialCode" : "domo_arco_hellgrau_3674",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_arco_hellgrau_3674"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Struktur]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[hellgrau]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "35546669",
+          "name" : "Hocker (Hocker)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838403.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838405.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838406.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838410.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838411.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838412.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838413.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838414.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15838415.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15838416.jpg" ],
+          "filenames_mirror" : [ ]
+        } ]
+      }, {
+        "materialCode" : "domo_nossa_dolphin_3677",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_nossa_dolphin_3677"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Samtoptik]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[schlamm]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "74500659",
+          "name" : "Hocker (Hocker)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837955.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837957.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837958.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837962.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837963.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837964.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837965.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837966.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15837967.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15837968.jpg" ],
+          "filenames_mirror" : [ ]
+        } ]
+      } ]
+    },
+    "functionModels" : [ ]
+  }, {
+    "productComKey" : "1158909328",
+    "basisOcvModel" : {
+      "materials" : [ {
+        "materialCode" : "domo_nossa_anthrazit_3678",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_nossa_anthrazit_3678"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Samtoptik]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[anthrazit]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "17459803",
+          "name" : "Sessel (Sessel)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838613.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838615.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838616.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838620.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838621.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838622.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838623.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838624.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15838625.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15838626.jpg" ],
+          "filenames_mirror" : [ ]
+        } ]
+      }, {
+        "materialCode" : "domo_arco_blau_3671",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_arco_blau_3671"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Struktur]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[blau]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "39292435",
+          "name" : "Sessel (Sessel)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838361.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838363.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838364.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838368.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838369.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838370.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838371.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838372.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15838373.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15838374.jpg" ],
+          "filenames_mirror" : [ ]
+        } ]
+      }, {
+        "materialCode" : "domo_kira_darkblue_3679",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_kira_darkblue_3679"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Struktur weich]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[dunkelblau]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "24371713",
+          "name" : "Sessel (Sessel)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838529.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838531.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838532.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838536.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838537.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838538.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838539.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838540.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15838541.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15838542.jpg" ],
+          "filenames_mirror" : [ ]
+        } ]
+      }, {
+        "materialCode" : "domo_nossa_hunter_3675",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_nossa_hunter_3675"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Samtoptik]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[dunkelgrün]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "70453309",
+          "name" : "Sessel (Sessel)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838039.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838041.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838042.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838046.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838047.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838048.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838049.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838050.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15838051.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15838052.jpg" ],
+          "filenames_mirror" : [ ]
+        } ]
+      }, {
+        "materialCode" : "domo_kira_scarlet_3680",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_kira_scarlet_3680"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Struktur weich]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[dunkelrot]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "74064631",
+          "name" : "Sessel (Sessel)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837983.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837985.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837986.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837990.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837991.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837992.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837993.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837994.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15837995.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15837996.jpg" ],
+          "filenames_mirror" : [ ]
+        } ]
+      }, {
+        "materialCode" : "Domo_Nossa_gold",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "Domo_Nossa_gold"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Samtoptik]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[goldfarben]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "59724507",
+          "name" : "Sessel (Sessel)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838151.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838153.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838154.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838158.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838159.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838160.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838161.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838162.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15838163.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15838164.jpg" ],
+          "filenames_mirror" : [ ]
+        } ]
+      }, {
+        "materialCode" : "domo_arco_grau_3673",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_arco_grau_3673"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Struktur]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[grau]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "70668029",
+          "name" : "Sessel (Sessel)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838025.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838027.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838028.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838032.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838033.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838034.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838035.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838036.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15838037.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15838038.jpg" ],
+          "filenames_mirror" : [ ]
+        } ]
+      }, {
+        "materialCode" : "domo_arco_gruen_3672",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_arco_gruen_3672"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Struktur]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[grün]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "23405351",
+          "name" : "Sessel (Sessel)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838543.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838545.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838546.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838550.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838551.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838552.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838553.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838554.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15838555.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15838556.jpg" ],
+          "filenames_mirror" : [ ]
+        } ]
+      }, {
+        "materialCode" : "domo_kira_hellgrau_3681",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_kira_hellgrau_3681"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Struktur weich]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[hellgrau]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "85528117",
+          "name" : "Sessel (Sessel)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837899.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837901.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837902.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837906.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837907.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837908.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837909.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837910.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15837911.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15837912.jpg" ],
+          "filenames_mirror" : [ ]
+        } ]
+      }, {
+        "materialCode" : "domo_arco_hellgrau_3674",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_arco_hellgrau_3674"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Struktur]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[hellgrau]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "47872451",
+          "name" : "Sessel (Sessel)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838277.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838279.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838280.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838284.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838285.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838286.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838287.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838288.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15838289.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15838290.jpg" ],
+          "filenames_mirror" : [ ]
+        } ]
+      }, {
+        "materialCode" : "domo_nossa_dolphin_3677",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_nossa_dolphin_3677"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Samtoptik]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[schlamm]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "44939815",
+          "name" : "Sessel (Sessel)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838319.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838321.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838322.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838326.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838327.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838328.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838329.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838330.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15838331.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15838332.jpg" ],
+          "filenames_mirror" : [ ]
+        } ]
+      } ]
+    },
+    "functionModels" : [ ]
+  }, {
+    "productComKey" : "1158909337",
+    "basisOcvModel" : {
+      "materials" : [ {
+        "materialCode" : "domo_nossa_anthrazit_3678",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_nossa_anthrazit_3678"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Samtoptik]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[anthrazit]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "52648141",
+          "name" : "2-Sitzer (2-Sitzer)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838235.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838237.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838238.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838242.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838243.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838244.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838245.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838246.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15838247.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15838248.jpg" ],
+          "filenames_mirror" : [ ]
+        } ]
+      }, {
+        "materialCode" : "domo_arco_blau_3671",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_arco_blau_3671"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Struktur]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[blau]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "33503169",
+          "name" : "2-Sitzer (2-Sitzer)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838431.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838433.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838434.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838438.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838439.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838440.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838441.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838442.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15838443.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15838444.jpg" ],
+          "filenames_mirror" : [ ]
+        } ]
+      }, {
+        "materialCode" : "domo_kira_darkblue_3679",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_kira_darkblue_3679"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Struktur weich]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[dunkelblau]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "96133211",
+          "name" : "2-Sitzer (2-Sitzer)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837829.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837831.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837832.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837836.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837837.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837838.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837839.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837840.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15837841.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15837842.jpg" ],
+          "filenames_mirror" : [ ]
+        } ]
+      }, {
+        "materialCode" : "domo_nossa_hunter_3675",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_nossa_hunter_3675"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Samtoptik]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[dunkelgrün]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "96161149",
+          "name" : "2-Sitzer (2-Sitzer)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837815.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837817.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837818.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837822.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837823.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837824.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837825.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837826.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15837827.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15837828.jpg" ],
+          "filenames_mirror" : [ ]
+        } ]
+      }, {
+        "materialCode" : "domo_kira_scarlet_3680",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_kira_scarlet_3680"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Struktur weich]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[dunkelrot]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "32272555",
+          "name" : "2-Sitzer (2-Sitzer)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838473.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838475.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838476.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838480.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838481.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838482.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838483.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838484.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15838485.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15838486.jpg" ],
+          "filenames_mirror" : [ ]
+        } ]
+      }, {
+        "materialCode" : "Domo_Nossa_gold",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "Domo_Nossa_gold"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Samtoptik]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[goldfarben]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "59294701",
+          "name" : "2-Sitzer (2-Sitzer)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838165.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838167.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838168.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838172.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838173.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838174.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838175.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838176.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15838177.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15838178.jpg" ],
+          "filenames_mirror" : [ ]
+        } ]
+      }, {
+        "materialCode" : "domo_arco_grau_3673",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_arco_grau_3673"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Struktur]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[grau]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "29946503",
+          "name" : "2-Sitzer (2-Sitzer)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838501.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838503.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838504.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838508.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838509.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838510.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838511.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838512.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15838513.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15838514.jpg" ],
+          "filenames_mirror" : [ ]
+        } ]
+      }, {
+        "materialCode" : "domo_arco_gruen_3672",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_arco_gruen_3672"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Struktur]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[grün]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "33308945",
+          "name" : "2-Sitzer (2-Sitzer)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838445.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838447.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838448.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838452.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838453.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838454.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838455.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838456.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15838457.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15838458.jpg" ],
+          "filenames_mirror" : [ ]
+        } ]
+      }, {
+        "materialCode" : "domo_kira_hellgrau_3681",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_kira_hellgrau_3681"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Struktur weich]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[hellgrau]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "71230449",
+          "name" : "2-Sitzer (2-Sitzer)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838011.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838013.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838014.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838018.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838019.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838020.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838021.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838022.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15838023.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15838024.jpg" ],
+          "filenames_mirror" : [ ]
+        } ]
+      }, {
+        "materialCode" : "domo_arco_hellgrau_3674",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_arco_hellgrau_3674"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Struktur]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[hellgrau]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "93190205",
+          "name" : "2-Sitzer (2-Sitzer)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837871.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837873.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837874.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837878.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837879.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837880.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837881.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837882.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15837883.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15837884.jpg" ],
+          "filenames_mirror" : [ ]
+        } ]
+      }, {
+        "materialCode" : "domo_nossa_dolphin_3677",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_nossa_dolphin_3677"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Samtoptik]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[schlamm]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "32462509",
+          "name" : "2-Sitzer (2-Sitzer)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838459.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838461.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838462.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838466.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838467.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838468.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838469.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838470.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15838471.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15838472.jpg" ],
+          "filenames_mirror" : [ ]
+        } ]
+      } ]
+    },
+    "functionModels" : [ ]
+  }, {
+    "productComKey" : "1158909346",
+    "basisOcvModel" : {
+      "materials" : [ {
+        "materialCode" : "domo_nossa_anthrazit_3678",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_nossa_anthrazit_3678"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Samtoptik]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[anthrazit]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "35052203",
+          "name" : "3-Sitzer (3-Sitzer)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838417.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838419.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838420.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838424.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838425.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838426.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838427.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838428.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15838429.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15838430.jpg" ],
+          "filenames_mirror" : [ ]
+        } ]
+      }, {
+        "materialCode" : "domo_arco_blau_3671",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_arco_blau_3671"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Struktur]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[blau]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "61289401",
+          "name" : "3-Sitzer (3-Sitzer)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838109.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838111.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838112.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838116.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838117.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838118.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838119.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838120.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15838121.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15838122.jpg" ],
+          "filenames_mirror" : [ ]
+        } ]
+      }, {
+        "materialCode" : "domo_kira_darkblue_3679",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_kira_darkblue_3679"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Struktur weich]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[dunkelblau]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "36831939",
+          "name" : "3-Sitzer (3-Sitzer)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838389.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838391.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838392.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838396.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838397.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838398.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838399.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838400.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15838401.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15838402.jpg" ],
+          "filenames_mirror" : [ ]
+        } ]
+      }, {
+        "materialCode" : "domo_nossa_hunter_3675",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_nossa_hunter_3675"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Samtoptik]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[dunkelgrün]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "57352461",
+          "name" : "3-Sitzer (3-Sitzer)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838207.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838209.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838210.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838214.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838215.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838216.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838217.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838218.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15838219.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15838220.jpg" ],
+          "filenames_mirror" : [ ]
+        } ]
+      }, {
+        "materialCode" : "domo_kira_scarlet_3680",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_kira_scarlet_3680"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Struktur weich]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[dunkelrot]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "12946169",
+          "name" : "3-Sitzer (3-Sitzer)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838683.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838685.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838686.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838690.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838691.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838692.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838693.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838694.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15838695.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15838696.jpg" ],
+          "filenames_mirror" : [ ]
+        } ]
+      }, {
+        "materialCode" : "Domo_Nossa_gold",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "Domo_Nossa_gold"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Samtoptik]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[goldfarben]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "66493433",
+          "name" : "3-Sitzer (3-Sitzer)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838081.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838083.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838084.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838088.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838089.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838090.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838091.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838092.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15838093.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15838094.jpg" ],
+          "filenames_mirror" : [ ]
+        } ]
+      }, {
+        "materialCode" : "domo_arco_grau_3673",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_arco_grau_3673"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Struktur]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[grau]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "97232065",
+          "name" : "3-Sitzer (3-Sitzer)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837787.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837789.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837790.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837794.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837795.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837796.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837797.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837798.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15837799.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15837800.jpg" ],
+          "filenames_mirror" : [ ]
+        } ]
+      }, {
+        "materialCode" : "domo_arco_gruen_3672",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_arco_gruen_3672"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Struktur]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[grün]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "51214763",
+          "name" : "3-Sitzer (3-Sitzer)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838263.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838265.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838266.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838270.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838271.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838272.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838273.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838274.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15838275.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15838276.jpg" ],
+          "filenames_mirror" : [ ]
+        } ]
+      }, {
+        "materialCode" : "domo_kira_hellgrau_3681",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_kira_hellgrau_3681"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Struktur weich]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[hellgrau]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "84859557",
+          "name" : "3-Sitzer (3-Sitzer)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837927.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837929.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837930.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837934.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837935.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837936.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837937.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837938.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15837939.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15837940.jpg" ],
+          "filenames_mirror" : [ ]
+        } ]
+      }, {
+        "materialCode" : "domo_arco_hellgrau_3674",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_arco_hellgrau_3674"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Struktur]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[hellgrau]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "15840009",
+          "name" : "3-Sitzer (3-Sitzer)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838641.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838643.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838644.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838648.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838649.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838650.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838651.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838652.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15838653.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15838654.jpg" ],
+          "filenames_mirror" : [ ]
+        } ]
+      }, {
+        "materialCode" : "domo_nossa_dolphin_3677",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_nossa_dolphin_3677"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Samtoptik]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[schlamm]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "23258951",
+          "name" : "3-Sitzer (3-Sitzer)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838557.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838559.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838560.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838564.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838565.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838566.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838567.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838568.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15838569.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15838570.jpg" ],
+          "filenames_mirror" : [ ]
+        } ]
+      } ]
+    },
+    "functionModels" : [ ]
+  }, {
+    "productComKey" : "1158909355",
+    "basisOcvModel" : {
+      "materials" : [ {
+        "materialCode" : "domo_nossa_anthrazit_3678",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_nossa_anthrazit_3678"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Samtoptik]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[anthrazit]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "85223849",
+          "name" : "ECK,RECli (ECK,RECli)"
+        }, {
+          "articleNumber" : "91585661",
+          "name" : "ECK,RECre (ECK,RECre)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837913.jpg" ],
+          "filenames_mirror" : [ "15837885.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837915.jpg" ],
+          "filenames_mirror" : [ "15837887.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837916.jpg" ],
+          "filenames_mirror" : [ "15837888.jpg" ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837892.jpg", "15837920.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837893.jpg", "15837921.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837894.jpg", "15837922.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837895.jpg", "15837923.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837896.jpg", "15837924.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15837897.jpg", "15837925.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15837898.jpg", "15837926.jpg" ],
+          "filenames_mirror" : [ ]
+        } ]
+      }, {
+        "materialCode" : "domo_arco_blau_3671",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_arco_blau_3671"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Struktur]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[blau]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "17763339",
+          "name" : "ECK,RECli (ECK,RECli)"
+        }, {
+          "articleNumber" : "94162911",
+          "name" : "ECK,RECre (ECK,RECre)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838599.jpg" ],
+          "filenames_mirror" : [ "15837843.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838601.jpg" ],
+          "filenames_mirror" : [ "15837845.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838602.jpg" ],
+          "filenames_mirror" : [ "15837846.jpg" ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837850.jpg", "15838606.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837851.jpg", "15838607.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837852.jpg", "15838608.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837853.jpg", "15838609.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837854.jpg", "15838610.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15837855.jpg", "15838611.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15837856.jpg", "15838612.jpg" ],
+          "filenames_mirror" : [ ]
+        } ]
+      }, {
+        "materialCode" : "domo_kira_darkblue_3679",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_kira_darkblue_3679"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Struktur weich]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[dunkelblau]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "70444037",
+          "name" : "ECK,RECli (ECK,RECli)"
+        }, {
+          "articleNumber" : "72644917",
+          "name" : "ECK,RECre (ECK,RECre)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838053.jpg" ],
+          "filenames_mirror" : [ "15837997.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838055.jpg" ],
+          "filenames_mirror" : [ "15837999.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838056.jpg" ],
+          "filenames_mirror" : [ "15838000.jpg" ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838004.jpg", "15838060.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838005.jpg", "15838061.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838006.jpg", "15838062.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838007.jpg", "15838063.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838008.jpg", "15838064.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15838009.jpg", "15838065.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15838010.jpg", "15838066.jpg" ],
+          "filenames_mirror" : [ ]
+        } ]
+      }, {
+        "materialCode" : "domo_nossa_hunter_3675",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_nossa_hunter_3675"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Samtoptik]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[dunkelgrün]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "62168045",
+          "name" : "ECK,RECli (ECK,RECli)"
+        }, {
+          "articleNumber" : "69945667",
+          "name" : "ECK,RECre (ECK,RECre)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838095.jpg" ],
+          "filenames_mirror" : [ "15838067.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838097.jpg" ],
+          "filenames_mirror" : [ "15838069.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838098.jpg" ],
+          "filenames_mirror" : [ "15838070.jpg" ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838074.jpg", "15838102.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838075.jpg", "15838103.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838076.jpg", "15838104.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838077.jpg", "15838105.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838078.jpg", "15838106.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15838079.jpg", "15838107.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15838080.jpg", "15838108.jpg" ],
+          "filenames_mirror" : [ ]
+        } ]
+      }, {
+        "materialCode" : "domo_kira_scarlet_3680",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_kira_scarlet_3680"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Struktur weich]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[dunkelrot]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "16007149",
+          "name" : "ECK,RECli (ECK,RECli)"
+        }, {
+          "articleNumber" : "37412537",
+          "name" : "ECK,RECre (ECK,RECre)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838627.jpg" ],
+          "filenames_mirror" : [ "15838375.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838629.jpg" ],
+          "filenames_mirror" : [ "15838377.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838630.jpg" ],
+          "filenames_mirror" : [ "15838378.jpg" ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838382.jpg", "15838634.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838383.jpg", "15838635.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838384.jpg", "15838636.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838385.jpg", "15838637.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838386.jpg", "15838638.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15838387.jpg", "15838639.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15838388.jpg", "15838640.jpg" ],
+          "filenames_mirror" : [ ]
+        } ]
+      }, {
+        "materialCode" : "Domo_Nossa_gold",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "Domo_Nossa_gold"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Samtoptik]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[goldfarben]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "31550803",
+          "name" : "ECK,RECli (ECK,RECli)"
+        }, {
+          "articleNumber" : "98346413",
+          "name" : "ECK,RECre (ECK,RECre)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838487.jpg" ],
+          "filenames_mirror" : [ "15837773.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838489.jpg" ],
+          "filenames_mirror" : [ "15837775.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838490.jpg" ],
+          "filenames_mirror" : [ "15837776.jpg" ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837780.jpg", "15838494.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837781.jpg", "15838495.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837782.jpg", "15838496.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837783.jpg", "15838497.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837784.jpg", "15838498.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15837785.jpg", "15838499.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15837786.jpg", "15838500.jpg" ],
+          "filenames_mirror" : [ ]
+        } ]
+      }, {
+        "materialCode" : "domo_arco_grau_3673",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_arco_grau_3673"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Struktur]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[grau]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "13131853",
+          "name" : "ECK,RECre (ECK,RECre)"
+        }, {
+          "articleNumber" : "43690047",
+          "name" : "ECK,RECli (ECK,RECli)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838333.jpg" ],
+          "filenames_mirror" : [ "15838669.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838335.jpg" ],
+          "filenames_mirror" : [ "15838671.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838336.jpg" ],
+          "filenames_mirror" : [ "15838672.jpg" ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838340.jpg", "15838676.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838341.jpg", "15838677.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838342.jpg", "15838678.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838343.jpg", "15838679.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838344.jpg", "15838680.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15838345.jpg", "15838681.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15838346.jpg", "15838682.jpg" ],
+          "filenames_mirror" : [ ]
+        } ]
+      }, {
+        "materialCode" : "domo_arco_gruen_3672",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_arco_gruen_3672"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Struktur]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[grün]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "41363263",
+          "name" : "ECK,RECre (ECK,RECre)"
+        }, {
+          "articleNumber" : "52902267",
+          "name" : "ECK,RECli (ECK,RECli)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838221.jpg" ],
+          "filenames_mirror" : [ "15838347.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838223.jpg" ],
+          "filenames_mirror" : [ "15838349.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838224.jpg" ],
+          "filenames_mirror" : [ "15838350.jpg" ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838228.jpg", "15838354.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838229.jpg", "15838355.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838230.jpg", "15838356.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838231.jpg", "15838357.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838232.jpg", "15838358.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15838233.jpg", "15838359.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15838234.jpg", "15838360.jpg" ],
+          "filenames_mirror" : [ ]
+        } ]
+      }, {
+        "materialCode" : "domo_kira_hellgrau_3681",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_kira_hellgrau_3681"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Struktur weich]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[hellgrau]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "46150909",
+          "name" : "ECK,RECli (ECK,RECli)"
+        }, {
+          "articleNumber" : "74143809",
+          "name" : "ECK,RECre (ECK,RECre)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838305.jpg" ],
+          "filenames_mirror" : [ "15837969.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838307.jpg" ],
+          "filenames_mirror" : [ "15837971.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15838308.jpg" ],
+          "filenames_mirror" : [ "15837972.jpg" ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837976.jpg", "15838312.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837977.jpg", "15838313.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837978.jpg", "15838314.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837979.jpg", "15838315.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837980.jpg", "15838316.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15837981.jpg", "15838317.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15837982.jpg", "15838318.jpg" ],
+          "filenames_mirror" : [ ]
+        } ]
+      }, {
+        "materialCode" : "domo_arco_hellgrau_3674",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_arco_hellgrau_3674"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Struktur]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[hellgrau]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "21067465",
+          "name" : "ECK,RECre (ECK,RECre)"
+        }, {
+          "articleNumber" : "93958927",
+          "name" : "ECK,RECli (ECK,RECli)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837857.jpg" ],
+          "filenames_mirror" : [ "15838585.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837859.jpg" ],
+          "filenames_mirror" : [ "15838587.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837860.jpg" ],
+          "filenames_mirror" : [ "15838588.jpg" ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837864.jpg", "15838592.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837865.jpg", "15838593.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837866.jpg", "15838594.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837867.jpg", "15838595.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837868.jpg", "15838596.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15837869.jpg", "15838597.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15837870.jpg", "15838598.jpg" ],
+          "filenames_mirror" : [ ]
+        } ]
+      }, {
+        "materialCode" : "domo_nossa_dolphin_3677",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_nossa_dolphin_3677"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Samtoptik]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[schlamm]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "61277933",
+          "name" : "ECK,RECre (ECK,RECre)"
+        }, {
+          "articleNumber" : "81092807",
+          "name" : "ECK,RECli (ECK,RECli)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837941.jpg" ],
+          "filenames_mirror" : [ "15838123.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837943.jpg" ],
+          "filenames_mirror" : [ "15838125.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837944.jpg" ],
+          "filenames_mirror" : [ "15838126.jpg" ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837948.jpg", "15838130.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837949.jpg", "15838131.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837950.jpg", "15838132.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837951.jpg", "15838133.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "filenames" : [ "15837952.jpg", "15838134.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15837953.jpg", "15838135.jpg" ],
+          "filenames_mirror" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "filenames" : [ "15837954.jpg", "15838136.jpg" ],
+          "filenames_mirror" : [ ]
+        } ]
+      } ]
+    },
+    "functionModels" : [ ]
+  } ]
+}

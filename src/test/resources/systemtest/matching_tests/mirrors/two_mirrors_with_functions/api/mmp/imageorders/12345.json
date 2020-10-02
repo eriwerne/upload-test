@@ -1,0 +1,82 @@
+{
+  "Artikel": [
+    {
+      "Artikelnummer": 123456,
+      "Container": [
+        {
+          "ContainerId": 1231,
+          "KombinationsId": null,
+          "Inhaltsklassifizierung": "Produktbild",
+          "Printdarstellung": null,
+          "Ansicht": "Vorderansicht",
+          "Aufnahmeart": null,
+          "Geschlecht des Models": null,
+          "Altersgruppe des Models": null,
+          "Anschnitt des Models": null,
+          "Detailfotografie": null,
+          "Location": null,
+          "Jahreszeiten": null,
+          "Hintergrund": null,
+          "Hintergrundfarbe": null,
+          "Rendering-Components": null
+        },
+        {
+          "ContainerId": 1232,
+          "KombinationsId": null,
+          "Inhaltsklassifizierung": "Produktbild",
+          "Printdarstellung": null,
+          "Ansicht": "Vorderansicht",
+          "Aufnahmeart": null,
+          "Geschlecht des Models": null,
+          "Altersgruppe des Models": null,
+          "Anschnitt des Models": null,
+          "Detailfotografie": "Funktion",
+          "Location": null,
+          "Jahreszeiten": null,
+          "Hintergrund": null,
+          "Hintergrundfarbe": null,
+          "Rendering-Components": null
+        }
+      ]
+    },
+    {
+      "Artikelnummer": 345678,
+      "Container": [
+        {
+          "ContainerId": 3451,
+          "KombinationsId": null,
+          "Inhaltsklassifizierung": "Produktbild",
+          "Printdarstellung": null,
+          "Ansicht": "Vorderansicht",
+          "Aufnahmeart": null,
+          "Geschlecht des Models": null,
+          "Altersgruppe des Models": null,
+          "Anschnitt des Models": null,
+          "Detailfotografie": null,
+          "Location": null,
+          "Jahreszeiten": null,
+          "Hintergrund": null,
+          "Hintergrundfarbe": null,
+          "Rendering-Components": null
+        },
+        {
+          "ContainerId": 3452,
+          "KombinationsId": null,
+          "Inhaltsklassifizierung": "Produktbild",
+          "Printdarstellung": null,
+          "Ansicht": "Vorderansicht",
+          "Aufnahmeart": null,
+          "Geschlecht des Models": null,
+          "Altersgruppe des Models": null,
+          "Anschnitt des Models": null,
+          "Detailfotografie": "Funktion",
+          "Location": null,
+          "Jahreszeiten": null,
+          "Hintergrund": null,
+          "Hintergrundfarbe": null,
+          "Rendering-Components": null
+        }
+      ]
+    }
+  ]
+}

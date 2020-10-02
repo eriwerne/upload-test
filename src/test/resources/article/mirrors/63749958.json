@@ -1,0 +1,309 @@
+[
+  {
+    "ageGroup": null,
+    "articleNumber": "63749958",
+    "assortmentCode": "809",
+    "assortmentName": "Polsterm\u00f6bel",
+    "businessProcessOwnerCode": "3",
+    "businessProcessOwnerDescription": "B2B Wholesale",
+    "businessProcessOwnerId": "2",
+    "buyingGroupCode": "21",
+    "color": "schlamm",
+    "companyId": "0",
+    "companyName": "Otto",
+    "createdAt": "2020-04-22T18:13:25.785+00:00",
+    "deletedAt": null,
+    "dimension1": null,
+    "dimension3": null,
+    "dimension4": null,
+    "gender": null,
+    "id": "1133021167",
+    "itemEfforts": [],
+    "itemOptions": {
+      "1133021168": {
+        "createdAt": "2020-04-22T18:13:25.785+00:00",
+        "deletedAt": null,
+        "dimension2": null,
+        "europeanArticleNumbers": [],
+        "id": "1133021168",
+        "looseCharacteristics": [],
+        "processingSystemCode": "0",
+        "seasonId": "142",
+        "sequence": "179723149",
+        "sizes": [
+          {
+            "description": "Druck Gr\u00f6\u00dfe",
+            "groupKey": null,
+            "primary": "N",
+            "regionId": "1",
+            "size": null,
+            "regionCode": "EU"
+          },
+          {
+            "description": "Einfache Gr\u00f6\u00dfe",
+            "groupKey": null,
+            "primary": "Y",
+            "regionId": "1",
+            "size": null,
+            "regionCode": "EU"
+          },
+          {
+            "description": "ASTA-Bin\u00e4r Gr\u00f6\u00dfe",
+            "groupKey": null,
+            "primary": "N",
+            "regionId": "1",
+            "size": "0",
+            "regionCode": "EU"
+          }
+        ],
+        "suppliers": [
+          {
+            "europeanArticleNumbers": [],
+            "id": "1133021180",
+            "size": "schlamm 14"
+          }
+        ],
+        "updatedAt": "2020-04-22T18:13:25.785+00:00",
+        "@links": {
+          "self": {
+            "href-resource": "tag:mmpas@otto.de,2016:entity",
+            "href-vars": {
+              "entity:id": "1133021168",
+              "entity:version": "179723149",
+              "entity:entity": "item-option"
+            },
+            "href": "https:\/\/api.prod.m2.ov.otto.de\/entity\/item-option\/1133021168\/179723149"
+          },
+          "latest-version": {
+            "href-resource": "tag:mmpas@otto.de,2016:entity",
+            "href-vars": {
+              "entity:id": "1133021168",
+              "entity:entity": "item-option"
+            },
+            "href": "https:\/\/api.prod.m2.ov.otto.de\/entity\/item-option\/1133021168"
+          },
+          "up": {
+            "href-resource": "tag:mmpas@otto.de,2016:entity",
+            "href-vars": {
+              "entity:id": "1133021167",
+              "entity:version": "181693467",
+              "entity:entity": "item"
+            },
+            "href": "https:\/\/api.prod.m2.ov.otto.de\/entity\/item\/1133021167\/181693467"
+          },
+          "root": {
+            "href-resource": "tag:mmpas@otto.de,2016:entity",
+            "href-vars": {
+              "entity:id": "1133019465",
+              "entity:version": "181693466",
+              "entity:entity": "style"
+            },
+            "href": "https:\/\/api.prod.m2.ov.otto.de\/entity\/style\/1133019465\/181693466"
+          }
+        }
+      }
+    },
+    "looseCharacteristics": {
+      "Abriebfestigkeit Bezug": [
+        "3 (ziemlich gut)"
+      ],
+      "Anzahl Armlehnen": [
+        "2"
+      ],
+      "Anzahl F\u00fc\u00dfe": [
+        "14"
+      ],
+      "Anzahl Packst\u00fccke": [
+        "2"
+      ],
+      "Anzahl Sitzfl\u00e4chen": [
+        "5"
+      ],
+      "Art Polsterung": [
+        "PUR-Schaumstoff"
+      ],
+      "Art R\u00fcckenkissen": [
+        "lose"
+      ],
+      "Ausf\u00fchrung": [
+        "mit Bettfunktion und Bettkasten"
+      ],
+      "Bezug": [
+        "Luxus-Microfaser Euphoria"
+      ],
+      "Breite": [
+        "290"
+      ],
+      "Breite Bettkasten": [
+        "119"
+      ],
+      "Breite Liegefl\u00e4che": [
+        "118"
+      ],
+      "Breite R\u00fcckenkissen": [
+        "63"
+      ],
+      "Breite Sitzfl\u00e4che Recamiere": [
+        "93"
+      ],
+      "Farbe": [
+        "fango 16"
+      ],
+      "Farbe F\u00fc\u00dfe": [
+        "silber"
+      ],
+      "Gewicht": [
+        "127"
+      ],
+      "Grundfarbe": [
+        "braun"
+      ],
+      "H\u00f6he Bettkasten": [
+        "21"
+      ],
+      "H\u00f6he F\u00fc\u00dfe": [
+        "12"
+      ],
+      "H\u00f6he R\u00fcckenkissen": [
+        "44"
+      ],
+      "H\u00f6he maximal": [
+        "85"
+      ],
+      "H\u00f6he minimal": [
+        "72"
+      ],
+      "L\u00e4nge Liegefl\u00e4che": [
+        "220"
+      ],
+      "Material F\u00fc\u00dfe": [
+        "Metall"
+      ],
+      "Materialhinweis": [
+        "R\u00fcckseite Originalbezugsquali\u00e4t"
+      ],
+      "Pflegehinweise Bezug": [
+        "abstaubbar",
+        "feucht abwischbar",
+        "nicht waschbar"
+      ],
+      "Pillingbildung Bezug": [
+        "4 (gering)"
+      ],
+      "Raumgewicht": [
+        "30"
+      ],
+      "Scheuerbest\u00e4ndigkeit Bezug": [
+        "20000"
+      ],
+      "Sitzh\u00f6he": [
+        "44"
+      ],
+      "Stellvariante": [
+        "mega-Recamiere links"
+      ],
+      "Tiefe": [
+        "163"
+      ],
+      "Tiefe Bettkasten": [
+        "55"
+      ],
+      "Tiefe Hauptelement": [
+        "90"
+      ],
+      "Tiefe Recamiere": [
+        "163"
+      ],
+      "Tiefe R\u00fcckenkissen": [
+        "20"
+      ],
+      "Tiefe Sitzfl\u00e4che": [
+        "53"
+      ],
+      "Tiefe Sitzfl\u00e4che Recamiere": [
+        "126"
+      ],
+      "Tiefe Sitzfl\u00e4che maximal": [
+        "76"
+      ],
+      "Tiefe Sitzfl\u00e4che minimal": [
+        "53"
+      ],
+      "Vordere Breite Recamiere": [
+        "128"
+      ],
+      "materialComposition": [],
+      "qualityDetails": []
+    },
+    "merchandiseGroupCode": "5",
+    "name": "ECK,RECXLli,FKT,BK",
+    "orderName": "ECK,RECXLli,FKT,BK",
+    "productControlGroup": "11",
+    "seasonId": "142",
+    "sequence": "181693467",
+    "shortName": "ECK,RECXLli,FKT,BK",
+    "sizeTypeCode": "23",
+    "sizeTypeDescription": "N-Gr",
+    "stateContentProductionCode": "5",
+    "stateContentProductionDescription": "Produktionsphase 5 (Mai)",
+    "suppliers": [
+      {
+        "articleName": "LatigoVLgchXLli\/2B+BKreEuphoriaFSCm",
+        "articleNumber": null,
+        "articleWorkName": "Latigo V,ECK,RECXLli,FKT,BK,LMF",
+        "id": "40115",
+        "name": "Steinpol Central Services Sp.z",
+        "primary": "Y",
+        "productDescription": "Steinpol_LMF_Euphoria_schlamm_1090.jpg,5739-7690",
+        "supplierColorDescription": null
+      }
+    ],
+    "updatedAt": "2020-05-12T12:08:25.831+00:00",
+    "@links": {
+      "self": {
+        "href-resource": "tag:mmpas@otto.de,2016:entity",
+        "href-vars": {
+          "entity:id": "1133021167",
+          "entity:version": "181693467",
+          "entity:entity": "item"
+        },
+        "href": "https:\/\/api.prod.m2.ov.otto.de\/entity\/item\/1133021167\/181693467"
+      },
+      "latest-version": {
+        "href-resource": "tag:mmpas@otto.de,2016:entity",
+        "href-vars": {
+          "entity:id": "1133021167",
+          "entity:entity": "item"
+        },
+        "href": "https:\/\/api.prod.m2.ov.otto.de\/entity\/item\/1133021167"
+      },
+      "up": {
+        "href-resource": "tag:mmpas@otto.de,2016:entity",
+        "href-vars": {
+          "entity:id": "1133019465",
+          "entity:version": "181693466",
+          "entity:entity": "style"
+        },
+        "href": "https:\/\/api.prod.m2.ov.otto.de\/entity\/style\/1133019465\/181693466"
+      },
+      "root": {
+        "href-resource": "tag:mmpas@otto.de,2016:entity",
+        "href-vars": {
+          "entity:id": "1133019465",
+          "entity:version": "181693466",
+          "entity:entity": "style"
+        },
+        "href": "https:\/\/api.prod.m2.ov.otto.de\/entity\/style\/1133019465\/181693466"
+      },
+      "predecessor-version": {
+        "href-resource": "tag:mmpas@otto.de,2016:entity",
+        "href-vars": {
+          "entity:id": "1133021167",
+          "entity:version": "179723150",
+          "entity:entity": "item"
+        },
+        "href": "https:\/\/api.prod.m2.ov.otto.de\/entity\/item\/1133021167\/179723150"
+      }
+    }
+  }
+]

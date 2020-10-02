@@ -1,0 +1,299 @@
+[
+  {
+    "ageGroup": null,
+    "articleNumber": "47338030",
+    "assortmentCode": "809",
+    "assortmentName": "Polstermöbel",
+    "businessProcessOwnerCode": "3",
+    "businessProcessOwnerDescription": "B2B Wholesale",
+    "businessProcessOwnerId": "2",
+    "buyingGroupCode": "21",
+    "color": "braun",
+    "colorReference": "steinpol_lars_braun_99",
+    "companyId": "0",
+    "companyName": "Otto",
+    "createdAt": "2020-04-20T20:35:29.924+00:00",
+    "deletedAt": null,
+    "dimension1": "braun",
+    "dimension3": "275 cm, Recamiere links",
+    "dimension4": "Mit Bett- und Armlehnfunktion",
+    "gender": null,
+    "id": "1131932433",
+    "itemEfforts": [],
+    "itemOptions": {
+      "1131932434": {
+        "createdAt": "2020-04-20T20:35:29.924+00:00",
+        "deletedAt": null,
+        "dimension2": "Webstoff",
+        "europeanArticleNumbers": [],
+        "id": "1131932434",
+        "looseCharacteristics": [],
+        "processingSystemCode": "0",
+        "seasonId": "142",
+        "sequence": "180298836",
+        "sizes": [
+          {
+            "description": "ASTA-Binär Größe",
+            "groupKey": null,
+            "primary": "N",
+            "regionId": "1",
+            "size": "0",
+            "regionCode": "EU"
+          },
+          {
+            "description": "Druck Größe",
+            "groupKey": null,
+            "primary": "N",
+            "regionId": "1",
+            "size": null,
+            "regionCode": "EU"
+          },
+          {
+            "description": "Einfache Größe",
+            "groupKey": null,
+            "primary": "Y",
+            "regionId": "1",
+            "size": null,
+            "regionCode": "EU"
+          }
+        ],
+        "suppliers": [
+          {
+            "europeanArticleNumbers": [],
+            "id": "1131932440",
+            "size": "braun 99"
+          }
+        ],
+        "updatedAt": "2020-04-29T01:35:10.519+00:00",
+        "@links": {
+          "self": {
+            "href-resource": "tag:mmpas@otto.de,2016:entity",
+            "href-vars": {
+              "entity:id": "1131932434",
+              "entity:version": "180298836",
+              "entity:entity": "item-option"
+            },
+            "href": "https://api.prod.m2.ov.otto.de/entity/item-option/1131932434/180298836"
+          },
+          "latest-version": {
+            "href-resource": "tag:mmpas@otto.de,2016:entity",
+            "href-vars": {
+              "entity:id": "1131932434",
+              "entity:entity": "item-option"
+            },
+            "href": "https://api.prod.m2.ov.otto.de/entity/item-option/1131932434"
+          },
+          "up": {
+            "href-resource": "tag:mmpas@otto.de,2016:entity",
+            "href-vars": {
+              "entity:id": "1131932433",
+              "entity:version": "183806575",
+              "entity:entity": "item"
+            },
+            "href": "https://api.prod.m2.ov.otto.de/entity/item/1131932433/183806575"
+          },
+          "root": {
+            "href-resource": "tag:mmpas@otto.de,2016:entity",
+            "href-vars": {
+              "entity:id": "1131932217",
+              "entity:version": "183806574",
+              "entity:entity": "style"
+            },
+            "href": "https://api.prod.m2.ov.otto.de/entity/style/1131932217/183806574"
+          }
+        }
+      }
+    },
+    "looseCharacteristics": {
+      "Anzahl Armlehnen": [
+        "2"
+      ],
+      "Anzahl Füße": [
+        "18"
+      ],
+      "Anzahl Packstücke": [
+        "3"
+      ],
+      "Anzahl Sitzflächen": [
+        "4"
+      ],
+      "Art Polsterung": [
+        "PUR-Schaumstoff"
+      ],
+      "Art Rückenkissen": [
+        "lose"
+      ],
+      "Ausführung": [
+        "Mit Bett- und Armlehnfunktion"
+      ],
+      "Ausstattung": [
+        "Rückenkissen"
+      ],
+      "Bezug": [
+        "Webstoff"
+      ],
+      "Bezug Rückenkissen": [
+        "Webstoff"
+      ],
+      "Breite": [
+        "275 cm"
+      ],
+      "Breite Rückenkissen": [
+        "83 cm"
+      ],
+      "Breite Sitzfläche": [
+        "249 cm"
+      ],
+      "Ergänzende Maßangaben": [
+        "Liegefläche (B/T): 83/195 cm"
+      ],
+      "Farbe": [
+        "braun"
+      ],
+      "Farbe Füße": [
+        "schwarz"
+      ],
+      "Gewicht": [
+        "131 kg"
+      ],
+      "Grundfarbe": [
+        "braun"
+      ],
+      "Höhe": [
+        "88 cm"
+      ],
+      "Höhe Füße": [
+        "3 cm"
+      ],
+      "Höhe Rückenkissen": [
+        "45 cm"
+      ],
+      "Höhe maximal": [
+        "88 cm"
+      ],
+      "Höhe minimal": [
+        "71 cm"
+      ],
+      "Material Füße": [
+        "Kunststoff"
+      ],
+      "Materialhinweis": [
+        "Rückseite Originalbezugsqualiät"
+      ],
+      "Pillingbildung Bezug": [
+        "4-5 (gering bis sehr gering)"
+      ],
+      "Raumgewicht": [
+        "30 kg/m³"
+      ],
+      "Scheuerbeständigkeit Bezug": [
+        "100.000 Scheuertouren"
+      ],
+      "Sitzhöhe": [
+        "44 cm"
+      ],
+      "Stellvariante": [
+        "Recamiere links"
+      ],
+      "Tiefe": [
+        "163 cm"
+      ],
+      "Tiefe Hauptelement": [
+        "112 cm"
+      ],
+      "Tiefe Recamiere": [
+        "163 cm"
+      ],
+      "Tiefe Rückenkissen": [
+        "18 cm"
+      ],
+      "Tiefe Sitzfläche": [
+        "97 cm"
+      ],
+      "Tiefe Sitzfläche Recamiere": [
+        "149 cm"
+      ],
+      "Tiefe Sitzfläche maximal": [
+        "97 cm"
+      ],
+      "Tiefe Sitzfläche minimal": [
+        "77 cm"
+      ],
+      "Vordere Breite Recamiere": [
+        "83 cm"
+      ],
+      "materialComposition": [],
+      "qualityDetails": []
+    },
+    "merchandiseGroupCode": "5",
+    "name": "ECK,RECli,FKT,AL",
+    "orderName": "ECK,RECli,FKT,AL",
+    "productControlGroup": "11",
+    "seasonId": "142",
+    "sequence": "183806575",
+    "shortName": "ECK,RECli,FKT,AL",
+    "sizeTypeCode": "23",
+    "sizeTypeDescription": "N-Gr",
+    "stateContentProductionCode": "5",
+    "stateContentProductionDescription": "Produktionsphase 5 (Mai)",
+    "suppliers": [
+      {
+        "articleName": "IkarusVLgchli/1sit/1-BettLarsFSCm",
+        "articleNumber": null,
+        "articleWorkName": "IkarusVECK,RECli,FKT,AL,WEB",
+        "id": "40115",
+        "name": "Steinpol Central Services Sp.z",
+        "primary": "Y",
+        "productDescription": "Steinpol_Lars_braun_1130.jpgArtikelnummer:5704-5363",
+        "supplierColorDescription": null
+      }
+    ],
+    "updatedAt": "2020-05-29T10:17:23.751+00:00",
+    "@links": {
+      "self": {
+        "href-resource": "tag:mmpas@otto.de,2016:entity",
+        "href-vars": {
+          "entity:id": "1131932433",
+          "entity:version": "183806575",
+          "entity:entity": "item"
+        },
+        "href": "https://api.prod.m2.ov.otto.de/entity/item/1131932433/183806575"
+      },
+      "latest-version": {
+        "href-resource": "tag:mmpas@otto.de,2016:entity",
+        "href-vars": {
+          "entity:id": "1131932433",
+          "entity:entity": "item"
+        },
+        "href": "https://api.prod.m2.ov.otto.de/entity/item/1131932433"
+      },
+      "up": {
+        "href-resource": "tag:mmpas@otto.de,2016:entity",
+        "href-vars": {
+          "entity:id": "1131932217",
+          "entity:version": "183806574",
+          "entity:entity": "style"
+        },
+        "href": "https://api.prod.m2.ov.otto.de/entity/style/1131932217/183806574"
+      },
+      "root": {
+        "href-resource": "tag:mmpas@otto.de,2016:entity",
+        "href-vars": {
+          "entity:id": "1131932217",
+          "entity:version": "183806574",
+          "entity:entity": "style"
+        },
+        "href": "https://api.prod.m2.ov.otto.de/entity/style/1131932217/183806574"
+      },
+      "predecessor-version": {
+        "href-resource": "tag:mmpas@otto.de,2016:entity",
+        "href-vars": {
+          "entity:id": "1131932433",
+          "entity:version": "180298837",
+          "entity:entity": "item"
+        },
+        "href": "https://api.prod.m2.ov.otto.de/entity/item/1131932433/180298837"
+      }
+    }
+  }
+]

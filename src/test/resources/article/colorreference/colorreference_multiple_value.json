@@ -1,0 +1,246 @@
+[
+  {
+    "ageGroup": null,
+    "articleNumber": "23376315",
+    "assortmentCode": "809",
+    "assortmentName": "Polstermöbel",
+    "businessProcessOwnerCode": "3",
+    "businessProcessOwnerDescription": "B2B Wholesale",
+    "businessProcessOwnerId": "2",
+    "buyingGroupCode": "21",
+    "color": "hgrau/anthr",
+    "colorReference": "Korp: bleul_microvelour_hellgrau_001/0056 / Sitz+Rücken+Kissen: bleul__anthrazit_004/157",
+    "companyId": "0",
+    "companyName": "Otto",
+    "createdAt": "2020-03-25T11:22:56.439+00:00",
+    "deletedAt": null,
+    "dimension1": "hellgrau/anthrazit",
+    "dimension3": null,
+    "dimension4": null,
+    "gender": null,
+    "id": "1117692161",
+    "itemEfforts": [],
+    "itemOptions": {
+      "1117692162": {
+        "createdAt": "2020-03-25T11:22:56.439+00:00",
+        "deletedAt": null,
+        "dimension2": "Microfaser PRIMABELLE® / Struktur",
+        "europeanArticleNumbers": [],
+        "id": "1117692162",
+        "looseCharacteristics": [],
+        "processingSystemCode": "0",
+        "seasonId": "141",
+        "sequence": "176778963",
+        "sizes": [
+          {
+            "description": "ASTA-Binär Größe",
+            "groupKey": null,
+            "primary": "N",
+            "regionId": "1",
+            "size": "0",
+            "regionCode": "EU"
+          },
+          {
+            "description": "Einfache Größe",
+            "groupKey": null,
+            "primary": "Y",
+            "regionId": "1",
+            "size": null,
+            "regionCode": "EU"
+          },
+          {
+            "description": "Druck Größe",
+            "groupKey": null,
+            "primary": "N",
+            "regionId": "1",
+            "size": null,
+            "regionCode": "EU"
+          }
+        ],
+        "suppliers": [
+          {
+            "europeanArticleNumbers": [],
+            "id": "1117692168",
+            "size": "hellgrau 001/056/ anthrazit 004/157"
+          }
+        ],
+        "updatedAt": "2020-04-03T01:32:58.933+00:00",
+        "@links": {
+          "self": {
+            "href-resource": "tag:mmpas@otto.de,2016:entity",
+            "href-vars": {
+              "entity:id": "1117692162",
+              "entity:version": "176778963",
+              "entity:entity": "item-option"
+            },
+            "href": "https://api.prod.m2.ov.otto.de/entity/item-option/1117692162/176778963"
+          },
+          "latest-version": {
+            "href-resource": "tag:mmpas@otto.de,2016:entity",
+            "href-vars": {
+              "entity:id": "1117692162",
+              "entity:entity": "item-option"
+            },
+            "href": "https://api.prod.m2.ov.otto.de/entity/item-option/1117692162"
+          },
+          "up": {
+            "href-resource": "tag:mmpas@otto.de,2016:entity",
+            "href-vars": {
+              "entity:id": "1117692161",
+              "entity:version": "183805849",
+              "entity:entity": "item"
+            },
+            "href": "https://api.prod.m2.ov.otto.de/entity/item/1117692161/183805849"
+          },
+          "root": {
+            "href-resource": "tag:mmpas@otto.de,2016:entity",
+            "href-vars": {
+              "entity:id": "1117692041",
+              "entity:version": "183805848",
+              "entity:entity": "style"
+            },
+            "href": "https://api.prod.m2.ov.otto.de/entity/style/1117692041/183805848"
+          }
+        }
+      }
+    },
+    "looseCharacteristics": {
+      "Anzahl Packstücke": [
+        "1"
+      ],
+      "Bezug": [
+        "Microfaser PRIMABELLE®",
+        "Struktur"
+      ],
+      "Bezug Korpus": [
+        "Microfaser PRIMABELLE®"
+      ],
+      "Bezug Sitzfläche": [
+        "Struktur"
+      ],
+      "Breite Sitzfläche": [
+        "100 cm"
+      ],
+      "Farbe": [
+        "hellgrau/anthrazit"
+      ],
+      "Farbe Füße": [
+        "chrom"
+      ],
+      "Farbe Korpus": [
+        "hellgrau"
+      ],
+      "Farbe Sitzfläche": [
+        "anthrazit"
+      ],
+      "Grundfarbe": [
+        "grau"
+      ],
+      "Höhe": [
+        "45 cm"
+      ],
+      "Höhe Füße": [
+        "10 cm"
+      ],
+      "Material Füße": [
+        "Kunststoff"
+      ],
+      "Material Untergestell": [
+        "Holzwerkstoff"
+      ],
+      "Pflegehinweise Bezug": [
+        "Bitte die Pflegehinweise gemäß unserem beiliegenden Produkt- und Materialpass beachten."
+      ],
+      "Pillingbildung Bezug": [
+        "4 (gering)"
+      ],
+      "Raumgewicht": [
+        "30 kg/m³"
+      ],
+      "Scheuerbeständigkeit Bezug": [
+        "43000 Scheuertouren"
+      ],
+      "Sitzhöhe": [
+        "45 cm"
+      ],
+      "Tiefe": [
+        "82 cm"
+      ],
+      "Tiefe Sitzfläche": [
+        "82 cm"
+      ],
+      "materialComposition": [],
+      "qualityDetails": []
+    },
+    "merchandiseGroupCode": "5",
+    "name": "Hocker",
+    "orderName": "Hocker ",
+    "productControlGroup": "11",
+    "seasonId": "141",
+    "sequence": "183805849",
+    "shortName": "Hocker",
+    "sizeTypeCode": "23",
+    "sizeTypeDescription": "N-Gr",
+    "stateContentProductionCode": "4",
+    "stateContentProductionDescription": "Produktionsphase 4 (April)",
+    "suppliers": [
+      {
+        "articleName": "Insbruck ,Hocker ,/FSCm",
+        "articleNumber": null,
+        "articleWorkName": "Insbruck ,Hocker ,/",
+        "id": "41252",
+        "name": "FormFlex Sp.o.o.",
+        "primary": "Y",
+        "productDescription": "TDF__silbergrau_43.jpg/Bleul_ST_anthrazit_601.jpg",
+        "supplierColorDescription": null
+      }
+    ],
+    "updatedAt": "2020-05-29T10:17:12.917+00:00",
+    "@links": {
+      "self": {
+        "href-resource": "tag:mmpas@otto.de,2016:entity",
+        "href-vars": {
+          "entity:id": "1117692161",
+          "entity:version": "183805849",
+          "entity:entity": "item"
+        },
+        "href": "https://api.prod.m2.ov.otto.de/entity/item/1117692161/183805849"
+      },
+      "latest-version": {
+        "href-resource": "tag:mmpas@otto.de,2016:entity",
+        "href-vars": {
+          "entity:id": "1117692161",
+          "entity:entity": "item"
+        },
+        "href": "https://api.prod.m2.ov.otto.de/entity/item/1117692161"
+      },
+      "up": {
+        "href-resource": "tag:mmpas@otto.de,2016:entity",
+        "href-vars": {
+          "entity:id": "1117692041",
+          "entity:version": "183805848",
+          "entity:entity": "style"
+        },
+        "href": "https://api.prod.m2.ov.otto.de/entity/style/1117692041/183805848"
+      },
+      "root": {
+        "href-resource": "tag:mmpas@otto.de,2016:entity",
+        "href-vars": {
+          "entity:id": "1117692041",
+          "entity:version": "183805848",
+          "entity:entity": "style"
+        },
+        "href": "https://api.prod.m2.ov.otto.de/entity/style/1117692041/183805848"
+      },
+      "predecessor-version": {
+        "href-resource": "tag:mmpas@otto.de,2016:entity",
+        "href-vars": {
+          "entity:id": "1117692161",
+          "entity:version": "176778964",
+          "entity:entity": "item"
+        },
+        "href": "https://api.prod.m2.ov.otto.de/entity/item/1117692161/176778964"
+      }
+    }
+  }
+]
