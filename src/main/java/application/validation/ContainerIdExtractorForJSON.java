@@ -29,10 +29,10 @@ public class ContainerIdExtractorForJSON implements ContainerIdExtractor {
     private void addAllContainerIdsInMaterials(List<String> actualContainerIds, List<JsonNodeMaterials> jsonNodeMaterials) {
         for (JsonNodeMaterials jsonNodeMaterial : jsonNodeMaterials) {
             for (JsonNodeImage jsonNodeImage : jsonNodeMaterial.getImages()) {
-                if (jsonNodeImage.getFilenames() != null)
-                    actualContainerIds.addAll(jsonNodeImage.getFilenames());
-                if (jsonNodeImage.getFilenames_mirror() != null)
-                    actualContainerIds.addAll(jsonNodeImage.getFilenames_mirror());
+                if (jsonNodeImage.getRecamiereOttomaneLinks() != null)
+                    actualContainerIds.addAll(jsonNodeImage.getRecamiereOttomaneLinks());
+                if (jsonNodeImage.getRecamiereOttomaneRechts() != null)
+                    actualContainerIds.addAll(jsonNodeImage.getRecamiereOttomaneRechts());
             }
         }
     }

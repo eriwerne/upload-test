@@ -127,8 +127,8 @@ public class CsvFormat implements OutputFormat {
                 "Detailfotografie",
                 "Ansicht",
                 "Aufnahmeart",
-                "Filenames",
-                "FilenamesMirror"
+                "Recamiere/Ottomane links",
+                "Recamiere/Ottomane rechts"
         };
     }
 
