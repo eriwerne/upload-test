@@ -33,3 +33,4 @@ dl/
 systemtest_execution
 cache
 .serverless
+src/main/generated

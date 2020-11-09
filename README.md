@@ -181,9 +181,11 @@ Datenschiefstände in den Aufträgen, die z.B. aus falsch gepflegten Daten in M2
 Für die Prüfung wird die Main-Methode der Klasse devtools.ArticleQualityInspector ausgeführt.
 Die Ausgabe der Main-Funktion gibt zwei Merkmale der Artikel aus:
 - Material-ID:
-Da die Material-ID verwendet wird, um zusammengehörige Artikel zu gruppieren, darf die Material-ID an keinem der Artikel fehlen. 
+Da die Material-ID verwendet wird, um zusammengehörige Artikel zu gruppieren, darf die Material-ID an keinem der Artikel fehlen bzw. falsche Angaben beinhalten. 
 Fehlende Material-IDs werden dem CGI-Mitarbeiter mitgeteilt, der den Category-Mitarbeiter darauf hinweist, diese nachzutragen.
-Artikelnummern mit fehlenden Material-IDs werden in der Ausgabe folgendermaßen ausgegeben:
+Ebenfalls ist es vorgekommen, dass Material-Ids nicht mit der technischen Bezeichnung sondern einem Dateinamen z.B. my_material_id.jpg angegeben wurden.
+Deshalb wird ebenfalls auf die Dateiendung jpg bzw. jpeg geprüft, um dadurch falsche Angaben bei der Material-Id zu identifizieren.
+Artikelnummern mit fehlenden oder falscher Material-IDs werden in der Ausgabe folgendermaßen ausgegeben:
 ```bash
 Article numbers with invalid material:
 ```

@@ -10,6 +10,7 @@ import core.article.exceptions.InvalidArticleData;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 public class ArticleMaterialQualityInspector {
 
@@ -19,12 +20,15 @@ public class ArticleMaterialQualityInspector {
         articleReader = new ArticleReader();
     }
 
-    public List<String> getArticleNumbersWithInvalidMaterial(List<String> articleNumbers) throws ResourceFailure, InvalidArticleData, ArticleNotFound, PersisterFailure {
-        ArrayList<String> invalidArticles = new ArrayList<>();
+    public Map<String, String> getInvalidArticleMaterialId(List<String> articleNumbers) throws ResourceFailure, InvalidArticleData, ArticleNotFound, PersisterFailure {
+        Map<String, String> invalidArticleMaterialId = new HashMap<>();
         HashMap<String, Article> articles = articleReader.readArticles(articleNumbers);
-        for (Article article : articles.values())
-            if (article.getMaterials().getMaterialCode() == null)
-                invalidArticles.add(article.getArticleNumber());
-        return invalidArticles;
+        for (Article article : articles.values()) {
+            String materialCode = article.getMaterials().getMaterialCode();
+            if (materialCode == null || materialCode.contains(".jpg") || materialCode.contains(".jpeg")) {
+                invalidArticleMaterialId.put(article.getArticleNumber(), materialCode);
+            }
+        }
+        return invalidArticleMaterialId;
     }
 }

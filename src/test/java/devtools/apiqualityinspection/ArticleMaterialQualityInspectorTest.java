@@ -11,6 +11,7 @@ import utils.UnitTest;
 
 import java.util.Arrays;
 import java.util.List;
+import java.util.Map;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;
@@ -26,18 +27,18 @@ public class ArticleMaterialQualityInspectorTest extends UnitTest {
     }
 
     @Test
-    public void when_all_articles_in_order_have_material_information_then_it_returns_an_empty_list() throws ResourceFailure, InvalidArticleData, ArticleNotFound, PersisterFailure {
+    public void when_all_articles_in_order_have_valid_material_information_then_it_returns_an_empty_list() throws ResourceFailure, InvalidArticleData, ArticleNotFound, PersisterFailure {
         String articleNumberValid = "123456";
 
         m2Mock.mockM2ApiResponse("material/article/valid_material/123456.json", articleNumberValid);
 
-        List<String> act = cut.getArticleNumbersWithInvalidMaterial(Arrays.asList(articleNumberValid));
+        Map<String, String> act = cut.getInvalidArticleMaterialId(Arrays.asList(articleNumberValid));
 
         assertEquals(0, act.size());
     }
 
     @Test
-    public void when_some_articles_in_order_dont_have_material_information_then_it_returns_these_article_numbers() throws ResourceFailure, InvalidArticleData, ArticleNotFound, PersisterFailure {
+    public void when_some_articles_in_order_have_material_information_null_then_it_returns_these_article_numbers() throws ResourceFailure, InvalidArticleData, ArticleNotFound, PersisterFailure {
         String articleNumberValid = "123456";
         String articleNumberInvalid1 = "234567";
         String articleNumberInvalid2 = "345678";
@@ -46,9 +47,25 @@ public class ArticleMaterialQualityInspectorTest extends UnitTest {
         m2Mock.mockM2ApiResponse("material/article/invalid_material/234567.json", articleNumberInvalid1);
         m2Mock.mockM2ApiResponse("material/article/invalid_material/345678.json", articleNumberInvalid2);
 
-        List<String> act = cut.getArticleNumbersWithInvalidMaterial(Arrays.asList(articleNumberInvalid1, articleNumberInvalid2, articleNumberValid));
+        Map<String, String> act = cut.getInvalidArticleMaterialId(Arrays.asList(articleNumberInvalid1, articleNumberInvalid2, articleNumberValid));
 
-        assertTrue(act.contains(articleNumberInvalid1));
-        assertTrue(act.contains(articleNumberInvalid2));
+        assertTrue(act.containsKey(articleNumberInvalid1));
+        assertEquals(null, act.get(articleNumberInvalid1));
+        assertTrue(act.containsKey(articleNumberInvalid2));
+        assertEquals(null, act.get(articleNumberInvalid2));
+    }
+
+    @Test
+    public void when_some_articles_in_order_have_material_information_containing_jpg_then_it_returns_these_article_numbers() throws ResourceFailure, InvalidArticleData, ArticleNotFound, PersisterFailure {
+        String articleNumberValid = "123456";
+        String articleNumberInvalid1 = "456789";
+
+        m2Mock.mockM2ApiResponse("material/article/valid_material/123456.json", articleNumberValid);
+        m2Mock.mockM2ApiResponse("material/article/invalid_material/456789.json", articleNumberInvalid1);
+
+        Map<String, String> act = cut.getInvalidArticleMaterialId(Arrays.asList(articleNumberInvalid1, articleNumberValid));
+
+        assertTrue(act.containsKey(articleNumberInvalid1));
+        assertEquals("steinpol_altara_nubuck_blau.jpg", act.get(articleNumberInvalid1));
     }
 }

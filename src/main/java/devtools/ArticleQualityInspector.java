@@ -11,17 +11,18 @@ import devtools.apiqualityinspection.ArticleMaterialQualityInspector;
 
 import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 class ArticleQualityInspector {
     public static void main(String[] args) throws ResourceFailure, OrderNotFound, InvalidArticleData, ArticleNotFound, PersisterFailure {
         String orderNumber = System.getenv("ORDER_NUMBER");
         List<String> articleNumbers = new OrderReader().readArticleNumbersInOrder(orderNumber);
 
-        List<String> articleNumbersWithInvalidMaterial = getMaterialQuality(articleNumbers);
+        Map<String, String> invalidArticleMaterialId = getMaterialQuality(articleNumbers);
         HashMap<String, HashMap<String, List<String>>> functionStyleArticles = getFunctionQuality(articleNumbers);
 
         showHead(articleNumbers);
-        showMaterialQuality(articleNumbersWithInvalidMaterial);
+        showMaterialQuality(invalidArticleMaterialId);
         showFunctionQuality(functionStyleArticles);
     }
 
@@ -30,9 +31,9 @@ class ArticleQualityInspector {
         return functionQualityChecker.getArticleFunctions(articleNumbers);
     }
 
-    private static List<String> getMaterialQuality(List<String> articleNumbers) throws ResourceFailure, InvalidArticleData, ArticleNotFound, PersisterFailure {
+    private static Map<String, String> getMaterialQuality(List<String> articleNumbers) throws ResourceFailure, InvalidArticleData, ArticleNotFound, PersisterFailure {
         ArticleMaterialQualityInspector materialQualityChecker = new ArticleMaterialQualityInspector();
-        return materialQualityChecker.getArticleNumbersWithInvalidMaterial(articleNumbers);
+        return materialQualityChecker.getInvalidArticleMaterialId(articleNumbers);
     }
 
     private static void showHead(List<String> articleNumbers) {
@@ -53,7 +54,7 @@ class ArticleQualityInspector {
         }
     }
 
-    private static void showMaterialQuality(List<String> articleNumbersWithInvalidMaterial) {
+    private static void showMaterialQuality(Map<String, String> articleNumbersWithInvalidMaterial) {
         System.out.println("Article numbers with invalid material:");
         System.out.println(articleNumbersWithInvalidMaterial);
     }

@@ -29,13 +29,13 @@ public class AwsSecretsManager implements CredentialStore {
     }
 
     private Map<String, Object> initSecretsMap() {
-        AWSSecretsManager client = AWSSecretsManagerClientBuilder.standard()
+        AWSSecretsManager awsSecretsManager = AWSSecretsManagerClientBuilder.standard()
                 .withRegion(Configuration.awsRegion)
                 .build();
         GetSecretValueRequest getSecretValueRequest = new GetSecretValueRequest()
                 .withSecretId(Configuration.secretName);
 
-        GetSecretValueResult getSecretValueResult = client.getSecretValue(getSecretValueRequest);
+        GetSecretValueResult getSecretValueResult = awsSecretsManager.getSecretValue(getSecretValueRequest);
 
         String secret = getSecretValueResult.getSecretString();
 
