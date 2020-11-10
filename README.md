@@ -182,7 +182,7 @@ Für die Prüfung wird die Main-Methode der Klasse devtools.ArticleQualityInspec
 Die Ausgabe der Main-Funktion gibt zwei Merkmale der Artikel aus:
 - Material-ID:
 Da die Material-ID verwendet wird, um zusammengehörige Artikel zu gruppieren, darf die Material-ID an keinem der Artikel fehlen bzw. falsche Angaben beinhalten. 
-Fehlende Material-IDs werden dem CGI-Mitarbeiter mitgeteilt, der den Category-Mitarbeiter darauf hinweist, diese nachzutragen.
+Fehlende Material-IDs werden dem CGI-Mitarbeiter mitgeteilt, der den Category-Mitarbeiter darauf hinweist, diese im Primary (Hinweis: X-FIT, Merkmal_KZ = 1062, ART_MERKMAL) nachzutragen.
 Ebenfalls ist es vorgekommen, dass Material-Ids nicht mit der technischen Bezeichnung sondern einem Dateinamen z.B. my_material_id.jpg angegeben wurden.
 Deshalb wird ebenfalls auf die Dateiendung jpg bzw. jpeg geprüft, um dadurch falsche Angaben bei der Material-Id zu identifizieren.
 Artikelnummern mit fehlenden oder falscher Material-IDs werden in der Ausgabe folgendermaßen ausgegeben:
@@ -192,8 +192,10 @@ Article numbers with invalid material:
 - Funktionen:
 Da die Angaben der Funktionen dem CGI-Studio als Hilfestellung dienen, welche Funktionsbilder zu produzieren sind, werden vorab die Artikeldaten auf Unstimmigkeiten bei den Funktionsbezeichnungen geprüft.
 Bspw. könnten in diesen Feldern fälchlicher Weise Bezeichnungen auftauchen, die keine Funktionen sind (z.B. Materialien), oder widersprüchliche Angaben gepflegt sein (z.B. mit Liegefläche und ohne Bettfunktion ).
+Es könnte auch vorkommen, dass zu einem Artikel mit Funktionen im Quellsystem keine Informationen über die Funktionen vorhanden sind.
+Dies wäre daran zu erkennen, dass ein Artikel bspw. die Bezeichnung "ECK,OTTre,FKT,BK,KV" für „Ecksofa, Ottomane rechts, Funktion, Bettkasten, Kopfteilverstellung" trägt aber keine Funktionen in der Analyse zugeordnet hat.
 Darum sind diese Angaben manuell auf Sinnhaftigkeit zu prüfen und bei Unstimmigkeiten der CGI-Mitarbeiter heranzuziehen. 
-Die Korrektur der Daten geschieht in Primary.
+Die Korrektur der Daten geschieht in Primary (Hinweis: X-FIT, Merkmal 1066).
 Die Funktionsbezeichungen und die dazugehörigen Artikel werden unter folgender Ausgabe aufgeführt:
 ```bash
 Article functions:
@@ -205,6 +207,8 @@ Nach Aufruf der Main-Funktion werden die Dateien unter dem Pfad ```[Auftragsnumm
 Zusätzlich werden unter dem Ordner ```cache/``` die Auftrags- und Artikeldaten lokal persistiert.
 Dadurch ist bei einer erneuten Ausführung keine Verbindung zu M2 oder MMP notwendig.
 ## Abschluss
+Nachdem die Dateien erstellt wurden, sollten diese noch stichprobenartig auf Plausibilität geprüft werden. 
+Interesant sind z.B. die Verknüpfungen der Artikel mit Duplikaten und Konterungen und das Vorhandensein aller relevanter Funktionen laut Artikelbezeichnung.
 Die erstellten Dateien werden dem CGI-Mitarbeiter, der den Auftrag erstellt hat, manuell zugesendet.
 Dieser kümmert sich an die Weiterleitung an das CGI-Studio.
 

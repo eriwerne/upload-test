@@ -36,7 +36,7 @@ public class ArticleFunctionQualityInspectorTest extends UnitTest {
         m2Mock.mockM2ApiResponse("article/functions/10297422_function_a_ausstattung.json", article2FunctionA);
         m2Mock.mockM2ApiResponse("article/functions/10297423_function_b_ausstattung.json", article1FunctionB);
 
-        HashMap<String, HashMap<String, List<String>>> act = cut.getArticleFunctions(Arrays.asList(article1FunctionA, article2FunctionA, article1FunctionB));
+        HashMap<String, HashMap<String, HashMap<String, String>>> act = cut.getArticleFunctions(Arrays.asList(article1FunctionA, article2FunctionA, article1FunctionB));
 
         assertEquals(2, act.size());
         assertTrue(act.containsKey("Function A"));
@@ -48,11 +48,11 @@ public class ArticleFunctionQualityInspectorTest extends UnitTest {
         assertTrue(getAllArticleNumbersForFunction(act, "Function B").contains(article1FunctionB));
     }
 
-    private List<String> getAllArticleNumbersForFunction(HashMap<String, HashMap<String, List<String>>> act, String function) {
-        HashMap<String, List<String>> styleArticles = act.get(function);
+    private List<String> getAllArticleNumbersForFunction(HashMap<String, HashMap<String, HashMap<String, String>>> act, String function) {
+        HashMap<String, HashMap<String, String>> styleArticles = act.get(function);
         ArrayList<String> articleNumbers = new ArrayList<>();
         for (String style : new ArrayList<>(styleArticles.keySet()))
-            articleNumbers.addAll(styleArticles.get(style));
+            articleNumbers.addAll(styleArticles.get(style).keySet());
         return articleNumbers;
     }
 }
