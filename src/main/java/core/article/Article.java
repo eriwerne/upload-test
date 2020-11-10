@@ -43,7 +43,7 @@ public class Article implements Serializable {
         if (articleFunctions == null)
             return false;
         for (String function : articleFunctions)
-            if (!function.matches("([oO])hne \\S*"))
+            if (!function.matches("([oO])hne \\S*( und \\S*)?"))
                 return true;
         return false;
     }

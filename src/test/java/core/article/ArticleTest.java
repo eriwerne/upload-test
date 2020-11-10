@@ -53,7 +53,7 @@ public class ArticleTest extends UnitTest {
     @Test
     public void when_article_is_constructed_with_a_string_containing_only_function_starting_with_ohne_then_all_functions_are_dropped() {
         HashSet<String> functions = new HashSet<>();
-        functions.add("ohne Bettfunktion, ohne Bettkasten, ohne Kopfstütze");
+        functions.add("Ohne Bettfunktion, ohne Bettkasten, Ohne Kopfstütze und Stauraum");
         Article article = createArticleForFunction(functions);
         assertEquals(0, article.getArticleFunctions().size());
     }
