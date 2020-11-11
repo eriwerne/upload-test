@@ -29,8 +29,8 @@
           "detailfotografie" : "",
           "ansicht" : "Vorderansicht",
           "aufnahmeart" : "",
-          "filenames" : [ "3451.jpg" ],
-          "filenames_mirror" : [ ]
+          "recamiereOttomaneLinks" : [ "3451.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
         } ]
       } ]
     },
@@ -62,8 +62,8 @@
           "detailfotografie" : "Funktion",
           "ansicht" : "Vorderansicht",
           "aufnahmeart" : "",
-          "filenames" : [ "3452.jpg" ],
-          "filenames_mirror" : [ ]
+          "recamiereOttomaneLinks" : [ "3452.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
         } ]
       } ]
     } ]
@@ -96,8 +96,8 @@
           "detailfotografie" : "",
           "ansicht" : "Vorderansicht",
           "aufnahmeart" : "",
-          "filenames" : [ "1231.jpg" ],
-          "filenames_mirror" : [ ]
+          "recamiereOttomaneLinks" : [ "1231.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
         } ]
       } ]
     },
@@ -129,8 +129,8 @@
           "detailfotografie" : "Funktion",
           "ansicht" : "Vorderansicht",
           "aufnahmeart" : "",
-          "filenames" : [ "1232.jpg" ],
-          "filenames_mirror" : [ ]
+          "recamiereOttomaneLinks" : [ "1232.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
         } ]
       } ]
     } ]

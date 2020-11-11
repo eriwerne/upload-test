@@ -29,8 +29,8 @@
           "detailfotografie" : "",
           "ansicht" : "Vorderansicht",
           "aufnahmeart" : "",
-          "filenames" : [ "2345.jpg" ],
-          "filenames_mirror" : [ ]
+          "recamiereOttomaneLinks" : [ "2345.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
         } ]
       } ]
     },
@@ -62,8 +62,8 @@
           "detailfotografie" : "Funktion",
           "ansicht" : "Vorderansicht",
           "aufnahmeart" : "",
-          "filenames" : [ "4567.jpg" ],
-          "filenames_mirror" : [ ]
+          "recamiereOttomaneLinks" : [ "4567.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
         } ]
       } ]
     } ]

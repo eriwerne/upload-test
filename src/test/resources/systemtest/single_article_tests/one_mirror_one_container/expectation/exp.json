@@ -29,8 +29,8 @@
           "detailfotografie" : "",
           "ansicht" : "Vorderansicht",
           "aufnahmeart" : "",
-          "filenames" : [ ],
-          "filenames_mirror" : [ "2345.jpg" ]
+          "recamiereOttomaneLinks" : [ ],
+          "recamiereOttomaneRechts" : [ "2345.jpg" ]
         } ]
       } ]
     },
