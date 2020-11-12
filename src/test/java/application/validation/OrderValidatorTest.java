@@ -19,6 +19,7 @@ import core.image.ImageOrder;
 import injection.ArticleReaderSourceMock;
 import injection.ImageOrderReaderSourceMock;
 import injection.OrderReaderSourceMock;
+import injection.PersisterMock;
 import org.junit.Before;
 import org.junit.Test;
 import utils.ResourceFileReader;
@@ -47,6 +48,7 @@ public class OrderValidatorTest extends UnitTest {
 
     @Before
     public void setup() {
+        new PersisterMock();
         orderReaderSourceMock = new OrderReaderSourceMock().getOrderReaderSourceMock();
         articleReaderSourceMock = new ArticleReaderSourceMock().getArticleReaderSourceMock();
         imageOrderReaderSourceMock = new ImageOrderReaderSourceMock().getImageOrderReaderSourceMock();

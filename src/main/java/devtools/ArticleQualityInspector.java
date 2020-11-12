@@ -1,6 +1,5 @@
 package devtools;
 
-import application.output.PersisterFailure;
 import application.reading.exception.ArticleNotFound;
 import application.reading.exception.OrderNotFound;
 import application.reading.exception.ResourceFailure;
@@ -13,10 +12,8 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import static java.lang.String.format;
-
 class ArticleQualityInspector {
-    public static void main(String[] args) throws ResourceFailure, OrderNotFound, InvalidArticleData, ArticleNotFound, PersisterFailure {
+    public static void main(String[] args) throws ResourceFailure, OrderNotFound, InvalidArticleData, ArticleNotFound {
         String orderNumber = System.getenv("ORDER_NUMBER");
         List<String> articleNumbers = new OrderReader().readArticleNumbersInOrder(orderNumber);
 
@@ -28,12 +25,12 @@ class ArticleQualityInspector {
         showFunctionQuality(functionStyleArticles);
     }
 
-    private static HashMap<String, HashMap<String, HashMap<String, String>>> getFunctionQuality(List<String> articleNumbers) throws ResourceFailure, InvalidArticleData, ArticleNotFound, PersisterFailure {
+    private static HashMap<String, HashMap<String, HashMap<String, String>>> getFunctionQuality(List<String> articleNumbers) throws ResourceFailure, InvalidArticleData, ArticleNotFound {
         ArticleFunctionQualityInspector functionQualityChecker = new ArticleFunctionQualityInspector();
         return functionQualityChecker.getArticleFunctions(articleNumbers);
     }
 
-    private static Map<String, String> getMaterialQuality(List<String> articleNumbers) throws ResourceFailure, InvalidArticleData, ArticleNotFound, PersisterFailure {
+    private static Map<String, String> getMaterialQuality(List<String> articleNumbers) throws ResourceFailure, InvalidArticleData, ArticleNotFound {
         ArticleMaterialQualityInspector materialQualityChecker = new ArticleMaterialQualityInspector();
         return materialQualityChecker.getInvalidArticleMaterialId(articleNumbers);
     }
@@ -47,7 +44,7 @@ class ArticleQualityInspector {
     private static void showFunctionQuality(HashMap<String, HashMap<String, HashMap<String, String>>> styleArticlesForFunctions) {
         System.out.println("Article functions:");
         for (String function : styleArticlesForFunctions.keySet()) {
-            System.out.println(format("Function: \"%s\"", function));
+            System.out.printf("Function: \"%s\"%n", function);
             HashMap<String, HashMap<String, String>> stylesAndArticlesForFunction = styleArticlesForFunctions.get(function);
             for (String style : stylesAndArticlesForFunction.keySet()) {
                 System.out.println("\tStyle: " + style);

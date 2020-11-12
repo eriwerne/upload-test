@@ -10,7 +10,6 @@ import application.dataprocessing.packing.OrderPacker;
 import application.exceptions.ApplicationFailed;
 import application.output.OutputFailed;
 import application.output.OutputGenerator;
-import application.output.PersisterFailure;
 import application.output.formats.OutputFormatType;
 import application.reading.articlereader.ArticleReader;
 import application.reading.exception.ArticleNotFound;
@@ -55,12 +54,12 @@ public class ProcessMediator {
             outputStrings = generateOutputFiles(order, filename, foldername);
             validate(order, outputStrings);
 
-        } catch (ContainerIdValidationException | OutputFailed | InvalidArticleData | OrderNotFound | ResourceFailure | ArticleNotFound | PersisterFailure e) {
+        } catch (ContainerIdValidationException | OutputFailed | InvalidArticleData | OrderNotFound | ResourceFailure | ArticleNotFound e) {
             throw new ApplicationFailed(e);
         }
     }
 
-    private ArticleImageOrderCollection readArticleAndImageOrdersForOrder(String orderNumber) throws InvalidArticleData, OrderNotFound, ResourceFailure, ArticleNotFound, PersisterFailure {
+    private ArticleImageOrderCollection readArticleAndImageOrdersForOrder(String orderNumber) throws InvalidArticleData, OrderNotFound, ResourceFailure, ArticleNotFound {
         System.out.println("* Reading");
         List<String> articleNumbers = orderReader.readArticleNumbersInOrder(orderNumber);
         HashMap<String, Article> articles = articleReader.readArticles(articleNumbers);
@@ -113,7 +112,7 @@ public class ProcessMediator {
         filterForNonFunctionArticles.filter(articleImageOrders);
     }
 
-    private ArticleImageOrderCollection readImageOrdersForOrderNumber(String orderNumber, HashMap<String, Article> articles) throws OrderNotFound, ResourceFailure, ArticleNotFound, PersisterFailure {
+    private ArticleImageOrderCollection readImageOrdersForOrderNumber(String orderNumber, HashMap<String, Article> articles) throws OrderNotFound, ResourceFailure, ArticleNotFound {
         imageOrderReader.readImageOrdersForOrderNumber(orderNumber);
         ArticleImageOrderCollection articleImageOrderMap = new ArticleImageOrderCollection();
         for (Article article : articles.values()) {

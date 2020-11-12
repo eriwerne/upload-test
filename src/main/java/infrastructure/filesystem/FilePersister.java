@@ -45,38 +45,6 @@ public class FilePersister implements Persister {
     }
 
     @Override
-    public Object getObject(String folderPath, String fileName) throws PersisterFailure {
-        try {
-            File file = getFile(folderPath, fileName);
-            FileInputStream fileInputStream = new FileInputStream(file);
-            try (ObjectInputStream objectInputStream = new ObjectInputStream(fileInputStream)) {
-                return objectInputStream.readObject();
-            } catch (IOException e) {
-                throw new PersisterFailure(e);
-            }
-        } catch (IOException | ClassNotFoundException e) {
-            throw new PersisterFailure(e);
-        }
-
-    }
-
-    @Override
-    public void persistObject(String folderPath, String fileName, Serializable object) throws PersisterFailure {
-        try {
-            File file = getFile(folderPath, fileName);
-            persistString(folderPath, fileName, "");
-            FileOutputStream fileOutputStream = new FileOutputStream(file);
-            try (ObjectOutputStream objectOutputStream = new ObjectOutputStream(fileOutputStream)) {
-                objectOutputStream.writeObject(object);
-            } catch (IOException e) {
-                throw new PersisterFailure(e);
-            }
-        } catch (IOException e) {
-            throw new PersisterFailure(e);
-        }
-    }
-
-    @Override
     public void removeFolder(String folder) throws PersisterFailure {
         try {
             FileUtils.deleteDirectory(new File(folder));

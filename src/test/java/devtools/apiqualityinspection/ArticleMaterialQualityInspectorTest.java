@@ -1,6 +1,5 @@
 package devtools.apiqualityinspection;
 
-import application.output.PersisterFailure;
 import application.reading.exception.ArticleNotFound;
 import application.reading.exception.ResourceFailure;
 import core.article.exceptions.InvalidArticleData;
@@ -10,11 +9,9 @@ import injection.M2Mock;
 import utils.UnitTest;
 
 import java.util.Arrays;
-import java.util.List;
 import java.util.Map;
 
-import static org.junit.Assert.assertEquals;
-import static org.junit.Assert.assertTrue;
+import static org.junit.Assert.*;
 
 public class ArticleMaterialQualityInspectorTest extends UnitTest {
     private ArticleMaterialQualityInspector cut;
@@ -27,7 +24,7 @@ public class ArticleMaterialQualityInspectorTest extends UnitTest {
     }
 
     @Test
-    public void when_all_articles_in_order_have_valid_material_information_then_it_returns_an_empty_list() throws ResourceFailure, InvalidArticleData, ArticleNotFound, PersisterFailure {
+    public void when_all_articles_in_order_have_valid_material_information_then_it_returns_an_empty_list() throws ResourceFailure, InvalidArticleData, ArticleNotFound {
         String articleNumberValid = "123456";
 
         m2Mock.mockM2ApiResponse("material/article/valid_material/123456.json", articleNumberValid);
@@ -38,7 +35,7 @@ public class ArticleMaterialQualityInspectorTest extends UnitTest {
     }
 
     @Test
-    public void when_some_articles_in_order_have_material_information_null_then_it_returns_these_article_numbers() throws ResourceFailure, InvalidArticleData, ArticleNotFound, PersisterFailure {
+    public void when_some_articles_in_order_have_material_information_null_then_it_returns_these_article_numbers() throws ResourceFailure, InvalidArticleData, ArticleNotFound {
         String articleNumberValid = "123456";
         String articleNumberInvalid1 = "234567";
         String articleNumberInvalid2 = "345678";
@@ -50,13 +47,13 @@ public class ArticleMaterialQualityInspectorTest extends UnitTest {
         Map<String, String> act = cut.getInvalidArticleMaterialId(Arrays.asList(articleNumberInvalid1, articleNumberInvalid2, articleNumberValid));
 
         assertTrue(act.containsKey(articleNumberInvalid1));
-        assertEquals(null, act.get(articleNumberInvalid1));
+        assertNull(act.get(articleNumberInvalid1));
         assertTrue(act.containsKey(articleNumberInvalid2));
-        assertEquals(null, act.get(articleNumberInvalid2));
+        assertNull(act.get(articleNumberInvalid2));
     }
 
     @Test
-    public void when_some_articles_in_order_have_material_information_containing_jpg_then_it_returns_these_article_numbers() throws ResourceFailure, InvalidArticleData, ArticleNotFound, PersisterFailure {
+    public void when_some_articles_in_order_have_material_information_containing_jpg_then_it_returns_these_article_numbers() throws ResourceFailure, InvalidArticleData, ArticleNotFound {
         String articleNumberValid = "123456";
         String articleNumberInvalid1 = "456789";
 

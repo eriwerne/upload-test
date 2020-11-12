@@ -1,13 +1,11 @@
 package devtools.apiqualityinspection;
 
-import application.output.PersisterFailure;
 import application.reading.articlereader.ArticleReader;
 import application.reading.exception.ArticleNotFound;
 import application.reading.exception.ResourceFailure;
 import core.article.Article;
 import core.article.exceptions.InvalidArticleData;
 
-import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 
@@ -18,7 +16,7 @@ public class ArticleFunctionQualityInspector {
         articleReader = new ArticleReader();
     }
 
-    public HashMap<String, HashMap<String, HashMap<String, String>>> getArticleFunctions(List<String> articleNumbers) throws ResourceFailure, InvalidArticleData, ArticleNotFound, PersisterFailure {
+    public HashMap<String, HashMap<String, HashMap<String, String>>> getArticleFunctions(List<String> articleNumbers) throws ResourceFailure, InvalidArticleData, ArticleNotFound {
         HashMap<String, HashMap<String, HashMap<String, String>>> styleArticlesForFunctions = new HashMap<>();
         HashMap<String, Article> articles = articleReader.readArticles(articleNumbers);
         for (Article article : articles.values()) {

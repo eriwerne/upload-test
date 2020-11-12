@@ -1,7 +1,6 @@
 package utils;
 
 import com.flextrade.jfixture.JFixture;
-import com.flextrade.jfixture.annotations.Fixture;
 import core.article.Article;
 import core.article.ImageGroupCharacteristics;
 import core.article.Materials;

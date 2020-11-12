@@ -217,7 +217,9 @@ Dieser kümmert sich an die Weiterleitung an das CGI-Studio.
 Die Systemtests bilden die End-to-End-Tests ab. 
 Dabei wird die Apllikation als Gesamtes mit all ihren Funktionen aufgerufen und auf Korrektheit geprüft.
 Als Testdaten werden die APIs für MMP und M2 mit Rückgabewerten aus echten Aufträgen der vergangenen Auftragsphasen gemockt und mit den zu erwartenden JSON- und CSV-Dateien inhaltlich verglichen.
+Es stehen im Resources-Ordner der Tests also für jeden Systemtest Dateien bereit, die für Artikel und Aufträge die API-Responses mocken, sowie die bereits generierten Ausgabedateien, die zum letztendlichen Vergleich herangezogen werden.
 
+## Einen Auftrag als neuen Systemtest hinzufügen
 In der Regel kann jeder neue Auftrag den Systemtests hinzugefügt werden, um den Testumfang der Systemtests zu erweitern und dadurch bei zukünftigen Anpassungen an dem Service möglichst viele Datenkonstellationen zu prüfen.
 Die Ressourcen des neuen Auftrags lassen sich hinzufügen, indem die Klasse ```SystemTestResourcesGenerator``` mit der entsprechenden Auftragsnummer ausgeführt wird.
 Die Umgebungsvariablen sind dabei, wie im Abschnitt "Programmausführung" beschrieben, zu setzen.
@@ -237,3 +239,26 @@ public class when_testing_order_[Auftragsnummer] {
     }
 }
 ```
+
+## Alle Systemtests aufgrund einer inhaltlichen Anpassung aktualisieren
+Sollte es einmal aufgrund einer Anpassung an dem Service zu einer inhaltlichen Änderung der Ausgabedateien kommen 
+(z.B. Änderung von Spaltennamen oder Anpassungen am Aufbau der JSON-Datei), dann müssen logischerweise auch die 
+vorliegenden Ausgabedateien im Test-Resources-Ordner angepasst werden, da sonst die neue Änderung immer als fehlerhafter Test angezeigt werden würde.
+
+Normalerweise wird so eine Änderung an einem solchen Expectation-Fixture manuell vorgenommen.
+Da es sich hier aber um zig Expecation-Dateien handelt und die entsprechende Anpassung in jeder Datei vielfach vorkommen kann, 
+ist eine manuelle Anpassung hier nicht praktikabel und es muss eine automatisierte Aktualisierung aller Testressourcen eingesetzt werden.
+
+Für diesen Fall wäre lediglich in der Klasse ```SystemTestExecution``` die Injection des ```PersisterMock``` auszuschalten. 
+Alle Systemtests würden somit ihre Erwartungswerte mit dem tatsächlich generierten Stand überschreiben. 
+
+Folgende Zeile ist gemeint und kann für die Aktualisierung der Erwartungswerte auskommentiert werden:
+```bash
+new PersisterMock();
+```
+Nach der Ausführung ohne den Mock ist die Stelle wieder einzufügen.
+Die Systemtests sind anschließend alle erfolgreich, da der Erwartungswert gerade mit dem tatsächlichen Wert überschrieben wurde.
+
+Durch einen Push würden sowohl die funktionalen Änderungen am Code als auch die Testressourcen gemeinsam commitet werden,
+wodurch dann auch Jenkins die Änderung mit den aktualisierten Expecations testen kann. 
+Die Aktualisierung der Ressourcen ist also nur einmal lokal durchzuführen.

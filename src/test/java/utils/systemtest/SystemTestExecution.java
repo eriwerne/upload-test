@@ -6,8 +6,10 @@ import application.output.formats.OutputFormatType;
 import injection.M2Mock;
 import injection.MmpMock;
 import injection.PersisterMock;
-import utils.*;
+import utils.ResourceFileReader;
+import utils.ResourceNotFound;
 
+import java.io.File;
 import java.io.IOException;
 import java.util.HashMap;
 
@@ -72,7 +74,8 @@ public class SystemTestExecution {
 
     private HashMap<OutputFormatType, String> getActFromService() throws ApplicationFailed {
         ProcessMediator processMediator = new ProcessMediator();
-        processMediator.runOrderNumber(orderNumber, "exp", "/Users/eriwerne/IdeaProjects/order-extractor/src/test/resources/"+systemTestConfiguration.getSystemTestDirectory()+"/expectation");
+        String exportPath = new File("src/test/resources/").getAbsolutePath() + "/" + systemTestConfiguration.getSystemTestDirectory() + "/expectation";
+        processMediator.runOrderNumber(orderNumber, "exp", exportPath);
         return processMediator.getOutputStrings();
     }
 

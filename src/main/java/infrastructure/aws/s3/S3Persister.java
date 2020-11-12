@@ -7,10 +7,10 @@ import com.amazonaws.services.s3.AmazonS3;
 import com.amazonaws.services.s3.AmazonS3ClientBuilder;
 import com.amazonaws.services.s3.model.S3Object;
 import com.amazonaws.services.s3.model.S3ObjectSummary;
-import org.apache.commons.io.FileUtils;
-import org.apache.commons.io.IOUtils;
 
-import java.io.*;
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
 
 public class S3Persister implements Persister {
     private final AmazonS3 amazonS3;
@@ -68,45 +68,9 @@ public class S3Persister implements Persister {
     }
 
     @Override
-    public Object getObject(String folderPath, String fileName) throws PersisterFailure {
-        try {
-            S3Object object = amazonS3.getObject(bucketName, folderPath + fileName);
-            byte[] buffer = IOUtils.toByteArray(object.getObjectContent());
-            return deserialize(buffer);
-        } catch (IOException | ClassNotFoundException e) {
-            throw new PersisterFailure(e);
-        }
-    }
-
-    @Override
-    public void persistObject(String folderPath, String fileName, Serializable object) throws PersisterFailure {
-        try {
-            byte[] bytes = serialize(object);
-            File file = new File(folderPath + fileName);
-            FileUtils.writeByteArrayToFile(file, bytes);
-            amazonS3.putObject(bucketName, folderPath + fileName, file);
-        } catch (IOException e) {
-            throw new PersisterFailure(e);
-        }
-    }
-
-    @Override
     public void removeFolder(String folder) {
         for (S3ObjectSummary file : amazonS3.listObjects(bucketName, folder).getObjectSummaries()) {
             amazonS3.deleteObject(bucketName, file.getKey());
         }
-    }
-
-    public static byte[] serialize(Object obj) throws IOException {
-        ByteArrayOutputStream out = new ByteArrayOutputStream();
-        ObjectOutputStream os = new ObjectOutputStream(out);
-        os.writeObject(obj);
-        return out.toByteArray();
-    }
-
-    public static Object deserialize(byte[] data) throws IOException, ClassNotFoundException {
-        ByteArrayInputStream in = new ByteArrayInputStream(data);
-        ObjectInputStream is = new ObjectInputStream(in);
-        return is.readObject();
     }
 }

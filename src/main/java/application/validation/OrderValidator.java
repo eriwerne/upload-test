@@ -1,16 +1,15 @@
 package application.validation;
 
-import application.output.PersisterFailure;
 import application.reading.articlereader.ArticleReader;
 import application.reading.exception.ArticleNotFound;
 import application.reading.exception.OrderNotFound;
 import application.reading.exception.ResourceFailure;
 import application.reading.imageorderreader.ImageOrderReader;
 import application.reading.orderreader.OrderReader;
+import application.validation.exceptions.CouldNotPerformValidationException;
 import application.validation.exceptions.DuplicateContainerIdsException;
 import application.validation.exceptions.MissingContainerIdsException;
 import application.validation.exceptions.TooManyContainerIdsException;
-import application.validation.exceptions.CouldNotPerformValidationException;
 import core.article.Article;
 import core.article.exceptions.InvalidArticleData;
 import core.image.ImageOrder;
@@ -35,7 +34,7 @@ public class OrderValidator {
             checkForMissingContainerIds(actualContainerIds, expectedImageOrders);
             checkForTooManyContainerIds(actualContainerIds, expectedImageOrders);
             checkForDoubleContainerIds(actualContainerIds);
-        } catch (ResourceFailure | OrderNotFound | InvalidArticleData | PersisterFailure e) {
+        } catch (ResourceFailure | OrderNotFound | InvalidArticleData e) {
             throw new CouldNotPerformValidationException(e);
         }
     }
@@ -70,7 +69,7 @@ public class OrderValidator {
             throw new TooManyContainerIdsException(tooManyContainerIds);
     }
 
-    private HashMap<String, List<ImageOrder>> readExpectedImageOrders(String orderNumber) throws ResourceFailure, OrderNotFound, ArticleNotFound, PersisterFailure {
+    private HashMap<String, List<ImageOrder>> readExpectedImageOrders(String orderNumber) throws ResourceFailure, OrderNotFound, ArticleNotFound {
         HashMap<String, List<ImageOrder>> expectedContainerIds = new HashMap<>();
         List<String> articleNumbers = orderReader.readArticleNumbersInOrder(orderNumber);
         imageOrderReader.readImageOrdersForOrderNumber(orderNumber);
@@ -79,7 +78,7 @@ public class OrderValidator {
         return expectedContainerIds;
     }
 
-    private void checkForMissingContainerIds(List<String> actualContainerIds, HashMap<String, List<ImageOrder>> expectedImageOrders) throws MissingContainerIdsException, ResourceFailure, InvalidArticleData, ArticleNotFound, PersisterFailure {
+    private void checkForMissingContainerIds(List<String> actualContainerIds, HashMap<String, List<ImageOrder>> expectedImageOrders) throws MissingContainerIdsException, ResourceFailure, InvalidArticleData, ArticleNotFound {
         List<String> missingContainerIds = new ArrayList<>();
         for (String articleNumber : expectedImageOrders.keySet())
             for (ImageOrder expectationImageOrder : expectedImageOrders.get(articleNumber))
@@ -93,7 +92,7 @@ public class OrderValidator {
             throw new MissingContainerIdsException(missingContainerIds);
     }
 
-    private boolean isImageOrderToIgnore(String articleNumber, ImageOrder imageOrder) throws ResourceFailure, InvalidArticleData, ArticleNotFound, PersisterFailure {
+    private boolean isImageOrderToIgnore(String articleNumber, ImageOrder imageOrder) throws ResourceFailure, InvalidArticleData, ArticleNotFound {
         HashMap<String, Article> articles = articleReader.readArticles(Collections.singletonList(articleNumber));
         Article article = articles.get(articleNumber);
         Boolean isFunctionImage = imageOrder.isFunctionImage();

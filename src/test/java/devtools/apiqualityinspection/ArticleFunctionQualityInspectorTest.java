@@ -1,6 +1,5 @@
 package devtools.apiqualityinspection;
 
-import application.output.PersisterFailure;
 import application.reading.exception.ArticleNotFound;
 import application.reading.exception.ResourceFailure;
 import core.article.exceptions.InvalidArticleData;
@@ -28,7 +27,7 @@ public class ArticleFunctionQualityInspectorTest extends UnitTest {
     }
 
     @Test
-    public void when_articles_with_functions_are_checked_then_it_returns_a_set_with_all_functions_their_styles_and_their_articlenumbers() throws ResourceFailure, InvalidArticleData, ArticleNotFound, PersisterFailure {
+    public void when_articles_with_functions_are_checked_then_it_returns_a_set_with_all_functions_their_styles_and_their_articlenumbers() throws ResourceFailure, InvalidArticleData, ArticleNotFound {
         String article1FunctionA = "10297421";
         String article2FunctionA = "10297422";
         String article1FunctionB = "10297423";
