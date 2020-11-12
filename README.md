@@ -216,4 +216,24 @@ Dieser kümmert sich an die Weiterleitung an das CGI-Studio.
 
 Die Systemtests bilden die End-to-End-Tests ab. 
 Dabei wird die Apllikation als Gesamtes mit all ihren Funktionen aufgerufen und auf Korrektheit geprüft.
-Als Testdaten werden die APIs für MMP und M2 mit Rückgabewerten aus echten Aufträgen gemockt und mit den zu erwartenden JSON- und CSV-Dateien inhaltlich verglichen.
+Als Testdaten werden die APIs für MMP und M2 mit Rückgabewerten aus echten Aufträgen der vergangenen Auftragsphasen gemockt und mit den zu erwartenden JSON- und CSV-Dateien inhaltlich verglichen.
+
+In der Regel kann jeder neue Auftrag den Systemtests hinzugefügt werden, um den Testumfang der Systemtests zu erweitern und dadurch bei zukünftigen Anpassungen an dem Service möglichst viele Datenkonstellationen zu prüfen.
+Die Ressourcen des neuen Auftrags lassen sich hinzufügen, indem die Klasse ```SystemTestResourcesGenerator``` mit der entsprechenden Auftragsnummer ausgeführt wird.
+Die Umgebungsvariablen sind dabei, wie im Abschnitt "Programmausführung" beschrieben, zu setzen.
+Anschließend muss noch der Junit-Test analog der bestehenden Systemtests hinzugefügt werden.
+Dazu ist in dem Package ```systemtest.real_orders_from_live_system``` folgende Klasse zu erstellen:
+```
+public class when_testing_order_[Auftragsnummer] {
+    @Test
+    public void then_expect_expectation() throws ApplicationFailed {
+        new SystemTest()
+                .forOrderNumber("[Auftragsnummer]")
+                .worksWithDirectory("systemtest/real_orders_from_live_system/[Auftragsnummer]")
+                .mocksApisFromGivenDirectory()
+                .andExpects().expectationFileInGivenDirectory("exp.json", OutputFormatType.JSON)
+                .andExpects().expectationFileInGivenDirectory("exp.csv", OutputFormatType.CSV)
+                .whenExecutesWholeSystem();
+    }
+}
+```
