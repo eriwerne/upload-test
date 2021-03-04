@@ -56,7 +56,7 @@ class ArticleQualityInspector {
 
     private static void showMaterialQuality(Map<String, String> articleNumbersWithInvalidMaterial) {
         System.out.println("Article numbers with invalid material:");
-        System.out.println(articleNumbersWithInvalidMaterial);
+        System.out.println(articleNumbersWithInvalidMaterial.keySet());
     }
 
 }
