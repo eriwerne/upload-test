@@ -220,7 +220,8 @@ Als Testdaten werden die APIs für MMP und M2 mit Rückgabewerten aus echten Auf
 Es stehen im Resources-Ordner der Tests also für jeden Systemtest Dateien bereit, die für Artikel und Aufträge die API-Responses mocken, sowie die bereits generierten Ausgabedateien, die zum letztendlichen Vergleich herangezogen werden.
 
 ## Einen Auftrag als neuen Systemtest hinzufügen
-In der Regel kann jeder neue Auftrag den Systemtests hinzugefügt werden, um den Testumfang der Systemtests zu erweitern und dadurch bei zukünftigen Anpassungen an dem Service möglichst viele Datenkonstellationen zu prüfen.
+In der Regel kann jeder neue Auftrag, der für die Produktion erstellt wurde, den Systemtests hinzugefügt werden.
+Dadurch wird der Testumfang der Systemtests erweitert und bei zukünftigen Anpassungen zusätzliche Datenkonstellationen geprüft.
 Die Ressourcen des neuen Auftrags lassen sich hinzufügen, indem die Klasse ```SystemTestResourcesGenerator``` mit der entsprechenden Auftragsnummer ausgeführt wird.
 Die Umgebungsvariablen sind dabei, wie im Abschnitt "Programmausführung" beschrieben, zu setzen.
 Anschließend muss noch der Junit-Test analog der bestehenden Systemtests hinzugefügt werden.
