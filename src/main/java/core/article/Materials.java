@@ -4,7 +4,7 @@ import java.io.Serializable;
 import java.util.Arrays;
 import java.util.Objects;
 
-public class Materials  implements Serializable {
+public class Materials implements Serializable {
     private String materialCode = null;
     private final String[] furnitureCoverMaterial;
     private final String[] furnitureCoverColor;
@@ -75,16 +75,17 @@ public class Materials  implements Serializable {
 
     public String sortValue() {
         StringBuilder sortValue = new StringBuilder();
-
-        for (String s : furnitureCoverColor)
-            sortValue.append(s);
-        for (String s : furnitureCoverMaterial)
-            sortValue.append(s);
-        for (String s : feetColor)
-            sortValue.append(s);
-        for (String s : feetMaterial)
-            sortValue.append(s);
+        appendSortAttribute(sortValue, furnitureCoverColor);
+        appendSortAttribute(sortValue, furnitureCoverMaterial);
+        appendSortAttribute(sortValue, feetColor);
+        appendSortAttribute(sortValue, feetMaterial);
         sortValue.append(materialCode);
         return sortValue.toString();
+    }
+
+    private void appendSortAttribute(StringBuilder sortValue, String[] attribute) {
+        if (attribute != null)
+            for (String s : attribute)
+                sortValue.append(s);
     }
 }

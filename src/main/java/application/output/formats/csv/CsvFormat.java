@@ -87,15 +87,21 @@ public class CsvFormat implements OutputFormat {
             lines.add(new String[]{
                     styleId,
                     materials.getMaterialCode(),
-                    Arrays.asList(materials.getFurnitureCoverMaterial()).toString(),
-                    Arrays.asList(materials.getFurnitureCoverColor()).toString(),
-                    Arrays.asList(materials.getFeetMaterial()).toString(),
-                    Arrays.asList(materials.getFeetColor()).toString(),
+                    arrayAsString(materials.getFurnitureCoverMaterial()),
+                    arrayAsString(materials.getFurnitureCoverColor()),
+                    arrayAsString(materials.getFeetMaterial()),
+                    arrayAsString(materials.getFeetColor()),
                     article.getArticleNumber(),
                     article.getName()
             });
         }
         return lines;
+    }
+
+    private String arrayAsString(String[] array) {
+        if (array == null)
+            return "";
+        return Arrays.asList(array).toString();
     }
 
     private ArrayList<Article> getSortedArticles(List<ImageOrder> imageOrders) {
