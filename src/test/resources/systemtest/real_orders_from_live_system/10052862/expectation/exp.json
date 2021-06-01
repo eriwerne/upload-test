@@ -1,0 +1,3770 @@
+{
+  "orderNumber" : "10052862",
+  "imageGroups" : [ {
+    "productComKey" : "1362550141",
+    "basisOcvModel" : {
+      "materials" : [ {
+        "materialCode" : "domo_marty_beere_3579",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_marty_beere_3579"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Chenille]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[beere]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "78300660",
+          "name" : "Hocker (Hocker)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815843.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815845.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815846.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815850.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815851.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815852.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815853.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815854.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "19815855.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "19815856.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        } ]
+      }, {
+        "materialCode" : "domo_falkone_beige_2438",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_falkone_beige_2438"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Struktur fein]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[beige]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "77906600",
+          "name" : "Hocker (Hocker)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815899.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815901.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815902.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815906.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815907.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815908.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815909.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815910.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "19815911.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "19815912.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        } ]
+      }, {
+        "materialCode" : "domo_marty_coffee_3578",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_marty_coffee_3578"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Chenille]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[cappucino]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "35317132",
+          "name" : "Hocker (Hocker)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816459.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816461.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816462.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816466.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816467.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816468.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816469.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816470.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "19816471.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "19816472.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        } ]
+      }, {
+        "materialCode" : "domo_falkone_dunkelblau_3201",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_falkone_dunkelblau_3201"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Struktur fein]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[dunkelblau]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "47831526",
+          "name" : "Hocker (Hocker)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816249.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816251.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816252.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816256.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816257.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816258.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816259.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816260.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "19816261.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "19816262.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        } ]
+      }, {
+        "materialCode" : "domo_marty_dunkelgrau_3583",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_marty_dunkelgrau_3583"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Chenille]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[dunkelgrau]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "68604222",
+          "name" : "Hocker (Hocker)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815997.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815999.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816000.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816004.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816005.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816006.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816007.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816008.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "19816009.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "19816010.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        } ]
+      }, {
+        "materialCode" : "domo_falkone_lichtblau_3339",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_falkone_lichtblau_3339"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Struktur fein]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[lichtblau]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "20270506",
+          "name" : "Hocker (Hocker)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816529.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816531.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816532.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816536.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816537.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816538.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816539.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816540.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "19816541.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "19816542.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        } ]
+      }, {
+        "materialCode" : "domo_falkone_pepper_2939",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_falkone_pepper_2939"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Struktur fein]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[pepper]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "53113760",
+          "name" : "Hocker (Hocker)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816179.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816181.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816182.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816186.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816187.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816188.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816189.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816190.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "19816191.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "19816192.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        } ]
+      }, {
+        "materialCode" : "domo_marty_senf_3580",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_marty_senf_3580"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Chenille]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[senf]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "94042320",
+          "name" : "Hocker (Hocker)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815703.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815705.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815706.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815710.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815711.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815712.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815713.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815714.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "19815715.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "19815716.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        } ]
+      } ]
+    },
+    "functionModels" : [ ]
+  }, {
+    "productComKey" : "1362550150",
+    "basisOcvModel" : {
+      "materials" : [ {
+        "materialCode" : "domo_marty_beere_3579",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_marty_beere_3579"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Chenille]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[beere]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "17860762",
+          "name" : "ECK,REC re,FKT,AV (ECK,REC re,FKT,AV)"
+        }, {
+          "articleNumber" : "36876536",
+          "name" : "ECK,REC re,AV (ECK,REC re,AV)"
+        }, {
+          "articleNumber" : "77710302",
+          "name" : "ECK,REC li,AV (ECK,REC li,AV)"
+        }, {
+          "articleNumber" : "78034944",
+          "name" : "ECK,REC li,FKT,AV (ECK,REC li,FKT,AV)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815885.jpg", "19815927.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816403.jpg", "19816585.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815887.jpg", "19815929.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816405.jpg", "19816587.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815888.jpg", "19815930.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816406.jpg", "19816588.jpg" ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815892.jpg", "19815934.jpg", "19816410.jpg", "19816592.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815893.jpg", "19815935.jpg", "19816411.jpg", "19816593.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815894.jpg", "19815936.jpg", "19816412.jpg", "19816594.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815895.jpg", "19815937.jpg", "19816413.jpg", "19816595.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815896.jpg", "19815938.jpg", "19816414.jpg", "19816596.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "19815897.jpg", "19815939.jpg", "19816415.jpg", "19816597.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "19815898.jpg", "19815940.jpg", "19816416.jpg", "19816598.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        } ]
+      }, {
+        "materialCode" : "domo_falkone_beige_2438",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_falkone_beige_2438"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Struktur fein]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[beige]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "16357844",
+          "name" : "ECK,REC li,FKT,AV (ECK,REC li,FKT,AV)"
+        }, {
+          "articleNumber" : "19594260",
+          "name" : "ECK,REC re,AV (ECK,REC re,AV)"
+        }, {
+          "articleNumber" : "34649060",
+          "name" : "ECK,REC li,AV (ECK,REC li,AV)"
+        }, {
+          "articleNumber" : "65055120",
+          "name" : "ECK,REC re,FKT,AV (ECK,REC re,FKT,AV)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816473.jpg", "19816655.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816067.jpg", "19816557.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816475.jpg", "19816657.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816069.jpg", "19816559.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816476.jpg", "19816658.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816070.jpg", "19816560.jpg" ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816074.jpg", "19816480.jpg", "19816564.jpg", "19816662.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816075.jpg", "19816481.jpg", "19816565.jpg", "19816663.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816076.jpg", "19816482.jpg", "19816566.jpg", "19816664.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816077.jpg", "19816483.jpg", "19816567.jpg", "19816665.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816078.jpg", "19816484.jpg", "19816568.jpg", "19816666.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "19816079.jpg", "19816485.jpg", "19816569.jpg", "19816667.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "19816080.jpg", "19816486.jpg", "19816570.jpg", "19816668.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        } ]
+      }, {
+        "materialCode" : "domo_marty_coffee_3578",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_marty_coffee_3578"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Chenille]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[cappucino]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "10286514",
+          "name" : "ECK,REC re,FKT,AV (ECK,REC re,FKT,AV)"
+        }, {
+          "articleNumber" : "36565314",
+          "name" : "ECK,REC li,AV (ECK,REC li,AV)"
+        }, {
+          "articleNumber" : "59139218",
+          "name" : "ECK,REC li,FKT,AV (ECK,REC li,FKT,AV)"
+        }, {
+          "articleNumber" : "73342336",
+          "name" : "ECK,REC re,AV (ECK,REC re,AV)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816095.jpg", "19816431.jpg" ],
+          "recamiereOttomaneRechts" : [ "19815941.jpg", "19816683.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816097.jpg", "19816433.jpg" ],
+          "recamiereOttomaneRechts" : [ "19815943.jpg", "19816685.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816098.jpg", "19816434.jpg" ],
+          "recamiereOttomaneRechts" : [ "19815944.jpg", "19816686.jpg" ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815948.jpg", "19816102.jpg", "19816438.jpg", "19816690.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815949.jpg", "19816103.jpg", "19816439.jpg", "19816691.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815950.jpg", "19816104.jpg", "19816440.jpg", "19816692.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815951.jpg", "19816105.jpg", "19816441.jpg", "19816693.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815952.jpg", "19816106.jpg", "19816442.jpg", "19816694.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "19815953.jpg", "19816107.jpg", "19816443.jpg", "19816695.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "19815954.jpg", "19816108.jpg", "19816444.jpg", "19816696.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        } ]
+      }, {
+        "materialCode" : "domo_falkone_dunkelblau_3201",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_falkone_dunkelblau_3201"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Struktur fein]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[dunkelblau]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "44557412",
+          "name" : "ECK,REC re,FKT,AV (ECK,REC re,FKT,AV)"
+        }, {
+          "articleNumber" : "61952050",
+          "name" : "ECK,REC li,AV (ECK,REC li,AV)"
+        }, {
+          "articleNumber" : "86582508",
+          "name" : "ECK,REC re,AV (ECK,REC re,AV)"
+        }, {
+          "articleNumber" : "94389532",
+          "name" : "ECK,REC li,FKT,AV (ECK,REC li,FKT,AV)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815689.jpg", "19816081.jpg" ],
+          "recamiereOttomaneRechts" : [ "19815731.jpg", "19816305.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815691.jpg", "19816083.jpg" ],
+          "recamiereOttomaneRechts" : [ "19815733.jpg", "19816307.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815692.jpg", "19816084.jpg" ],
+          "recamiereOttomaneRechts" : [ "19815734.jpg", "19816308.jpg" ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815696.jpg", "19815738.jpg", "19816088.jpg", "19816312.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815697.jpg", "19815739.jpg", "19816089.jpg", "19816313.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815698.jpg", "19815740.jpg", "19816090.jpg", "19816314.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815699.jpg", "19815741.jpg", "19816091.jpg", "19816315.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815700.jpg", "19815742.jpg", "19816092.jpg", "19816316.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "19815701.jpg", "19815743.jpg", "19816093.jpg", "19816317.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "19815702.jpg", "19815744.jpg", "19816094.jpg", "19816318.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        } ]
+      }, {
+        "materialCode" : "domo_marty_dunkelgrau_3583",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_marty_dunkelgrau_3583"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Chenille]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[dunkelgrau]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "53648852",
+          "name" : "ECK,REC re,AV (ECK,REC re,AV)"
+        }, {
+          "articleNumber" : "71313964",
+          "name" : "ECK,REC re,FKT,AV (ECK,REC re,FKT,AV)"
+        }, {
+          "articleNumber" : "82725600",
+          "name" : "ECK,REC li,FKT,AV (ECK,REC li,FKT,AV)"
+        }, {
+          "articleNumber" : "83546050",
+          "name" : "ECK,REC li,AV (ECK,REC li,AV)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815759.jpg", "19815787.jpg" ],
+          "recamiereOttomaneRechts" : [ "19815969.jpg", "19816151.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815761.jpg", "19815789.jpg" ],
+          "recamiereOttomaneRechts" : [ "19815971.jpg", "19816153.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815762.jpg", "19815790.jpg" ],
+          "recamiereOttomaneRechts" : [ "19815972.jpg", "19816154.jpg" ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815766.jpg", "19815794.jpg", "19815976.jpg", "19816158.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815767.jpg", "19815795.jpg", "19815977.jpg", "19816159.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815768.jpg", "19815796.jpg", "19815978.jpg", "19816160.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815769.jpg", "19815797.jpg", "19815979.jpg", "19816161.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815770.jpg", "19815798.jpg", "19815980.jpg", "19816162.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "19815771.jpg", "19815799.jpg", "19815981.jpg", "19816163.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "19815772.jpg", "19815800.jpg", "19815982.jpg", "19816164.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        } ]
+      }, {
+        "materialCode" : "domo_falkone_lichtblau_3339",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_falkone_lichtblau_3339"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Struktur fein]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[lichtblau]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "17118148",
+          "name" : "ECK,REC re,FKT,AV (ECK,REC re,FKT,AV)"
+        }, {
+          "articleNumber" : "36597644",
+          "name" : "ECK,REC li,AV (ECK,REC li,AV)"
+        }, {
+          "articleNumber" : "41207536",
+          "name" : "ECK,REC re,AV (ECK,REC re,AV)"
+        }, {
+          "articleNumber" : "67144126",
+          "name" : "ECK,REC li,FKT,AV (ECK,REC li,FKT,AV)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816039.jpg", "19816417.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816319.jpg", "19816613.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816041.jpg", "19816419.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816321.jpg", "19816615.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816042.jpg", "19816420.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816322.jpg", "19816616.jpg" ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816046.jpg", "19816326.jpg", "19816424.jpg", "19816620.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816047.jpg", "19816327.jpg", "19816425.jpg", "19816621.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816048.jpg", "19816328.jpg", "19816426.jpg", "19816622.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816049.jpg", "19816329.jpg", "19816427.jpg", "19816623.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816050.jpg", "19816330.jpg", "19816428.jpg", "19816624.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "19816051.jpg", "19816331.jpg", "19816429.jpg", "19816625.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "19816052.jpg", "19816332.jpg", "19816430.jpg", "19816626.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        } ]
+      }, {
+        "materialCode" : "domo_falkone_pepper_2939",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_falkone_pepper_2939"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Struktur fein]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[pepper]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "46313846",
+          "name" : "ECK,REC li,AV (ECK,REC li,AV)"
+        }, {
+          "articleNumber" : "47785166",
+          "name" : "ECK,REC re,FKT,AV (ECK,REC re,FKT,AV)"
+        }, {
+          "articleNumber" : "51885464",
+          "name" : "ECK,REC li,FKT,AV (ECK,REC li,FKT,AV)"
+        }, {
+          "articleNumber" : "68301906",
+          "name" : "ECK,REC re,AV (ECK,REC re,AV)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816207.jpg", "19816291.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816011.jpg", "19816263.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816209.jpg", "19816293.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816013.jpg", "19816265.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816210.jpg", "19816294.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816014.jpg", "19816266.jpg" ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816018.jpg", "19816214.jpg", "19816270.jpg", "19816298.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816019.jpg", "19816215.jpg", "19816271.jpg", "19816299.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816020.jpg", "19816216.jpg", "19816272.jpg", "19816300.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816021.jpg", "19816217.jpg", "19816273.jpg", "19816301.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816022.jpg", "19816218.jpg", "19816274.jpg", "19816302.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "19816023.jpg", "19816219.jpg", "19816275.jpg", "19816303.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "19816024.jpg", "19816220.jpg", "19816276.jpg", "19816304.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        } ]
+      }, {
+        "materialCode" : "domo_marty_senf_3580",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_marty_senf_3580"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Chenille]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[senf]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "37595726",
+          "name" : "ECK,REC re,FKT,AV (ECK,REC re,FKT,AV)"
+        }, {
+          "articleNumber" : "48666250",
+          "name" : "ECK,REC li,FKT,AV (ECK,REC li,FKT,AV)"
+        }, {
+          "articleNumber" : "52016736",
+          "name" : "ECK,REC li,AV (ECK,REC li,AV)"
+        }, {
+          "articleNumber" : "79082802",
+          "name" : "ECK,REC re,AV (ECK,REC re,AV)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816193.jpg", "19816235.jpg" ],
+          "recamiereOttomaneRechts" : [ "19815829.jpg", "19816361.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816195.jpg", "19816237.jpg" ],
+          "recamiereOttomaneRechts" : [ "19815831.jpg", "19816363.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816196.jpg", "19816238.jpg" ],
+          "recamiereOttomaneRechts" : [ "19815832.jpg", "19816364.jpg" ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815836.jpg", "19816200.jpg", "19816242.jpg", "19816368.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815837.jpg", "19816201.jpg", "19816243.jpg", "19816369.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815838.jpg", "19816202.jpg", "19816244.jpg", "19816370.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815839.jpg", "19816203.jpg", "19816245.jpg", "19816371.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815840.jpg", "19816204.jpg", "19816246.jpg", "19816372.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "19815841.jpg", "19816205.jpg", "19816247.jpg", "19816373.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "19815842.jpg", "19816206.jpg", "19816248.jpg", "19816374.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        } ]
+      } ]
+    },
+    "functionModels" : [ {
+      "function" : "[Armteilverstellung, Bettfunktion, ausziehbare Liegefläche]",
+      "materials" : [ {
+        "materialCode" : "domo_marty_beere_3579",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_marty_beere_3579"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Chenille]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[beere]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "17860762",
+          "name" : "ECK,REC re,FKT,AV (ECK,REC re,FKT,AV)"
+        }, {
+          "articleNumber" : "78034944",
+          "name" : "ECK,REC li,FKT,AV (ECK,REC li,FKT,AV)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815886.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816586.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815889.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816589.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815890.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816590.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815891.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816591.jpg" ]
+        } ]
+      }, {
+        "materialCode" : "domo_falkone_beige_2438",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_falkone_beige_2438"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Struktur fein]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[beige]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "16357844",
+          "name" : "ECK,REC li,FKT,AV (ECK,REC li,FKT,AV)"
+        }, {
+          "articleNumber" : "65055120",
+          "name" : "ECK,REC re,FKT,AV (ECK,REC re,FKT,AV)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816656.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816068.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816659.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816071.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816660.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816072.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816661.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816073.jpg" ]
+        } ]
+      }, {
+        "materialCode" : "domo_marty_coffee_3578",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_marty_coffee_3578"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Chenille]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[cappucino]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "10286514",
+          "name" : "ECK,REC re,FKT,AV (ECK,REC re,FKT,AV)"
+        }, {
+          "articleNumber" : "59139218",
+          "name" : "ECK,REC li,FKT,AV (ECK,REC li,FKT,AV)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816096.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816684.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816099.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816687.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816100.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816688.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816101.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816689.jpg" ]
+        } ]
+      }, {
+        "materialCode" : "domo_falkone_dunkelblau_3201",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_falkone_dunkelblau_3201"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Struktur fein]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[dunkelblau]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "44557412",
+          "name" : "ECK,REC re,FKT,AV (ECK,REC re,FKT,AV)"
+        }, {
+          "articleNumber" : "94389532",
+          "name" : "ECK,REC li,FKT,AV (ECK,REC li,FKT,AV)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815690.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816306.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815693.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816309.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815694.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816310.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815695.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816311.jpg" ]
+        } ]
+      }, {
+        "materialCode" : "domo_marty_dunkelgrau_3583",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_marty_dunkelgrau_3583"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Chenille]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[dunkelgrau]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "71313964",
+          "name" : "ECK,REC re,FKT,AV (ECK,REC re,FKT,AV)"
+        }, {
+          "articleNumber" : "82725600",
+          "name" : "ECK,REC li,FKT,AV (ECK,REC li,FKT,AV)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815788.jpg" ],
+          "recamiereOttomaneRechts" : [ "19815970.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815791.jpg" ],
+          "recamiereOttomaneRechts" : [ "19815973.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815792.jpg" ],
+          "recamiereOttomaneRechts" : [ "19815974.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815793.jpg" ],
+          "recamiereOttomaneRechts" : [ "19815975.jpg" ]
+        } ]
+      }, {
+        "materialCode" : "domo_falkone_lichtblau_3339",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_falkone_lichtblau_3339"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Struktur fein]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[lichtblau]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "17118148",
+          "name" : "ECK,REC re,FKT,AV (ECK,REC re,FKT,AV)"
+        }, {
+          "articleNumber" : "67144126",
+          "name" : "ECK,REC li,FKT,AV (ECK,REC li,FKT,AV)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816040.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816614.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816043.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816617.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816044.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816618.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816045.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816619.jpg" ]
+        } ]
+      }, {
+        "materialCode" : "domo_falkone_pepper_2939",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_falkone_pepper_2939"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Struktur fein]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[pepper]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "47785166",
+          "name" : "ECK,REC re,FKT,AV (ECK,REC re,FKT,AV)"
+        }, {
+          "articleNumber" : "51885464",
+          "name" : "ECK,REC li,FKT,AV (ECK,REC li,FKT,AV)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816208.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816264.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816211.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816267.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816212.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816268.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816213.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816269.jpg" ]
+        } ]
+      }, {
+        "materialCode" : "domo_marty_senf_3580",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_marty_senf_3580"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Chenille]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[senf]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "37595726",
+          "name" : "ECK,REC re,FKT,AV (ECK,REC re,FKT,AV)"
+        }, {
+          "articleNumber" : "48666250",
+          "name" : "ECK,REC li,FKT,AV (ECK,REC li,FKT,AV)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816236.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816362.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816239.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816365.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816240.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816366.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816241.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816367.jpg" ]
+        } ]
+      } ]
+    }, {
+      "function" : "[ohne Bettfunktion, Armteilverstellung]",
+      "materials" : [ {
+        "materialCode" : "domo_marty_beere_3579",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_marty_beere_3579"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Chenille]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[beere]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "36876536",
+          "name" : "ECK,REC re,AV (ECK,REC re,AV)"
+        }, {
+          "articleNumber" : "77710302",
+          "name" : "ECK,REC li,AV (ECK,REC li,AV)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815928.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816404.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815931.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816407.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815932.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816408.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815933.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816409.jpg" ]
+        } ]
+      }, {
+        "materialCode" : "domo_falkone_beige_2438",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_falkone_beige_2438"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Struktur fein]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[beige]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "19594260",
+          "name" : "ECK,REC re,AV (ECK,REC re,AV)"
+        }, {
+          "articleNumber" : "34649060",
+          "name" : "ECK,REC li,AV (ECK,REC li,AV)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816474.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816558.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816477.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816561.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816478.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816562.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816479.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816563.jpg" ]
+        } ]
+      }, {
+        "materialCode" : "domo_marty_coffee_3578",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_marty_coffee_3578"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Chenille]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[cappucino]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "36565314",
+          "name" : "ECK,REC li,AV (ECK,REC li,AV)"
+        }, {
+          "articleNumber" : "73342336",
+          "name" : "ECK,REC re,AV (ECK,REC re,AV)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816432.jpg" ],
+          "recamiereOttomaneRechts" : [ "19815942.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816435.jpg" ],
+          "recamiereOttomaneRechts" : [ "19815945.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816436.jpg" ],
+          "recamiereOttomaneRechts" : [ "19815946.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816437.jpg" ],
+          "recamiereOttomaneRechts" : [ "19815947.jpg" ]
+        } ]
+      }, {
+        "materialCode" : "domo_falkone_dunkelblau_3201",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_falkone_dunkelblau_3201"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Struktur fein]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[dunkelblau]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "61952050",
+          "name" : "ECK,REC li,AV (ECK,REC li,AV)"
+        }, {
+          "articleNumber" : "86582508",
+          "name" : "ECK,REC re,AV (ECK,REC re,AV)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816082.jpg" ],
+          "recamiereOttomaneRechts" : [ "19815732.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816085.jpg" ],
+          "recamiereOttomaneRechts" : [ "19815735.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816086.jpg" ],
+          "recamiereOttomaneRechts" : [ "19815736.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816087.jpg" ],
+          "recamiereOttomaneRechts" : [ "19815737.jpg" ]
+        } ]
+      }, {
+        "materialCode" : "domo_marty_dunkelgrau_3583",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_marty_dunkelgrau_3583"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Chenille]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[dunkelgrau]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "53648852",
+          "name" : "ECK,REC re,AV (ECK,REC re,AV)"
+        }, {
+          "articleNumber" : "83546050",
+          "name" : "ECK,REC li,AV (ECK,REC li,AV)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815760.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816152.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815763.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816155.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815764.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816156.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815765.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816157.jpg" ]
+        } ]
+      }, {
+        "materialCode" : "domo_falkone_lichtblau_3339",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_falkone_lichtblau_3339"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Struktur fein]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[lichtblau]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "36597644",
+          "name" : "ECK,REC li,AV (ECK,REC li,AV)"
+        }, {
+          "articleNumber" : "41207536",
+          "name" : "ECK,REC re,AV (ECK,REC re,AV)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816418.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816320.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816421.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816323.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816422.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816324.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816423.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816325.jpg" ]
+        } ]
+      }, {
+        "materialCode" : "domo_falkone_pepper_2939",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_falkone_pepper_2939"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Struktur fein]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[pepper]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "46313846",
+          "name" : "ECK,REC li,AV (ECK,REC li,AV)"
+        }, {
+          "articleNumber" : "68301906",
+          "name" : "ECK,REC re,AV (ECK,REC re,AV)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816292.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816012.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816295.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816015.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816296.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816016.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816297.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816017.jpg" ]
+        } ]
+      }, {
+        "materialCode" : "domo_marty_senf_3580",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_marty_senf_3580"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Chenille]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[senf]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "52016736",
+          "name" : "ECK,REC li,AV (ECK,REC li,AV)"
+        }, {
+          "articleNumber" : "79082802",
+          "name" : "ECK,REC re,AV (ECK,REC re,AV)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816194.jpg" ],
+          "recamiereOttomaneRechts" : [ "19815830.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816197.jpg" ],
+          "recamiereOttomaneRechts" : [ "19815833.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816198.jpg" ],
+          "recamiereOttomaneRechts" : [ "19815834.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816199.jpg" ],
+          "recamiereOttomaneRechts" : [ "19815835.jpg" ]
+        } ]
+      } ]
+    } ]
+  }, {
+    "productComKey" : "1362550186",
+    "basisOcvModel" : {
+      "materials" : [ {
+        "materialCode" : "domo_marty_beere_3579",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_marty_beere_3579"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Chenille]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[beere]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "17161824",
+          "name" : "WLS,OTT re,FKT,AV (WLS,OTT re,FKT,AV)"
+        }, {
+          "articleNumber" : "37122854",
+          "name" : "WLS,OTT li,AV (WLS,OTT li,AV)"
+        }, {
+          "articleNumber" : "55871326",
+          "name" : "WLS,OTT li,FKT,AV (WLS,OTT li,FKT,AV)"
+        }, {
+          "articleNumber" : "77874636",
+          "name" : "WLS,OTT re,AV (WLS,OTT re,AV)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815913.jpg", "19816599.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816123.jpg", "19816375.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815915.jpg", "19816601.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816125.jpg", "19816377.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815916.jpg", "19816602.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816126.jpg", "19816378.jpg" ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815920.jpg", "19816130.jpg", "19816382.jpg", "19816606.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815921.jpg", "19816131.jpg", "19816383.jpg", "19816607.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815922.jpg", "19816132.jpg", "19816384.jpg", "19816608.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815923.jpg", "19816133.jpg", "19816385.jpg", "19816609.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815924.jpg", "19816134.jpg", "19816386.jpg", "19816610.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "19815925.jpg", "19816135.jpg", "19816387.jpg", "19816611.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "19815926.jpg", "19816136.jpg", "19816388.jpg", "19816612.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        } ]
+      }, {
+        "materialCode" : "domo_falkone_beige_2438",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_falkone_beige_2438"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Struktur fein]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[beige]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "15023042",
+          "name" : "WLS,OTT re,AV (WLS,OTT re,AV)"
+        }, {
+          "articleNumber" : "38467660",
+          "name" : "WLS,OTT li,FKT,AV (WLS,OTT li,FKT,AV)"
+        }, {
+          "articleNumber" : "78286630",
+          "name" : "WLS,OTT re,FKT,AV (WLS,OTT re,FKT,AV)"
+        }, {
+          "articleNumber" : "82476964",
+          "name" : "WLS,OTT li,AV (WLS,OTT li,AV)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815857.jpg", "19816669.jpg" ],
+          "recamiereOttomaneRechts" : [ "19815801.jpg", "19816347.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815859.jpg", "19816671.jpg" ],
+          "recamiereOttomaneRechts" : [ "19815803.jpg", "19816349.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815860.jpg", "19816672.jpg" ],
+          "recamiereOttomaneRechts" : [ "19815804.jpg", "19816350.jpg" ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815808.jpg", "19815864.jpg", "19816354.jpg", "19816676.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815809.jpg", "19815865.jpg", "19816355.jpg", "19816677.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815810.jpg", "19815866.jpg", "19816356.jpg", "19816678.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815811.jpg", "19815867.jpg", "19816357.jpg", "19816679.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815812.jpg", "19815868.jpg", "19816358.jpg", "19816680.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "19815813.jpg", "19815869.jpg", "19816359.jpg", "19816681.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "19815814.jpg", "19815870.jpg", "19816360.jpg", "19816682.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        } ]
+      }, {
+        "materialCode" : "domo_marty_coffee_3578",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_marty_coffee_3578"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Chenille]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[cappucino]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "47004122",
+          "name" : "WLS,OTT re,FKT,AV (WLS,OTT re,FKT,AV)"
+        }, {
+          "articleNumber" : "67414234",
+          "name" : "WLS,OTT li,AV (WLS,OTT li,AV)"
+        }, {
+          "articleNumber" : "83145036",
+          "name" : "WLS,OTT re,AV (WLS,OTT re,AV)"
+        }, {
+          "articleNumber" : "86260916",
+          "name" : "WLS,OTT li,FKT,AV (WLS,OTT li,FKT,AV)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815773.jpg", "19816277.jpg" ],
+          "recamiereOttomaneRechts" : [ "19815745.jpg", "19816025.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815775.jpg", "19816279.jpg" ],
+          "recamiereOttomaneRechts" : [ "19815747.jpg", "19816027.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815776.jpg", "19816280.jpg" ],
+          "recamiereOttomaneRechts" : [ "19815748.jpg", "19816028.jpg" ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815752.jpg", "19815780.jpg", "19816032.jpg", "19816284.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815753.jpg", "19815781.jpg", "19816033.jpg", "19816285.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815754.jpg", "19815782.jpg", "19816034.jpg", "19816286.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815755.jpg", "19815783.jpg", "19816035.jpg", "19816287.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815756.jpg", "19815784.jpg", "19816036.jpg", "19816288.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "19815757.jpg", "19815785.jpg", "19816037.jpg", "19816289.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "19815758.jpg", "19815786.jpg", "19816038.jpg", "19816290.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        } ]
+      }, {
+        "materialCode" : "domo_falkone_dunkelblau_3201",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_falkone_dunkelblau_3201"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Struktur fein]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[dunkelblau]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "16383830",
+          "name" : "WLS,OTT re,FKT,AV (WLS,OTT re,FKT,AV)"
+        }, {
+          "articleNumber" : "16694808",
+          "name" : "WLS,OTT li,FKT,AV (WLS,OTT li,FKT,AV)"
+        }, {
+          "articleNumber" : "38721542",
+          "name" : "WLS,OTT re,AV (WLS,OTT re,AV)"
+        }, {
+          "articleNumber" : "58712462",
+          "name" : "WLS,OTT li,AV (WLS,OTT li,AV)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816333.jpg", "19816641.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816109.jpg", "19816627.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816335.jpg", "19816643.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816111.jpg", "19816629.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816336.jpg", "19816644.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816112.jpg", "19816630.jpg" ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816116.jpg", "19816340.jpg", "19816634.jpg", "19816648.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816117.jpg", "19816341.jpg", "19816635.jpg", "19816649.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816118.jpg", "19816342.jpg", "19816636.jpg", "19816650.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816119.jpg", "19816343.jpg", "19816637.jpg", "19816651.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816120.jpg", "19816344.jpg", "19816638.jpg", "19816652.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "19816121.jpg", "19816345.jpg", "19816639.jpg", "19816653.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "19816122.jpg", "19816346.jpg", "19816640.jpg", "19816654.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        } ]
+      }, {
+        "materialCode" : "domo_marty_dunkelgrau_3583",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_marty_dunkelgrau_3583"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Chenille]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[dunkelgrau]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "26524226",
+          "name" : "WLS,OTT re,AV (WLS,OTT re,AV)"
+        }, {
+          "articleNumber" : "54068166",
+          "name" : "WLS,OTT li,FKT,AV (WLS,OTT li,FKT,AV)"
+        }, {
+          "articleNumber" : "71446822",
+          "name" : "WLS,OTT re,FKT,AV (WLS,OTT re,FKT,AV)"
+        }, {
+          "articleNumber" : "78075448",
+          "name" : "WLS,OTT li,AV (WLS,OTT li,AV)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815955.jpg", "19816515.jpg" ],
+          "recamiereOttomaneRechts" : [ "19815871.jpg", "19816137.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815957.jpg", "19816517.jpg" ],
+          "recamiereOttomaneRechts" : [ "19815873.jpg", "19816139.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815958.jpg", "19816518.jpg" ],
+          "recamiereOttomaneRechts" : [ "19815874.jpg", "19816140.jpg" ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815878.jpg", "19815962.jpg", "19816144.jpg", "19816522.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815879.jpg", "19815963.jpg", "19816145.jpg", "19816523.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815880.jpg", "19815964.jpg", "19816146.jpg", "19816524.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815881.jpg", "19815965.jpg", "19816147.jpg", "19816525.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815882.jpg", "19815966.jpg", "19816148.jpg", "19816526.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "19815883.jpg", "19815967.jpg", "19816149.jpg", "19816527.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "19815884.jpg", "19815968.jpg", "19816150.jpg", "19816528.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        } ]
+      }, {
+        "materialCode" : "domo_falkone_lichtblau_3339",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_falkone_lichtblau_3339"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Struktur fein]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[lichtblau]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "35583946",
+          "name" : "WLS,OTT re,FKT,AV (WLS,OTT re,FKT,AV)"
+        }, {
+          "articleNumber" : "37048434",
+          "name" : "WLS,OTT li,FKT,AV (WLS,OTT li,FKT,AV)"
+        }, {
+          "articleNumber" : "49668236",
+          "name" : "WLS,OTT re,AV (WLS,OTT re,AV)"
+        }, {
+          "articleNumber" : "69257166",
+          "name" : "WLS,OTT li,AV (WLS,OTT li,AV)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816221.jpg", "19816445.jpg" ],
+          "recamiereOttomaneRechts" : [ "19815983.jpg", "19816389.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816223.jpg", "19816447.jpg" ],
+          "recamiereOttomaneRechts" : [ "19815985.jpg", "19816391.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816224.jpg", "19816448.jpg" ],
+          "recamiereOttomaneRechts" : [ "19815986.jpg", "19816392.jpg" ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815990.jpg", "19816228.jpg", "19816396.jpg", "19816452.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815991.jpg", "19816229.jpg", "19816397.jpg", "19816453.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815992.jpg", "19816230.jpg", "19816398.jpg", "19816454.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815993.jpg", "19816231.jpg", "19816399.jpg", "19816455.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815994.jpg", "19816232.jpg", "19816400.jpg", "19816456.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "19815995.jpg", "19816233.jpg", "19816401.jpg", "19816457.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "19815996.jpg", "19816234.jpg", "19816402.jpg", "19816458.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        } ]
+      }, {
+        "materialCode" : "domo_falkone_pepper_2939",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_falkone_pepper_2939"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Struktur fein]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[pepper]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "19744930",
+          "name" : "WLS,OTT re,FKT,AV (WLS,OTT re,FKT,AV)"
+        }, {
+          "articleNumber" : "30397604",
+          "name" : "WLS,OTT li,AV (WLS,OTT li,AV)"
+        }, {
+          "articleNumber" : "33207630",
+          "name" : "WLS,OTT li,FKT,AV (WLS,OTT li,FKT,AV)"
+        }, {
+          "articleNumber" : "53284804",
+          "name" : "WLS,OTT re,AV (WLS,OTT re,AV)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816165.jpg", "19816543.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816487.jpg", "19816501.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816167.jpg", "19816545.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816489.jpg", "19816503.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816168.jpg", "19816546.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816490.jpg", "19816504.jpg" ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816172.jpg", "19816494.jpg", "19816508.jpg", "19816550.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816173.jpg", "19816495.jpg", "19816509.jpg", "19816551.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816174.jpg", "19816496.jpg", "19816510.jpg", "19816552.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816175.jpg", "19816497.jpg", "19816511.jpg", "19816553.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816176.jpg", "19816498.jpg", "19816512.jpg", "19816554.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "19816177.jpg", "19816499.jpg", "19816513.jpg", "19816555.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "19816178.jpg", "19816500.jpg", "19816514.jpg", "19816556.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        } ]
+      }, {
+        "materialCode" : "domo_marty_senf_3580",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_marty_senf_3580"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Chenille]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[senf]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "19040258",
+          "name" : "WLS,OTT re,AV (WLS,OTT re,AV)"
+        }, {
+          "articleNumber" : "65950600",
+          "name" : "WLS,OTT re,FKT,AV (WLS,OTT re,FKT,AV)"
+        }, {
+          "articleNumber" : "81686038",
+          "name" : "WLS,OTT li,AV (WLS,OTT li,AV)"
+        }, {
+          "articleNumber" : "88952968",
+          "name" : "WLS,OTT li,FKT,AV (WLS,OTT li,FKT,AV)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816053.jpg", "19816571.jpg" ],
+          "recamiereOttomaneRechts" : [ "19815717.jpg", "19815815.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816055.jpg", "19816573.jpg" ],
+          "recamiereOttomaneRechts" : [ "19815719.jpg", "19815817.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816056.jpg", "19816574.jpg" ],
+          "recamiereOttomaneRechts" : [ "19815720.jpg", "19815818.jpg" ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815724.jpg", "19815822.jpg", "19816060.jpg", "19816578.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815725.jpg", "19815823.jpg", "19816061.jpg", "19816579.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815726.jpg", "19815824.jpg", "19816062.jpg", "19816580.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815727.jpg", "19815825.jpg", "19816063.jpg", "19816581.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815728.jpg", "19815826.jpg", "19816064.jpg", "19816582.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "19815729.jpg", "19815827.jpg", "19816065.jpg", "19816583.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "19815730.jpg", "19815828.jpg", "19816066.jpg", "19816584.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        } ]
+      } ]
+    },
+    "functionModels" : [ {
+      "function" : "[Armteilverstellung, Bettfunktion, ausziehbare Liegefläche]",
+      "materials" : [ {
+        "materialCode" : "domo_marty_beere_3579",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_marty_beere_3579"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Chenille]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[beere]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "17161824",
+          "name" : "WLS,OTT re,FKT,AV (WLS,OTT re,FKT,AV)"
+        }, {
+          "articleNumber" : "55871326",
+          "name" : "WLS,OTT li,FKT,AV (WLS,OTT li,FKT,AV)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816600.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816124.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816603.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816127.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816604.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816128.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816605.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816129.jpg" ]
+        } ]
+      }, {
+        "materialCode" : "domo_falkone_beige_2438",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_falkone_beige_2438"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Struktur fein]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[beige]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "38467660",
+          "name" : "WLS,OTT li,FKT,AV (WLS,OTT li,FKT,AV)"
+        }, {
+          "articleNumber" : "78286630",
+          "name" : "WLS,OTT re,FKT,AV (WLS,OTT re,FKT,AV)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815858.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816348.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815861.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816351.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815862.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816352.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815863.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816353.jpg" ]
+        } ]
+      }, {
+        "materialCode" : "domo_marty_coffee_3578",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_marty_coffee_3578"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Chenille]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[cappucino]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "47004122",
+          "name" : "WLS,OTT re,FKT,AV (WLS,OTT re,FKT,AV)"
+        }, {
+          "articleNumber" : "86260916",
+          "name" : "WLS,OTT li,FKT,AV (WLS,OTT li,FKT,AV)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816278.jpg" ],
+          "recamiereOttomaneRechts" : [ "19815746.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816281.jpg" ],
+          "recamiereOttomaneRechts" : [ "19815749.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816282.jpg" ],
+          "recamiereOttomaneRechts" : [ "19815750.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816283.jpg" ],
+          "recamiereOttomaneRechts" : [ "19815751.jpg" ]
+        } ]
+      }, {
+        "materialCode" : "domo_falkone_dunkelblau_3201",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_falkone_dunkelblau_3201"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Struktur fein]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[dunkelblau]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "16383830",
+          "name" : "WLS,OTT re,FKT,AV (WLS,OTT re,FKT,AV)"
+        }, {
+          "articleNumber" : "16694808",
+          "name" : "WLS,OTT li,FKT,AV (WLS,OTT li,FKT,AV)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816642.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816628.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816645.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816631.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816646.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816632.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816647.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816633.jpg" ]
+        } ]
+      }, {
+        "materialCode" : "domo_marty_dunkelgrau_3583",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_marty_dunkelgrau_3583"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Chenille]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[dunkelgrau]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "54068166",
+          "name" : "WLS,OTT li,FKT,AV (WLS,OTT li,FKT,AV)"
+        }, {
+          "articleNumber" : "71446822",
+          "name" : "WLS,OTT re,FKT,AV (WLS,OTT re,FKT,AV)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815956.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816138.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815959.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816141.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815960.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816142.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815961.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816143.jpg" ]
+        } ]
+      }, {
+        "materialCode" : "domo_falkone_lichtblau_3339",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_falkone_lichtblau_3339"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Struktur fein]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[lichtblau]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "35583946",
+          "name" : "WLS,OTT re,FKT,AV (WLS,OTT re,FKT,AV)"
+        }, {
+          "articleNumber" : "37048434",
+          "name" : "WLS,OTT li,FKT,AV (WLS,OTT li,FKT,AV)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816446.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816390.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816449.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816393.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816450.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816394.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816451.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816395.jpg" ]
+        } ]
+      }, {
+        "materialCode" : "domo_falkone_pepper_2939",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_falkone_pepper_2939"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Struktur fein]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[pepper]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "19744930",
+          "name" : "WLS,OTT re,FKT,AV (WLS,OTT re,FKT,AV)"
+        }, {
+          "articleNumber" : "33207630",
+          "name" : "WLS,OTT li,FKT,AV (WLS,OTT li,FKT,AV)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816544.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816488.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816547.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816491.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816548.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816492.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816549.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816493.jpg" ]
+        } ]
+      }, {
+        "materialCode" : "domo_marty_senf_3580",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_marty_senf_3580"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Chenille]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[senf]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "65950600",
+          "name" : "WLS,OTT re,FKT,AV (WLS,OTT re,FKT,AV)"
+        }, {
+          "articleNumber" : "88952968",
+          "name" : "WLS,OTT li,FKT,AV (WLS,OTT li,FKT,AV)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816054.jpg" ],
+          "recamiereOttomaneRechts" : [ "19815718.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816057.jpg" ],
+          "recamiereOttomaneRechts" : [ "19815721.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816058.jpg" ],
+          "recamiereOttomaneRechts" : [ "19815722.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816059.jpg" ],
+          "recamiereOttomaneRechts" : [ "19815723.jpg" ]
+        } ]
+      } ]
+    }, {
+      "function" : "[ohne Bettfunktion, Armteilverstellung]",
+      "materials" : [ {
+        "materialCode" : "domo_marty_beere_3579",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_marty_beere_3579"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Chenille]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[beere]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "37122854",
+          "name" : "WLS,OTT li,AV (WLS,OTT li,AV)"
+        }, {
+          "articleNumber" : "77874636",
+          "name" : "WLS,OTT re,AV (WLS,OTT re,AV)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815914.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816376.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815917.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816379.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815918.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816380.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815919.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816381.jpg" ]
+        } ]
+      }, {
+        "materialCode" : "domo_falkone_beige_2438",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_falkone_beige_2438"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Struktur fein]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[beige]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "15023042",
+          "name" : "WLS,OTT re,AV (WLS,OTT re,AV)"
+        }, {
+          "articleNumber" : "82476964",
+          "name" : "WLS,OTT li,AV (WLS,OTT li,AV)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816670.jpg" ],
+          "recamiereOttomaneRechts" : [ "19815802.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816673.jpg" ],
+          "recamiereOttomaneRechts" : [ "19815805.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816674.jpg" ],
+          "recamiereOttomaneRechts" : [ "19815806.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816675.jpg" ],
+          "recamiereOttomaneRechts" : [ "19815807.jpg" ]
+        } ]
+      }, {
+        "materialCode" : "domo_marty_coffee_3578",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_marty_coffee_3578"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Chenille]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[cappucino]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "67414234",
+          "name" : "WLS,OTT li,AV (WLS,OTT li,AV)"
+        }, {
+          "articleNumber" : "83145036",
+          "name" : "WLS,OTT re,AV (WLS,OTT re,AV)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815774.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816026.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815777.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816029.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815778.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816030.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19815779.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816031.jpg" ]
+        } ]
+      }, {
+        "materialCode" : "domo_falkone_dunkelblau_3201",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_falkone_dunkelblau_3201"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Struktur fein]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[dunkelblau]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "38721542",
+          "name" : "WLS,OTT re,AV (WLS,OTT re,AV)"
+        }, {
+          "articleNumber" : "58712462",
+          "name" : "WLS,OTT li,AV (WLS,OTT li,AV)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816334.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816110.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816337.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816113.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816338.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816114.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816339.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816115.jpg" ]
+        } ]
+      }, {
+        "materialCode" : "domo_marty_dunkelgrau_3583",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_marty_dunkelgrau_3583"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Chenille]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[dunkelgrau]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "26524226",
+          "name" : "WLS,OTT re,AV (WLS,OTT re,AV)"
+        }, {
+          "articleNumber" : "78075448",
+          "name" : "WLS,OTT li,AV (WLS,OTT li,AV)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816516.jpg" ],
+          "recamiereOttomaneRechts" : [ "19815872.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816519.jpg" ],
+          "recamiereOttomaneRechts" : [ "19815875.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816520.jpg" ],
+          "recamiereOttomaneRechts" : [ "19815876.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816521.jpg" ],
+          "recamiereOttomaneRechts" : [ "19815877.jpg" ]
+        } ]
+      }, {
+        "materialCode" : "domo_falkone_lichtblau_3339",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_falkone_lichtblau_3339"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Struktur fein]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[lichtblau]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "49668236",
+          "name" : "WLS,OTT re,AV (WLS,OTT re,AV)"
+        }, {
+          "articleNumber" : "69257166",
+          "name" : "WLS,OTT li,AV (WLS,OTT li,AV)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816222.jpg" ],
+          "recamiereOttomaneRechts" : [ "19815984.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816225.jpg" ],
+          "recamiereOttomaneRechts" : [ "19815987.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816226.jpg" ],
+          "recamiereOttomaneRechts" : [ "19815988.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816227.jpg" ],
+          "recamiereOttomaneRechts" : [ "19815989.jpg" ]
+        } ]
+      }, {
+        "materialCode" : "domo_falkone_pepper_2939",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_falkone_pepper_2939"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Struktur fein]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[pepper]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "30397604",
+          "name" : "WLS,OTT li,AV (WLS,OTT li,AV)"
+        }, {
+          "articleNumber" : "53284804",
+          "name" : "WLS,OTT re,AV (WLS,OTT re,AV)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816166.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816502.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816169.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816505.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816170.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816506.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816171.jpg" ],
+          "recamiereOttomaneRechts" : [ "19816507.jpg" ]
+        } ]
+      }, {
+        "materialCode" : "domo_marty_senf_3580",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "domo_marty_senf_3580"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Chenille]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[senf]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "19040258",
+          "name" : "WLS,OTT re,AV (WLS,OTT re,AV)"
+        }, {
+          "articleNumber" : "81686038",
+          "name" : "WLS,OTT li,AV (WLS,OTT li,AV)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816572.jpg" ],
+          "recamiereOttomaneRechts" : [ "19815816.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816575.jpg" ],
+          "recamiereOttomaneRechts" : [ "19815819.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816576.jpg" ],
+          "recamiereOttomaneRechts" : [ "19815820.jpg" ]
+        }, {
+          "detailfotografie" : "Funktion",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "19816577.jpg" ],
+          "recamiereOttomaneRechts" : [ "19815821.jpg" ]
+        } ]
+      } ]
+    } ]
+  } ]
+}
