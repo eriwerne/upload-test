@@ -3,7 +3,7 @@ package core.image;
 import core.image.exceptions.InvalidDetailFotografie;
 
 public enum DetailFotografie {
-    NULL, FUNKTION, SORTIMENTSDETAIL, MATERIALSTOFF, FARBFLECK, DIGITALESSTOFFMUSTER, MARKENDETAIL, ZUBEHOER;
+    NULL, FUNKTION, SORTIMENTSDETAIL, MATERIALSTOFF, FARBFLECK, DIGITALESSTOFFMUSTER, MARKENDETAIL, ZUBEHOER, MATERIALMUSTER;
 
     public boolean isMirrorable() {
         switch (this) {
@@ -30,6 +30,8 @@ public enum DetailFotografie {
                 return "Digitales Stoffmuster";
             case MARKENDETAIL:
                 return "Markendetail";
+            case MATERIALMUSTER:
+                return "Materialmuster";
             case NULL:
                 return "";
             case ZUBEHOER:
@@ -55,8 +57,10 @@ public enum DetailFotografie {
                 return 7;
             case MATERIALSTOFF:
                 return 8;
-            case ZUBEHOER:
+            case MATERIALMUSTER:
                 return 9;
+            case ZUBEHOER:
+                return 10;
             default:
                 throw new InvalidDetailFotografie(this);
         }

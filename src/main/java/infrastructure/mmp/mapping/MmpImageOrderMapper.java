@@ -62,6 +62,8 @@ public class MmpImageOrderMapper {
                 return MARKENDETAIL;
             case "Material / Stoff":
                 return MATERIALSTOFF;
+            case "Materialmuster":
+                return MATERIALMUSTER;
             default:
                 throw new IllegalStateException("Unexpected value: " + string);
         }
