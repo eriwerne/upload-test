@@ -70,9 +70,9 @@ public class Mmp implements MmpApi {
 
     private String requestSessionToken() throws ResourceFailure {
         try {
-            HttpPost post = new HttpPost(Configuration.mmpProdUrl + "/Session/login");
+            HttpPost post = new HttpPost(Configuration.mmpProdUrl + "/Session/statelessLogin");
             String body =
-                    "{\"tenantId\": \"1\"," +
+                    "{\"tenant\": \"OV\"," +
                             "\"username\": \"" + credentialStore.getSecretValueForKey("mmpProdUser") + "\"," +
                             "\"password\": \"" + credentialStore.getSecretValueForKey("mmpProdPassword") + "\"}";
             post.setEntity(new StringEntity(body));
@@ -80,7 +80,7 @@ public class Mmp implements MmpApi {
             HttpResponse response = client.execute(post);
             httpResponseValidator.validateResponseStatus(response.getStatusLine());
             String json = IOUtils.toString(response.getEntity().getContent(), StandardCharsets.UTF_8.name());
-            return new JSONObject(json).getString("bearer");
+            return new JSONObject(json).getString("jwt");
         } catch (IOException | SecretNotFoundException e) {
             throw new MmpConnectionFailure(e);
         }
