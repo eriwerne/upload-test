@@ -35,6 +35,7 @@ public class ArticleDuplicateMatcher {
 
     private boolean articlesAreDuplicates(Article article, Article otherArticle) {
         return article.isInImageGroupWith(otherArticle)
-                && article.getMaterials().equals(otherArticle.getMaterials());
+                && article.getMaterials().equals(otherArticle.getMaterials())
+                && article.getArticleFunctionDescription().equals(otherArticle.getArticleFunctionDescription());
     }
 }

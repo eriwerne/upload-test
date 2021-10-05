@@ -3,6 +3,7 @@ package application.output.formats.json;
 import core.article.Article;
 import core.article.Materials;
 import core.order.CgiModel;
+import core.order.ImageOrderGroupKey;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -15,8 +16,8 @@ public class JsonNodeFunctionModel {
     public JsonNodeFunctionModel(String function, CgiModel model, HashMap<String, Article> filenameArticleRelations) {
         this.function = function;
         materials = new ArrayList<>();
-        for (Materials materials : model.getMaterialsImageOrderListMap().keySet()) {
-            this.materials.add(new JsonNodeMaterials(model.getMaterialsImageOrderListMap().get(materials), materials, filenameArticleRelations));
+        for (ImageOrderGroupKey materials : model.getMaterialsImageOrderListMap().keySet()) {
+            this.materials.add(new JsonNodeMaterials(model.getMaterialsImageOrderListMap().get(materials), materials.materials, filenameArticleRelations));
         }
     }
 

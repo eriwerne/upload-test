@@ -2,33 +2,34 @@ package core.order;
 
 import core.article.Materials;
 import core.image.ImageOrder;
+import org.apache.commons.lang3.tuple.Pair;
 
 import java.io.Serializable;
 import java.util.*;
 
-public class CgiModel  implements Serializable {
-    private final LinkedHashMap<Materials, List<ImageOrder>> materialsImageOrderListMap = new LinkedHashMap<>();
+public class CgiModel implements Serializable {
+    private final ImageOrdersByMaterialAndFunction materialsImageOrderListMap = new ImageOrdersByMaterialAndFunction();
 
-    public LinkedHashMap<Materials, List<ImageOrder>> getMaterialsImageOrderListMap() {
+    public ImageOrdersByMaterialAndFunction getMaterialsImageOrderListMap() {
         return sortList(materialsImageOrderListMap);
     }
 
-    public void appendImageOrdersToMaterials(ImageOrder imageOrder, Materials materials) {
-        if (!materialsImageOrderListMap.containsKey(materials)) {
-            materialsImageOrderListMap.put(materials, new ArrayList<>());
+    public void appendImageOrdersToMaterials(ImageOrder imageOrder, Materials materials, String function) {
+        if (!materialsImageOrderListMap.containsKey(materials, function)) {
+            materialsImageOrderListMap.put(materials, function, new ArrayList<>());
         }
-        List<ImageOrder> materialsImageOrders = materialsImageOrderListMap.get(materials);
+        List<ImageOrder> materialsImageOrders = materialsImageOrderListMap.get(materials, function);
         if (!materialsImageOrders.contains(imageOrder))
             materialsImageOrders.add(imageOrder);
     }
 
-    private LinkedHashMap<Materials, List<ImageOrder>> sortList(LinkedHashMap<Materials, List<ImageOrder>> materialsImageOrderListMap) {
-        ArrayList<Materials> sortedMaterials = new ArrayList<>(materialsImageOrderListMap.keySet());
-        sortedMaterials.sort(Comparator.comparing(Materials::sortValue));
+    private ImageOrdersByMaterialAndFunction sortList(ImageOrdersByMaterialAndFunction materialsImageOrderListMap) {
+        ArrayList<ImageOrderGroupKey> sortedMaterials = new ArrayList<>(materialsImageOrderListMap.keySet());
+        sortedMaterials.sort(Comparator.comparing(it -> it.materials.sortValue()));
 
-        LinkedHashMap<Materials, List<ImageOrder>> sortedList = new LinkedHashMap<>();
-        for (Materials material : sortedMaterials)
-            sortedList.put(material, materialsImageOrderListMap.get(material));
+        ImageOrdersByMaterialAndFunction sortedList = new ImageOrdersByMaterialAndFunction();
+        for (ImageOrderGroupKey material : sortedMaterials)
+            sortedList.put(material.materials, material.function, materialsImageOrderListMap.get(material));
         return sortedList;
     }
 }

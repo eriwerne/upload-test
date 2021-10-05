@@ -25,12 +25,6 @@
           "articleNumber" : "35357935",
           "name" : "ECK,OTTXSli, (ECK,OTTXSli,)"
         }, {
-          "articleNumber" : "42913700",
-          "name" : "ECK,OTTXSli,STV,BK (ECK,OTTXSli,STV,BK)"
-        }, {
-          "articleNumber" : "66433043",
-          "name" : "ECK,OTTXSre,STV,BK (ECK,OTTXSre,STV,BK)"
-        }, {
           "articleNumber" : "88172223",
           "name" : "ECK,OTTXSre (ECK,OTTXSre)"
         } ],
@@ -38,61 +32,147 @@
           "detailfotografie" : "",
           "ansicht" : "Vorderansicht leicht seitlich links",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823201.jpg", "18823341.jpg" ],
-          "recamiereOttomaneRechts" : [ "18823635.jpg", "18823999.jpg" ]
+          "recamiereOttomaneLinks" : [ "18823201.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823999.jpg" ]
         }, {
           "detailfotografie" : "",
           "ansicht" : "Vorderansicht",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823203.jpg", "18823343.jpg" ],
-          "recamiereOttomaneRechts" : [ "18823637.jpg", "18824001.jpg" ]
+          "recamiereOttomaneLinks" : [ "18823203.jpg" ],
+          "recamiereOttomaneRechts" : [ "18824001.jpg" ]
         }, {
           "detailfotografie" : "",
           "ansicht" : "Rückansicht",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823204.jpg", "18823344.jpg" ],
-          "recamiereOttomaneRechts" : [ "18823638.jpg", "18824002.jpg" ]
+          "recamiereOttomaneLinks" : [ "18823204.jpg" ],
+          "recamiereOttomaneRechts" : [ "18824002.jpg" ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823208.jpg", "18823348.jpg", "18823642.jpg", "18824006.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823208.jpg", "18824006.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823209.jpg", "18823349.jpg", "18823643.jpg", "18824007.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823209.jpg", "18824007.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823210.jpg", "18823350.jpg", "18823644.jpg", "18824008.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823210.jpg", "18824008.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823211.jpg", "18823351.jpg", "18823645.jpg", "18824009.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823211.jpg", "18824009.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823212.jpg", "18823352.jpg", "18823646.jpg", "18824010.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823212.jpg", "18824010.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Farbfleck",
           "ansicht" : "",
           "aufnahmeart" : "",
-          "recamiereOttomaneLinks" : [ "18823213.jpg", "18823353.jpg", "18823647.jpg", "18824011.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823213.jpg", "18824011.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Material / Stoff",
           "ansicht" : "",
           "aufnahmeart" : "",
-          "recamiereOttomaneLinks" : [ "18823214.jpg", "18823354.jpg", "18823648.jpg", "18824012.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823214.jpg", "18824012.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        } ]
+      }, {
+        "materialCode" : "steinpol_olympia_clean_weiss_02",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "steinpol_olympia_clean_weiss_02"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Struktur weich]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[creme]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Kunststoff]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "42913700",
+          "name" : "ECK,OTTXSli,STV,BK (ECK,OTTXSli,STV,BK)"
+        }, {
+          "articleNumber" : "66433043",
+          "name" : "ECK,OTTXSre,STV,BK (ECK,OTTXSre,STV,BK)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823341.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823635.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823343.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823637.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823344.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823638.jpg" ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823348.jpg", "18823642.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823349.jpg", "18823643.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823350.jpg", "18823644.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823351.jpg", "18823645.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823352.jpg", "18823646.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "18823353.jpg", "18823647.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "18823354.jpg", "18823648.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         } ]
       }, {
@@ -119,7 +199,87 @@
         }, {
           "articleNumber" : "58954626",
           "name" : "ECK,OTTXSli, (ECK,OTTXSli,)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823565.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823411.jpg" ]
         }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823567.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823413.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823568.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823414.jpg" ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823418.jpg", "18823572.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823419.jpg", "18823573.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823420.jpg", "18823574.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823421.jpg", "18823575.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823422.jpg", "18823576.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "18823423.jpg", "18823577.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "18823424.jpg", "18823578.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        } ]
+      }, {
+        "materialCode" : "steinpol_euphoria_elephant_7",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "steinpol_euphoria_elephant_7"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Luxus-Microfaser Euphoria]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[elephant]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Kunststoff]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
           "articleNumber" : "70163803",
           "name" : "ECK,OTTXSli,STV,BK (ECK,OTTXSli,STV,BK)"
         }, {
@@ -130,61 +290,147 @@
           "detailfotografie" : "",
           "ansicht" : "Vorderansicht leicht seitlich links",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823565.jpg", "18823691.jpg" ],
-          "recamiereOttomaneRechts" : [ "18823411.jpg", "18823943.jpg" ]
+          "recamiereOttomaneLinks" : [ "18823691.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823943.jpg" ]
         }, {
           "detailfotografie" : "",
           "ansicht" : "Vorderansicht",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823567.jpg", "18823693.jpg" ],
-          "recamiereOttomaneRechts" : [ "18823413.jpg", "18823945.jpg" ]
+          "recamiereOttomaneLinks" : [ "18823693.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823945.jpg" ]
         }, {
           "detailfotografie" : "",
           "ansicht" : "Rückansicht",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823568.jpg", "18823694.jpg" ],
-          "recamiereOttomaneRechts" : [ "18823414.jpg", "18823946.jpg" ]
+          "recamiereOttomaneLinks" : [ "18823694.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823946.jpg" ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823418.jpg", "18823572.jpg", "18823698.jpg", "18823950.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823698.jpg", "18823950.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823419.jpg", "18823573.jpg", "18823699.jpg", "18823951.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823699.jpg", "18823951.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823420.jpg", "18823574.jpg", "18823700.jpg", "18823952.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823700.jpg", "18823952.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823421.jpg", "18823575.jpg", "18823701.jpg", "18823953.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823701.jpg", "18823953.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823422.jpg", "18823576.jpg", "18823702.jpg", "18823954.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823702.jpg", "18823954.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Farbfleck",
           "ansicht" : "",
           "aufnahmeart" : "",
-          "recamiereOttomaneLinks" : [ "18823423.jpg", "18823577.jpg", "18823703.jpg", "18823955.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823703.jpg", "18823955.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Material / Stoff",
           "ansicht" : "",
           "aufnahmeart" : "",
-          "recamiereOttomaneLinks" : [ "18823424.jpg", "18823578.jpg", "18823704.jpg", "18823956.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823704.jpg", "18823956.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        } ]
+      }, {
+        "materialCode" : "steinpol_euphoria_fango_16",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "steinpol_euphoria_fango_16"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Luxus-Microfaser Euphoria]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[fango]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Kunststoff]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "36957965",
+          "name" : "ECK,OTTXSli, (ECK,OTTXSli,)"
+        }, {
+          "articleNumber" : "53350556",
+          "name" : "ECK,OTTXSre (ECK,OTTXSre)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823271.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823439.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823273.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823441.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823274.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823442.jpg" ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823278.jpg", "18823446.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823279.jpg", "18823447.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823280.jpg", "18823448.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823281.jpg", "18823449.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823282.jpg", "18823450.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "18823283.jpg", "18823451.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "18823284.jpg", "18823452.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         } ]
       }, {
@@ -209,12 +455,6 @@
           "articleNumber" : "36706767",
           "name" : "ECK,OTTXSre,STV,BK (ECK,OTTXSre,STV,BK)"
         }, {
-          "articleNumber" : "36957965",
-          "name" : "ECK,OTTXSli, (ECK,OTTXSli,)"
-        }, {
-          "articleNumber" : "53350556",
-          "name" : "ECK,OTTXSre (ECK,OTTXSre)"
-        }, {
           "articleNumber" : "97315818",
           "name" : "ECK,OTTXSli,STV,BK (ECK,OTTXSli,STV,BK)"
         } ],
@@ -222,61 +462,61 @@
           "detailfotografie" : "",
           "ansicht" : "Vorderansicht leicht seitlich links",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823271.jpg", "18824125.jpg" ],
-          "recamiereOttomaneRechts" : [ "18823257.jpg", "18823439.jpg" ]
+          "recamiereOttomaneLinks" : [ "18824125.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823257.jpg" ]
         }, {
           "detailfotografie" : "",
           "ansicht" : "Vorderansicht",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823273.jpg", "18824127.jpg" ],
-          "recamiereOttomaneRechts" : [ "18823259.jpg", "18823441.jpg" ]
+          "recamiereOttomaneLinks" : [ "18824127.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823259.jpg" ]
         }, {
           "detailfotografie" : "",
           "ansicht" : "Rückansicht",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823274.jpg", "18824128.jpg" ],
-          "recamiereOttomaneRechts" : [ "18823260.jpg", "18823442.jpg" ]
+          "recamiereOttomaneLinks" : [ "18824128.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823260.jpg" ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823264.jpg", "18823278.jpg", "18823446.jpg", "18824132.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823264.jpg", "18824132.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823265.jpg", "18823279.jpg", "18823447.jpg", "18824133.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823265.jpg", "18824133.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823266.jpg", "18823280.jpg", "18823448.jpg", "18824134.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823266.jpg", "18824134.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823267.jpg", "18823281.jpg", "18823449.jpg", "18824135.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823267.jpg", "18824135.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823268.jpg", "18823282.jpg", "18823450.jpg", "18824136.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823268.jpg", "18824136.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Farbfleck",
           "ansicht" : "",
           "aufnahmeart" : "",
-          "recamiereOttomaneLinks" : [ "18823269.jpg", "18823283.jpg", "18823451.jpg", "18824137.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823269.jpg", "18824137.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Material / Stoff",
           "ansicht" : "",
           "aufnahmeart" : "",
-          "recamiereOttomaneLinks" : [ "18823270.jpg", "18823284.jpg", "18823452.jpg", "18824138.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823270.jpg", "18824138.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         } ]
       }, {
@@ -301,12 +541,6 @@
           "articleNumber" : "29362001",
           "name" : "ECK,OTTXSli, (ECK,OTTXSli,)"
         }, {
-          "articleNumber" : "58136250",
-          "name" : "ECK,OTTXSli,STV,BK (ECK,OTTXSli,STV,BK)"
-        }, {
-          "articleNumber" : "62739066",
-          "name" : "ECK,OTTXSre,STV,BK (ECK,OTTXSre,STV,BK)"
-        }, {
           "articleNumber" : "84920557",
           "name" : "ECK,OTTXSre (ECK,OTTXSre)"
         } ],
@@ -314,61 +548,147 @@
           "detailfotografie" : "",
           "ansicht" : "Vorderansicht leicht seitlich links",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823117.jpg", "18823551.jpg" ],
-          "recamiereOttomaneRechts" : [ "18823607.jpg", "18823957.jpg" ]
+          "recamiereOttomaneLinks" : [ "18823117.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823957.jpg" ]
         }, {
           "detailfotografie" : "",
           "ansicht" : "Vorderansicht",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823119.jpg", "18823553.jpg" ],
-          "recamiereOttomaneRechts" : [ "18823609.jpg", "18823959.jpg" ]
+          "recamiereOttomaneLinks" : [ "18823119.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823959.jpg" ]
         }, {
           "detailfotografie" : "",
           "ansicht" : "Rückansicht",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823120.jpg", "18823554.jpg" ],
-          "recamiereOttomaneRechts" : [ "18823610.jpg", "18823960.jpg" ]
+          "recamiereOttomaneLinks" : [ "18823120.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823960.jpg" ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823124.jpg", "18823558.jpg", "18823614.jpg", "18823964.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823124.jpg", "18823964.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823125.jpg", "18823559.jpg", "18823615.jpg", "18823965.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823125.jpg", "18823965.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823126.jpg", "18823560.jpg", "18823616.jpg", "18823966.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823126.jpg", "18823966.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823127.jpg", "18823561.jpg", "18823617.jpg", "18823967.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823127.jpg", "18823967.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823128.jpg", "18823562.jpg", "18823618.jpg", "18823968.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823128.jpg", "18823968.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Farbfleck",
           "ansicht" : "",
           "aufnahmeart" : "",
-          "recamiereOttomaneLinks" : [ "18823129.jpg", "18823563.jpg", "18823619.jpg", "18823969.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823129.jpg", "18823969.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Material / Stoff",
           "ansicht" : "",
           "aufnahmeart" : "",
-          "recamiereOttomaneLinks" : [ "18823130.jpg", "18823564.jpg", "18823620.jpg", "18823970.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823130.jpg", "18823970.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        } ]
+      }, {
+        "materialCode" : "steinpol_euphoria_grau_10",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "steinpol_euphoria_grau_10"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Luxus-Microfaser Euphoria]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[grau]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Kunststoff]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "58136250",
+          "name" : "ECK,OTTXSli,STV,BK (ECK,OTTXSli,STV,BK)"
+        }, {
+          "articleNumber" : "62739066",
+          "name" : "ECK,OTTXSre,STV,BK (ECK,OTTXSre,STV,BK)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823551.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823607.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823553.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823609.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823554.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823610.jpg" ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823558.jpg", "18823614.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823559.jpg", "18823615.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823560.jpg", "18823616.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823561.jpg", "18823617.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823562.jpg", "18823618.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "18823563.jpg", "18823619.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "18823564.jpg", "18823620.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         } ]
       }, {
@@ -395,7 +715,87 @@
         }, {
           "articleNumber" : "49263556",
           "name" : "ECK,OTTXSli, (ECK,OTTXSli,)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823397.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823313.jpg" ]
         }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823399.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823315.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823400.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823316.jpg" ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823320.jpg", "18823404.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823321.jpg", "18823405.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823322.jpg", "18823406.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823323.jpg", "18823407.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823324.jpg", "18823408.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "18823325.jpg", "18823409.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "18823326.jpg", "18823410.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        } ]
+      }, {
+        "materialCode" : "steinpol_paris_grau_20",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "steinpol_paris_grau_20"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Luxus-Microfaser Paris]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[grau]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Kunststoff]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
           "articleNumber" : "71516112",
           "name" : "ECK,OTTXSre,STV,BK (ECK,OTTXSre,STV,BK)"
         }, {
@@ -406,61 +806,61 @@
           "detailfotografie" : "",
           "ansicht" : "Vorderansicht leicht seitlich links",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823397.jpg", "18824083.jpg" ],
-          "recamiereOttomaneRechts" : [ "18823313.jpg", "18823733.jpg" ]
+          "recamiereOttomaneLinks" : [ "18824083.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823733.jpg" ]
         }, {
           "detailfotografie" : "",
           "ansicht" : "Vorderansicht",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823399.jpg", "18824085.jpg" ],
-          "recamiereOttomaneRechts" : [ "18823315.jpg", "18823735.jpg" ]
+          "recamiereOttomaneLinks" : [ "18824085.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823735.jpg" ]
         }, {
           "detailfotografie" : "",
           "ansicht" : "Rückansicht",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823400.jpg", "18824086.jpg" ],
-          "recamiereOttomaneRechts" : [ "18823316.jpg", "18823736.jpg" ]
+          "recamiereOttomaneLinks" : [ "18824086.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823736.jpg" ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823320.jpg", "18823404.jpg", "18823740.jpg", "18824090.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823740.jpg", "18824090.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823321.jpg", "18823405.jpg", "18823741.jpg", "18824091.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823741.jpg", "18824091.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823322.jpg", "18823406.jpg", "18823742.jpg", "18824092.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823742.jpg", "18824092.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823323.jpg", "18823407.jpg", "18823743.jpg", "18824093.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823743.jpg", "18824093.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823324.jpg", "18823408.jpg", "18823744.jpg", "18824094.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823744.jpg", "18824094.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Farbfleck",
           "ansicht" : "",
           "aufnahmeart" : "",
-          "recamiereOttomaneLinks" : [ "18823325.jpg", "18823409.jpg", "18823745.jpg", "18824095.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823745.jpg", "18824095.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Material / Stoff",
           "ansicht" : "",
           "aufnahmeart" : "",
-          "recamiereOttomaneLinks" : [ "18823326.jpg", "18823410.jpg", "18823746.jpg", "18824096.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823746.jpg", "18824096.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         } ]
       }, {
@@ -485,12 +885,6 @@
           "articleNumber" : "36657723",
           "name" : "ECK,OTTXSre (ECK,OTTXSre)"
         }, {
-          "articleNumber" : "71270526",
-          "name" : "ECK,OTTXSli,STV,BK (ECK,OTTXSli,STV,BK)"
-        }, {
-          "articleNumber" : "76000466",
-          "name" : "ECK,OTTXSre,STV,BK (ECK,OTTXSre,STV,BK)"
-        }, {
           "articleNumber" : "88086030",
           "name" : "ECK,OTTXSli, (ECK,OTTXSli,)"
         } ],
@@ -498,61 +892,147 @@
           "detailfotografie" : "",
           "ansicht" : "Vorderansicht leicht seitlich links",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823719.jpg", "18823985.jpg" ],
-          "recamiereOttomaneRechts" : [ "18823243.jpg", "18823789.jpg" ]
+          "recamiereOttomaneLinks" : [ "18823985.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823243.jpg" ]
         }, {
           "detailfotografie" : "",
           "ansicht" : "Vorderansicht",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823721.jpg", "18823987.jpg" ],
-          "recamiereOttomaneRechts" : [ "18823245.jpg", "18823791.jpg" ]
+          "recamiereOttomaneLinks" : [ "18823987.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823245.jpg" ]
         }, {
           "detailfotografie" : "",
           "ansicht" : "Rückansicht",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823722.jpg", "18823988.jpg" ],
-          "recamiereOttomaneRechts" : [ "18823246.jpg", "18823792.jpg" ]
+          "recamiereOttomaneLinks" : [ "18823988.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823246.jpg" ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823250.jpg", "18823726.jpg", "18823796.jpg", "18823992.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823250.jpg", "18823992.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823251.jpg", "18823727.jpg", "18823797.jpg", "18823993.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823251.jpg", "18823993.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823252.jpg", "18823728.jpg", "18823798.jpg", "18823994.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823252.jpg", "18823994.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823253.jpg", "18823729.jpg", "18823799.jpg", "18823995.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823253.jpg", "18823995.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823254.jpg", "18823730.jpg", "18823800.jpg", "18823996.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823254.jpg", "18823996.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Farbfleck",
           "ansicht" : "",
           "aufnahmeart" : "",
-          "recamiereOttomaneLinks" : [ "18823255.jpg", "18823731.jpg", "18823801.jpg", "18823997.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823255.jpg", "18823997.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Material / Stoff",
           "ansicht" : "",
           "aufnahmeart" : "",
-          "recamiereOttomaneLinks" : [ "18823256.jpg", "18823732.jpg", "18823802.jpg", "18823998.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823256.jpg", "18823998.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        } ]
+      }, {
+        "materialCode" : "steinpol_olympia_clean_hellblau_1695",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "steinpol_olympia_clean_hellblau_1695"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Struktur weich]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[hellblau]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Kunststoff]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "71270526",
+          "name" : "ECK,OTTXSli,STV,BK (ECK,OTTXSli,STV,BK)"
+        }, {
+          "articleNumber" : "76000466",
+          "name" : "ECK,OTTXSre,STV,BK (ECK,OTTXSre,STV,BK)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823719.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823789.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823721.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823791.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823722.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823792.jpg" ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823726.jpg", "18823796.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823727.jpg", "18823797.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823728.jpg", "18823798.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823729.jpg", "18823799.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823730.jpg", "18823800.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "18823731.jpg", "18823801.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "18823732.jpg", "18823802.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         } ]
       }, {
@@ -577,11 +1057,91 @@
           "articleNumber" : "18112503",
           "name" : "ECK,OTTXSli, (ECK,OTTXSli,)"
         }, {
-          "articleNumber" : "37903221",
-          "name" : "ECK,OTTXSre,STV,BK (ECK,OTTXSre,STV,BK)"
-        }, {
           "articleNumber" : "57615310",
           "name" : "ECK,OTTXSre (ECK,OTTXSre)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18822991.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823523.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18822993.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823525.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18822994.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823526.jpg" ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18822998.jpg", "18823530.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18822999.jpg", "18823531.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823000.jpg", "18823532.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823001.jpg", "18823533.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823002.jpg", "18823534.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "18823003.jpg", "18823535.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "18823004.jpg", "18823536.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        } ]
+      }, {
+        "materialCode" : "steinpol_euphoria_schlamm_14",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "steinpol_euphoria_schlamm_14"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Luxus-Microfaser Euphoria]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[schlamm]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Kunststoff]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "37903221",
+          "name" : "ECK,OTTXSre,STV,BK (ECK,OTTXSre,STV,BK)"
         }, {
           "articleNumber" : "68915865",
           "name" : "ECK,OTTXSli,STV,BK (ECK,OTTXSli,STV,BK)"
@@ -590,61 +1150,61 @@
           "detailfotografie" : "",
           "ansicht" : "Vorderansicht leicht seitlich links",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18822991.jpg", "18823663.jpg" ],
-          "recamiereOttomaneRechts" : [ "18823285.jpg", "18823523.jpg" ]
+          "recamiereOttomaneLinks" : [ "18823663.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823285.jpg" ]
         }, {
           "detailfotografie" : "",
           "ansicht" : "Vorderansicht",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18822993.jpg", "18823665.jpg" ],
-          "recamiereOttomaneRechts" : [ "18823287.jpg", "18823525.jpg" ]
+          "recamiereOttomaneLinks" : [ "18823665.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823287.jpg" ]
         }, {
           "detailfotografie" : "",
           "ansicht" : "Rückansicht",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18822994.jpg", "18823666.jpg" ],
-          "recamiereOttomaneRechts" : [ "18823288.jpg", "18823526.jpg" ]
+          "recamiereOttomaneLinks" : [ "18823666.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823288.jpg" ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18822998.jpg", "18823292.jpg", "18823530.jpg", "18823670.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823292.jpg", "18823670.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18822999.jpg", "18823293.jpg", "18823531.jpg", "18823671.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823293.jpg", "18823671.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823000.jpg", "18823294.jpg", "18823532.jpg", "18823672.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823294.jpg", "18823672.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823001.jpg", "18823295.jpg", "18823533.jpg", "18823673.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823295.jpg", "18823673.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823002.jpg", "18823296.jpg", "18823534.jpg", "18823674.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823296.jpg", "18823674.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Farbfleck",
           "ansicht" : "",
           "aufnahmeart" : "",
-          "recamiereOttomaneLinks" : [ "18823003.jpg", "18823297.jpg", "18823535.jpg", "18823675.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823297.jpg", "18823675.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Material / Stoff",
           "ansicht" : "",
           "aufnahmeart" : "",
-          "recamiereOttomaneLinks" : [ "18823004.jpg", "18823298.jpg", "18823536.jpg", "18823676.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823298.jpg", "18823676.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         } ]
       }, {
@@ -671,7 +1231,87 @@
         }, {
           "articleNumber" : "30514718",
           "name" : "ECK,OTTXSre (ECK,OTTXSre)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18822949.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823145.jpg" ]
         }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18822951.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823147.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18822952.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823148.jpg" ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18822956.jpg", "18823152.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18822957.jpg", "18823153.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18822958.jpg", "18823154.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18822959.jpg", "18823155.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18822960.jpg", "18823156.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "18822961.jpg", "18823157.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "18822962.jpg", "18823158.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        } ]
+      }, {
+        "materialCode" : "steinpol_paris_silver_03",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "steinpol_paris_silver_03"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Luxus-Microfaser Paris]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[silber]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Kunststoff]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
           "articleNumber" : "66594510",
           "name" : "ECK,OTTXSli,STV,BK (ECK,OTTXSli,STV,BK)"
         }, {
@@ -682,61 +1322,147 @@
           "detailfotografie" : "",
           "ansicht" : "Vorderansicht leicht seitlich links",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18822949.jpg", "18823649.jpg" ],
-          "recamiereOttomaneRechts" : [ "18823145.jpg", "18824097.jpg" ]
+          "recamiereOttomaneLinks" : [ "18823649.jpg" ],
+          "recamiereOttomaneRechts" : [ "18824097.jpg" ]
         }, {
           "detailfotografie" : "",
           "ansicht" : "Vorderansicht",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18822951.jpg", "18823651.jpg" ],
-          "recamiereOttomaneRechts" : [ "18823147.jpg", "18824099.jpg" ]
+          "recamiereOttomaneLinks" : [ "18823651.jpg" ],
+          "recamiereOttomaneRechts" : [ "18824099.jpg" ]
         }, {
           "detailfotografie" : "",
           "ansicht" : "Rückansicht",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18822952.jpg", "18823652.jpg" ],
-          "recamiereOttomaneRechts" : [ "18823148.jpg", "18824100.jpg" ]
+          "recamiereOttomaneLinks" : [ "18823652.jpg" ],
+          "recamiereOttomaneRechts" : [ "18824100.jpg" ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18822956.jpg", "18823152.jpg", "18823656.jpg", "18824104.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823656.jpg", "18824104.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18822957.jpg", "18823153.jpg", "18823657.jpg", "18824105.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823657.jpg", "18824105.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18822958.jpg", "18823154.jpg", "18823658.jpg", "18824106.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823658.jpg", "18824106.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18822959.jpg", "18823155.jpg", "18823659.jpg", "18824107.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823659.jpg", "18824107.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18822960.jpg", "18823156.jpg", "18823660.jpg", "18824108.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823660.jpg", "18824108.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Farbfleck",
           "ansicht" : "",
           "aufnahmeart" : "",
-          "recamiereOttomaneLinks" : [ "18822961.jpg", "18823157.jpg", "18823661.jpg", "18824109.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823661.jpg", "18824109.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Material / Stoff",
           "ansicht" : "",
           "aufnahmeart" : "",
-          "recamiereOttomaneLinks" : [ "18822962.jpg", "18823158.jpg", "18823662.jpg", "18824110.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823662.jpg", "18824110.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        } ]
+      }, {
+        "materialCode" : "steinpol_olympia_clean_silber_121",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "steinpol_olympia_clean_silber_121"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Struktur weich]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[silber]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Kunststoff]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "15632121",
+          "name" : "ECK,OTTXSre (ECK,OTTXSre)"
+        }, {
+          "articleNumber" : "44841361",
+          "name" : "ECK,OTTXSli, (ECK,OTTXSli,)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823355.jpg" ],
+          "recamiereOttomaneRechts" : [ "18822977.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823357.jpg" ],
+          "recamiereOttomaneRechts" : [ "18822979.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823358.jpg" ],
+          "recamiereOttomaneRechts" : [ "18822980.jpg" ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18822984.jpg", "18823362.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18822985.jpg", "18823363.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18822986.jpg", "18823364.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18822987.jpg", "18823365.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18822988.jpg", "18823366.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "18822989.jpg", "18823367.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "18822990.jpg", "18823368.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         } ]
       }, {
@@ -761,12 +1487,6 @@
           "articleNumber" : "10647750",
           "name" : "ECK,OTTXSre,STV,BK (ECK,OTTXSre,STV,BK)"
         }, {
-          "articleNumber" : "15632121",
-          "name" : "ECK,OTTXSre (ECK,OTTXSre)"
-        }, {
-          "articleNumber" : "44841361",
-          "name" : "ECK,OTTXSli, (ECK,OTTXSli,)"
-        }, {
           "articleNumber" : "61511014",
           "name" : "ECK,OTTXSli,STV,BK (ECK,OTTXSli,STV,BK)"
         } ],
@@ -774,61 +1494,147 @@
           "detailfotografie" : "",
           "ansicht" : "Vorderansicht leicht seitlich links",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823355.jpg", "18823593.jpg" ],
-          "recamiereOttomaneRechts" : [ "18822921.jpg", "18822977.jpg" ]
+          "recamiereOttomaneLinks" : [ "18823593.jpg" ],
+          "recamiereOttomaneRechts" : [ "18822921.jpg" ]
         }, {
           "detailfotografie" : "",
           "ansicht" : "Vorderansicht",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823357.jpg", "18823595.jpg" ],
-          "recamiereOttomaneRechts" : [ "18822923.jpg", "18822979.jpg" ]
+          "recamiereOttomaneLinks" : [ "18823595.jpg" ],
+          "recamiereOttomaneRechts" : [ "18822923.jpg" ]
         }, {
           "detailfotografie" : "",
           "ansicht" : "Rückansicht",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823358.jpg", "18823596.jpg" ],
-          "recamiereOttomaneRechts" : [ "18822924.jpg", "18822980.jpg" ]
+          "recamiereOttomaneLinks" : [ "18823596.jpg" ],
+          "recamiereOttomaneRechts" : [ "18822924.jpg" ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18822928.jpg", "18822984.jpg", "18823362.jpg", "18823600.jpg" ],
+          "recamiereOttomaneLinks" : [ "18822928.jpg", "18823600.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18822929.jpg", "18822985.jpg", "18823363.jpg", "18823601.jpg" ],
+          "recamiereOttomaneLinks" : [ "18822929.jpg", "18823601.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18822930.jpg", "18822986.jpg", "18823364.jpg", "18823602.jpg" ],
+          "recamiereOttomaneLinks" : [ "18822930.jpg", "18823602.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18822931.jpg", "18822987.jpg", "18823365.jpg", "18823603.jpg" ],
+          "recamiereOttomaneLinks" : [ "18822931.jpg", "18823603.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18822932.jpg", "18822988.jpg", "18823366.jpg", "18823604.jpg" ],
+          "recamiereOttomaneLinks" : [ "18822932.jpg", "18823604.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Farbfleck",
           "ansicht" : "",
           "aufnahmeart" : "",
-          "recamiereOttomaneLinks" : [ "18822933.jpg", "18822989.jpg", "18823367.jpg", "18823605.jpg" ],
+          "recamiereOttomaneLinks" : [ "18822933.jpg", "18823605.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Material / Stoff",
           "ansicht" : "",
           "aufnahmeart" : "",
-          "recamiereOttomaneLinks" : [ "18822934.jpg", "18822990.jpg", "18823368.jpg", "18823606.jpg" ],
+          "recamiereOttomaneLinks" : [ "18822934.jpg", "18823606.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        } ]
+      }, {
+        "materialCode" : "steinpol_paris_taupe_710",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "steinpol_paris_taupe_710"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Luxus-Microfaser Paris]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[taupe]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Kunststoff]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "64475736",
+          "name" : "ECK,OTTXSre (ECK,OTTXSre)"
+        }, {
+          "articleNumber" : "97509737",
+          "name" : "ECK,OTTXSli, (ECK,OTTXSli,)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18824139.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823621.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18824141.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823623.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18824142.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823624.jpg" ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823628.jpg", "18824146.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823629.jpg", "18824147.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823630.jpg", "18824148.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823631.jpg", "18824149.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823632.jpg", "18824150.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "18823633.jpg", "18824151.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "18823634.jpg", "18824152.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         } ]
       }, {
@@ -855,72 +1661,66 @@
         }, {
           "articleNumber" : "46533257",
           "name" : "ECK,OTTXSre,STV,BK (ECK,OTTXSre,STV,BK)"
-        }, {
-          "articleNumber" : "64475736",
-          "name" : "ECK,OTTXSre (ECK,OTTXSre)"
-        }, {
-          "articleNumber" : "97509737",
-          "name" : "ECK,OTTXSli, (ECK,OTTXSli,)"
         } ],
         "images" : [ {
           "detailfotografie" : "",
           "ansicht" : "Vorderansicht leicht seitlich links",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823327.jpg", "18824139.jpg" ],
-          "recamiereOttomaneRechts" : [ "18823369.jpg", "18823621.jpg" ]
+          "recamiereOttomaneLinks" : [ "18823327.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823369.jpg" ]
         }, {
           "detailfotografie" : "",
           "ansicht" : "Vorderansicht",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823329.jpg", "18824141.jpg" ],
-          "recamiereOttomaneRechts" : [ "18823371.jpg", "18823623.jpg" ]
+          "recamiereOttomaneLinks" : [ "18823329.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823371.jpg" ]
         }, {
           "detailfotografie" : "",
           "ansicht" : "Rückansicht",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823330.jpg", "18824142.jpg" ],
-          "recamiereOttomaneRechts" : [ "18823372.jpg", "18823624.jpg" ]
+          "recamiereOttomaneLinks" : [ "18823330.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823372.jpg" ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823334.jpg", "18823376.jpg", "18823628.jpg", "18824146.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823334.jpg", "18823376.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823335.jpg", "18823377.jpg", "18823629.jpg", "18824147.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823335.jpg", "18823377.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823336.jpg", "18823378.jpg", "18823630.jpg", "18824148.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823336.jpg", "18823378.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823337.jpg", "18823379.jpg", "18823631.jpg", "18824149.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823337.jpg", "18823379.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823338.jpg", "18823380.jpg", "18823632.jpg", "18824150.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823338.jpg", "18823380.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Farbfleck",
           "ansicht" : "",
           "aufnahmeart" : "",
-          "recamiereOttomaneLinks" : [ "18823339.jpg", "18823381.jpg", "18823633.jpg", "18824151.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823339.jpg", "18823381.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Material / Stoff",
           "ansicht" : "",
           "aufnahmeart" : "",
-          "recamiereOttomaneLinks" : [ "18823340.jpg", "18823382.jpg", "18823634.jpg", "18824152.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823340.jpg", "18823382.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         } ]
       } ]
@@ -1451,12 +2251,6 @@
           "values" : "[schwarz]"
         } ],
         "articles" : [ {
-          "articleNumber" : "20451121",
-          "name" : "ECK,OTTli,FKT,BK (ECK,OTTli,FKT,BK)"
-        }, {
-          "articleNumber" : "59694861",
-          "name" : "ECK,OTTre,FKT,BK (ECK,OTTre,FKT,BK)"
-        }, {
           "articleNumber" : "81919845",
           "name" : "ECK,OTTre (ECK,OTTre)"
         }, {
@@ -1467,61 +2261,233 @@
           "detailfotografie" : "",
           "ansicht" : "Vorderansicht leicht seitlich links",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823005.jpg", "18824027.jpg" ],
-          "recamiereOttomaneRechts" : [ "18823579.jpg", "18823873.jpg" ]
+          "recamiereOttomaneLinks" : [ "18824027.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823873.jpg" ]
         }, {
           "detailfotografie" : "",
           "ansicht" : "Vorderansicht",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823007.jpg", "18824029.jpg" ],
-          "recamiereOttomaneRechts" : [ "18823581.jpg", "18823875.jpg" ]
+          "recamiereOttomaneLinks" : [ "18824029.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823875.jpg" ]
         }, {
           "detailfotografie" : "",
           "ansicht" : "Rückansicht",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823008.jpg", "18824030.jpg" ],
-          "recamiereOttomaneRechts" : [ "18823582.jpg", "18823876.jpg" ]
+          "recamiereOttomaneLinks" : [ "18824030.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823876.jpg" ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823012.jpg", "18823586.jpg", "18823880.jpg", "18824034.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823880.jpg", "18824034.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823013.jpg", "18823587.jpg", "18823881.jpg", "18824035.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823881.jpg", "18824035.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823014.jpg", "18823588.jpg", "18823882.jpg", "18824036.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823882.jpg", "18824036.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823015.jpg", "18823589.jpg", "18823883.jpg", "18824037.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823883.jpg", "18824037.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823016.jpg", "18823590.jpg", "18823884.jpg", "18824038.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823884.jpg", "18824038.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Farbfleck",
           "ansicht" : "",
           "aufnahmeart" : "",
-          "recamiereOttomaneLinks" : [ "18823017.jpg", "18823591.jpg", "18823885.jpg", "18824039.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823885.jpg", "18824039.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Material / Stoff",
           "ansicht" : "",
           "aufnahmeart" : "",
-          "recamiereOttomaneLinks" : [ "18823018.jpg", "18823592.jpg", "18823886.jpg", "18824040.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823886.jpg", "18824040.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        } ]
+      }, {
+        "materialCode" : "steinpol_olympia_clean_weiss_02",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "steinpol_olympia_clean_weiss_02"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Struktur weich]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[creme]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Kunststoff]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "20451121",
+          "name" : "ECK,OTTli,FKT,BK (ECK,OTTli,FKT,BK)"
+        }, {
+          "articleNumber" : "59694861",
+          "name" : "ECK,OTTre,FKT,BK (ECK,OTTre,FKT,BK)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823005.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823579.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823007.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823581.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823008.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823582.jpg" ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823012.jpg", "18823586.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823013.jpg", "18823587.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823014.jpg", "18823588.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823015.jpg", "18823589.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823016.jpg", "18823590.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "18823017.jpg", "18823591.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "18823018.jpg", "18823592.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        } ]
+      }, {
+        "materialCode" : "steinpol_euphoria_elephant_7",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "steinpol_euphoria_elephant_7"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Luxus-Microfaser Euphoria]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[elephant]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Kunststoff]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "73351358",
+          "name" : "ECK,OTTre (ECK,OTTre)"
+        }, {
+          "articleNumber" : "75368933",
+          "name" : "ECK,OTTli (ECK,OTTli)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823775.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823761.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823777.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823763.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823778.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823764.jpg" ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823768.jpg", "18823782.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823769.jpg", "18823783.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823770.jpg", "18823784.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823771.jpg", "18823785.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823772.jpg", "18823786.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "18823773.jpg", "18823787.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "18823774.jpg", "18823788.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         } ]
       }, {
@@ -1548,72 +2514,66 @@
         }, {
           "articleNumber" : "47068959",
           "name" : "ECK,OTTre,FKT,BK (ECK,OTTre,FKT,BK)"
-        }, {
-          "articleNumber" : "73351358",
-          "name" : "ECK,OTTre (ECK,OTTre)"
-        }, {
-          "articleNumber" : "75368933",
-          "name" : "ECK,OTTli (ECK,OTTli)"
         } ],
         "images" : [ {
           "detailfotografie" : "",
           "ansicht" : "Vorderansicht leicht seitlich links",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823229.jpg", "18823775.jpg" ],
-          "recamiereOttomaneRechts" : [ "18823383.jpg", "18823761.jpg" ]
+          "recamiereOttomaneLinks" : [ "18823229.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823383.jpg" ]
         }, {
           "detailfotografie" : "",
           "ansicht" : "Vorderansicht",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823231.jpg", "18823777.jpg" ],
-          "recamiereOttomaneRechts" : [ "18823385.jpg", "18823763.jpg" ]
+          "recamiereOttomaneLinks" : [ "18823231.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823385.jpg" ]
         }, {
           "detailfotografie" : "",
           "ansicht" : "Rückansicht",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823232.jpg", "18823778.jpg" ],
-          "recamiereOttomaneRechts" : [ "18823386.jpg", "18823764.jpg" ]
+          "recamiereOttomaneLinks" : [ "18823232.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823386.jpg" ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823236.jpg", "18823390.jpg", "18823768.jpg", "18823782.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823236.jpg", "18823390.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823237.jpg", "18823391.jpg", "18823769.jpg", "18823783.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823237.jpg", "18823391.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823238.jpg", "18823392.jpg", "18823770.jpg", "18823784.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823238.jpg", "18823392.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823239.jpg", "18823393.jpg", "18823771.jpg", "18823785.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823239.jpg", "18823393.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823240.jpg", "18823394.jpg", "18823772.jpg", "18823786.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823240.jpg", "18823394.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Farbfleck",
           "ansicht" : "",
           "aufnahmeart" : "",
-          "recamiereOttomaneLinks" : [ "18823241.jpg", "18823395.jpg", "18823773.jpg", "18823787.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823241.jpg", "18823395.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Material / Stoff",
           "ansicht" : "",
           "aufnahmeart" : "",
-          "recamiereOttomaneLinks" : [ "18823242.jpg", "18823396.jpg", "18823774.jpg", "18823788.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823242.jpg", "18823396.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         } ]
       }, {
@@ -1640,7 +2600,87 @@
         }, {
           "articleNumber" : "83603506",
           "name" : "ECK,OTTli (ECK,OTTli)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823901.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823537.jpg" ]
         }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823903.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823539.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823904.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823540.jpg" ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823544.jpg", "18823908.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823545.jpg", "18823909.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823546.jpg", "18823910.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823547.jpg", "18823911.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823548.jpg", "18823912.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "18823549.jpg", "18823913.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "18823550.jpg", "18823914.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        } ]
+      }, {
+        "materialCode" : "steinpol_euphoria_fango_16",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "steinpol_euphoria_fango_16"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Luxus-Microfaser Euphoria]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[fango]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Kunststoff]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
           "articleNumber" : "88442453",
           "name" : "ECK,OTTli,FKT,BK (ECK,OTTli,FKT,BK)"
         }, {
@@ -1651,61 +2691,61 @@
           "detailfotografie" : "",
           "ansicht" : "Vorderansicht leicht seitlich links",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823901.jpg", "18824013.jpg" ],
-          "recamiereOttomaneRechts" : [ "18823537.jpg", "18824167.jpg" ]
+          "recamiereOttomaneLinks" : [ "18824013.jpg" ],
+          "recamiereOttomaneRechts" : [ "18824167.jpg" ]
         }, {
           "detailfotografie" : "",
           "ansicht" : "Vorderansicht",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823903.jpg", "18824015.jpg" ],
-          "recamiereOttomaneRechts" : [ "18823539.jpg", "18824169.jpg" ]
+          "recamiereOttomaneLinks" : [ "18824015.jpg" ],
+          "recamiereOttomaneRechts" : [ "18824169.jpg" ]
         }, {
           "detailfotografie" : "",
           "ansicht" : "Rückansicht",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823904.jpg", "18824016.jpg" ],
-          "recamiereOttomaneRechts" : [ "18823540.jpg", "18824170.jpg" ]
+          "recamiereOttomaneLinks" : [ "18824016.jpg" ],
+          "recamiereOttomaneRechts" : [ "18824170.jpg" ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823544.jpg", "18823908.jpg", "18824020.jpg", "18824174.jpg" ],
+          "recamiereOttomaneLinks" : [ "18824020.jpg", "18824174.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823545.jpg", "18823909.jpg", "18824021.jpg", "18824175.jpg" ],
+          "recamiereOttomaneLinks" : [ "18824021.jpg", "18824175.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823546.jpg", "18823910.jpg", "18824022.jpg", "18824176.jpg" ],
+          "recamiereOttomaneLinks" : [ "18824022.jpg", "18824176.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823547.jpg", "18823911.jpg", "18824023.jpg", "18824177.jpg" ],
+          "recamiereOttomaneLinks" : [ "18824023.jpg", "18824177.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823548.jpg", "18823912.jpg", "18824024.jpg", "18824178.jpg" ],
+          "recamiereOttomaneLinks" : [ "18824024.jpg", "18824178.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Farbfleck",
           "ansicht" : "",
           "aufnahmeart" : "",
-          "recamiereOttomaneLinks" : [ "18823549.jpg", "18823913.jpg", "18824025.jpg", "18824179.jpg" ],
+          "recamiereOttomaneLinks" : [ "18824025.jpg", "18824179.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Material / Stoff",
           "ansicht" : "",
           "aufnahmeart" : "",
-          "recamiereOttomaneLinks" : [ "18823550.jpg", "18823914.jpg", "18824026.jpg", "18824180.jpg" ],
+          "recamiereOttomaneLinks" : [ "18824026.jpg", "18824180.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         } ]
       }, {
@@ -1732,7 +2772,87 @@
         }, {
           "articleNumber" : "28297368",
           "name" : "ECK,OTTre (ECK,OTTre)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823061.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823089.jpg" ]
         }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823063.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823091.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823064.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823092.jpg" ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823068.jpg", "18823096.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823069.jpg", "18823097.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823070.jpg", "18823098.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823071.jpg", "18823099.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823072.jpg", "18823100.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "18823073.jpg", "18823101.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "18823074.jpg", "18823102.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        } ]
+      }, {
+        "materialCode" : "steinpol_euphoria_grau_10",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "steinpol_euphoria_grau_10"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Luxus-Microfaser Euphoria]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[grau]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Kunststoff]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
           "articleNumber" : "50842541",
           "name" : "ECK,OTTli,FKT,BK (ECK,OTTli,FKT,BK)"
         }, {
@@ -1743,61 +2863,147 @@
           "detailfotografie" : "",
           "ansicht" : "Vorderansicht leicht seitlich links",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823061.jpg", "18823425.jpg" ],
-          "recamiereOttomaneRechts" : [ "18823089.jpg", "18824055.jpg" ]
+          "recamiereOttomaneLinks" : [ "18823425.jpg" ],
+          "recamiereOttomaneRechts" : [ "18824055.jpg" ]
         }, {
           "detailfotografie" : "",
           "ansicht" : "Vorderansicht",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823063.jpg", "18823427.jpg" ],
-          "recamiereOttomaneRechts" : [ "18823091.jpg", "18824057.jpg" ]
+          "recamiereOttomaneLinks" : [ "18823427.jpg" ],
+          "recamiereOttomaneRechts" : [ "18824057.jpg" ]
         }, {
           "detailfotografie" : "",
           "ansicht" : "Rückansicht",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823064.jpg", "18823428.jpg" ],
-          "recamiereOttomaneRechts" : [ "18823092.jpg", "18824058.jpg" ]
+          "recamiereOttomaneLinks" : [ "18823428.jpg" ],
+          "recamiereOttomaneRechts" : [ "18824058.jpg" ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823068.jpg", "18823096.jpg", "18823432.jpg", "18824062.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823432.jpg", "18824062.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823069.jpg", "18823097.jpg", "18823433.jpg", "18824063.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823433.jpg", "18824063.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823070.jpg", "18823098.jpg", "18823434.jpg", "18824064.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823434.jpg", "18824064.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823071.jpg", "18823099.jpg", "18823435.jpg", "18824065.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823435.jpg", "18824065.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823072.jpg", "18823100.jpg", "18823436.jpg", "18824066.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823436.jpg", "18824066.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Farbfleck",
           "ansicht" : "",
           "aufnahmeart" : "",
-          "recamiereOttomaneLinks" : [ "18823073.jpg", "18823101.jpg", "18823437.jpg", "18824067.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823437.jpg", "18824067.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Material / Stoff",
           "ansicht" : "",
           "aufnahmeart" : "",
-          "recamiereOttomaneLinks" : [ "18823074.jpg", "18823102.jpg", "18823438.jpg", "18824068.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823438.jpg", "18824068.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        } ]
+      }, {
+        "materialCode" : "steinpol_paris_grau_20",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "steinpol_paris_grau_20"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Luxus-Microfaser Paris]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[grau]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Kunststoff]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "25151842",
+          "name" : "ECK,OTTre (ECK,OTTre)"
+        }, {
+          "articleNumber" : "73334339",
+          "name" : "ECK,OTTli (ECK,OTTli)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823747.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823075.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823749.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823077.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823750.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823078.jpg" ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823082.jpg", "18823754.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823083.jpg", "18823755.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823084.jpg", "18823756.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823085.jpg", "18823757.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823086.jpg", "18823758.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "18823087.jpg", "18823759.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "18823088.jpg", "18823760.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         } ]
       }, {
@@ -1822,74 +3028,68 @@
           "articleNumber" : "22179312",
           "name" : "ECK,OTTre,FKT,BK (ECK,OTTre,FKT,BK)"
         }, {
-          "articleNumber" : "25151842",
-          "name" : "ECK,OTTre (ECK,OTTre)"
-        }, {
           "articleNumber" : "32903234",
           "name" : "ECK,OTTli,FKT,BK (ECK,OTTli,FKT,BK)"
-        }, {
-          "articleNumber" : "73334339",
-          "name" : "ECK,OTTli (ECK,OTTli)"
         } ],
         "images" : [ {
           "detailfotografie" : "",
           "ansicht" : "Vorderansicht leicht seitlich links",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823173.jpg", "18823747.jpg" ],
-          "recamiereOttomaneRechts" : [ "18823019.jpg", "18823075.jpg" ]
+          "recamiereOttomaneLinks" : [ "18823173.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823019.jpg" ]
         }, {
           "detailfotografie" : "",
           "ansicht" : "Vorderansicht",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823175.jpg", "18823749.jpg" ],
-          "recamiereOttomaneRechts" : [ "18823021.jpg", "18823077.jpg" ]
+          "recamiereOttomaneLinks" : [ "18823175.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823021.jpg" ]
         }, {
           "detailfotografie" : "",
           "ansicht" : "Rückansicht",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823176.jpg", "18823750.jpg" ],
-          "recamiereOttomaneRechts" : [ "18823022.jpg", "18823078.jpg" ]
+          "recamiereOttomaneLinks" : [ "18823176.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823022.jpg" ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823026.jpg", "18823082.jpg", "18823180.jpg", "18823754.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823026.jpg", "18823180.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823027.jpg", "18823083.jpg", "18823181.jpg", "18823755.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823027.jpg", "18823181.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823028.jpg", "18823084.jpg", "18823182.jpg", "18823756.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823028.jpg", "18823182.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823029.jpg", "18823085.jpg", "18823183.jpg", "18823757.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823029.jpg", "18823183.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823030.jpg", "18823086.jpg", "18823184.jpg", "18823758.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823030.jpg", "18823184.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Farbfleck",
           "ansicht" : "",
           "aufnahmeart" : "",
-          "recamiereOttomaneLinks" : [ "18823031.jpg", "18823087.jpg", "18823185.jpg", "18823759.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823031.jpg", "18823185.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Material / Stoff",
           "ansicht" : "",
           "aufnahmeart" : "",
-          "recamiereOttomaneLinks" : [ "18823032.jpg", "18823088.jpg", "18823186.jpg", "18823760.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823032.jpg", "18823186.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         } ]
       }, {
@@ -1914,11 +3114,91 @@
           "articleNumber" : "24259839",
           "name" : "ECK,OTTli (ECK,OTTli)"
         }, {
-          "articleNumber" : "78732351",
-          "name" : "ECK,OTTre,FKT,BK (ECK,OTTre,FKT,BK)"
-        }, {
           "articleNumber" : "82158050",
           "name" : "ECK,OTTre (ECK,OTTre)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823047.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823887.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823049.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823889.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823050.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823890.jpg" ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823054.jpg", "18823894.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823055.jpg", "18823895.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823056.jpg", "18823896.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823057.jpg", "18823897.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823058.jpg", "18823898.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "18823059.jpg", "18823899.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "18823060.jpg", "18823900.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        } ]
+      }, {
+        "materialCode" : "steinpol_olympia_clean_hellblau_1695",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "steinpol_olympia_clean_hellblau_1695"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Struktur weich]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[hellblau]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Kunststoff]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "78732351",
+          "name" : "ECK,OTTre,FKT,BK (ECK,OTTre,FKT,BK)"
         }, {
           "articleNumber" : "96615355",
           "name" : "ECK,OTTli,FKT,BK (ECK,OTTli,FKT,BK)"
@@ -1927,61 +3207,61 @@
           "detailfotografie" : "",
           "ansicht" : "Vorderansicht leicht seitlich links",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823047.jpg", "18824111.jpg" ],
-          "recamiereOttomaneRechts" : [ "18823831.jpg", "18823887.jpg" ]
+          "recamiereOttomaneLinks" : [ "18824111.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823831.jpg" ]
         }, {
           "detailfotografie" : "",
           "ansicht" : "Vorderansicht",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823049.jpg", "18824113.jpg" ],
-          "recamiereOttomaneRechts" : [ "18823833.jpg", "18823889.jpg" ]
+          "recamiereOttomaneLinks" : [ "18824113.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823833.jpg" ]
         }, {
           "detailfotografie" : "",
           "ansicht" : "Rückansicht",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823050.jpg", "18824114.jpg" ],
-          "recamiereOttomaneRechts" : [ "18823834.jpg", "18823890.jpg" ]
+          "recamiereOttomaneLinks" : [ "18824114.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823834.jpg" ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823054.jpg", "18823838.jpg", "18823894.jpg", "18824118.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823838.jpg", "18824118.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823055.jpg", "18823839.jpg", "18823895.jpg", "18824119.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823839.jpg", "18824119.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823056.jpg", "18823840.jpg", "18823896.jpg", "18824120.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823840.jpg", "18824120.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823057.jpg", "18823841.jpg", "18823897.jpg", "18824121.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823841.jpg", "18824121.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823058.jpg", "18823842.jpg", "18823898.jpg", "18824122.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823842.jpg", "18824122.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Farbfleck",
           "ansicht" : "",
           "aufnahmeart" : "",
-          "recamiereOttomaneLinks" : [ "18823059.jpg", "18823843.jpg", "18823899.jpg", "18824123.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823843.jpg", "18824123.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Material / Stoff",
           "ansicht" : "",
           "aufnahmeart" : "",
-          "recamiereOttomaneLinks" : [ "18823060.jpg", "18823844.jpg", "18823900.jpg", "18824124.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823844.jpg", "18824124.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         } ]
       }, {
@@ -2008,7 +3288,87 @@
         }, {
           "articleNumber" : "57149026",
           "name" : "ECK,OTTli (ECK,OTTli)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823495.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823187.jpg" ]
         }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823497.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823189.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823498.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823190.jpg" ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823194.jpg", "18823502.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823195.jpg", "18823503.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823196.jpg", "18823504.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823197.jpg", "18823505.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823198.jpg", "18823506.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "18823199.jpg", "18823507.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "18823200.jpg", "18823508.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        } ]
+      }, {
+        "materialCode" : "steinpol_euphoria_schlamm_14",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "steinpol_euphoria_schlamm_14"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Luxus-Microfaser Euphoria]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[schlamm]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Kunststoff]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
           "articleNumber" : "87139554",
           "name" : "ECK,OTTli,FKT,BK (ECK,OTTli,FKT,BK)"
         }, {
@@ -2019,61 +3379,147 @@
           "detailfotografie" : "",
           "ansicht" : "Vorderansicht leicht seitlich links",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823495.jpg", "18823971.jpg" ],
-          "recamiereOttomaneRechts" : [ "18823187.jpg", "18824153.jpg" ]
+          "recamiereOttomaneLinks" : [ "18823971.jpg" ],
+          "recamiereOttomaneRechts" : [ "18824153.jpg" ]
         }, {
           "detailfotografie" : "",
           "ansicht" : "Vorderansicht",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823497.jpg", "18823973.jpg" ],
-          "recamiereOttomaneRechts" : [ "18823189.jpg", "18824155.jpg" ]
+          "recamiereOttomaneLinks" : [ "18823973.jpg" ],
+          "recamiereOttomaneRechts" : [ "18824155.jpg" ]
         }, {
           "detailfotografie" : "",
           "ansicht" : "Rückansicht",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823498.jpg", "18823974.jpg" ],
-          "recamiereOttomaneRechts" : [ "18823190.jpg", "18824156.jpg" ]
+          "recamiereOttomaneLinks" : [ "18823974.jpg" ],
+          "recamiereOttomaneRechts" : [ "18824156.jpg" ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823194.jpg", "18823502.jpg", "18823978.jpg", "18824160.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823978.jpg", "18824160.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823195.jpg", "18823503.jpg", "18823979.jpg", "18824161.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823979.jpg", "18824161.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823196.jpg", "18823504.jpg", "18823980.jpg", "18824162.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823980.jpg", "18824162.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823197.jpg", "18823505.jpg", "18823981.jpg", "18824163.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823981.jpg", "18824163.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823198.jpg", "18823506.jpg", "18823982.jpg", "18824164.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823982.jpg", "18824164.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Farbfleck",
           "ansicht" : "",
           "aufnahmeart" : "",
-          "recamiereOttomaneLinks" : [ "18823199.jpg", "18823507.jpg", "18823983.jpg", "18824165.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823983.jpg", "18824165.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Material / Stoff",
           "ansicht" : "",
           "aufnahmeart" : "",
-          "recamiereOttomaneLinks" : [ "18823200.jpg", "18823508.jpg", "18823984.jpg", "18824166.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823984.jpg", "18824166.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        } ]
+      }, {
+        "materialCode" : "steinpol_paris_silver_03",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "steinpol_paris_silver_03"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Luxus-Microfaser Paris]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[silber]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Kunststoff]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "29872815",
+          "name" : "ECK,OTTli (ECK,OTTli)"
+        }, {
+          "articleNumber" : "77303121",
+          "name" : "ECK,OTTre (ECK,OTTre)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823131.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823817.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823133.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823819.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823134.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823820.jpg" ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823138.jpg", "18823824.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823139.jpg", "18823825.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823140.jpg", "18823826.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823141.jpg", "18823827.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823142.jpg", "18823828.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "18823143.jpg", "18823829.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "18823144.jpg", "18823830.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         } ]
       }, {
@@ -2098,74 +3544,68 @@
           "articleNumber" : "10742300",
           "name" : "ECK,OTTre,FKT,BK (ECK,OTTre,FKT,BK)"
         }, {
-          "articleNumber" : "29872815",
-          "name" : "ECK,OTTli (ECK,OTTli)"
-        }, {
           "articleNumber" : "70914225",
           "name" : "ECK,OTTli,FKT,BK (ECK,OTTli,FKT,BK)"
-        }, {
-          "articleNumber" : "77303121",
-          "name" : "ECK,OTTre (ECK,OTTre)"
         } ],
         "images" : [ {
           "detailfotografie" : "",
           "ansicht" : "Vorderansicht leicht seitlich links",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823131.jpg", "18823705.jpg" ],
-          "recamiereOttomaneRechts" : [ "18822935.jpg", "18823817.jpg" ]
+          "recamiereOttomaneLinks" : [ "18823705.jpg" ],
+          "recamiereOttomaneRechts" : [ "18822935.jpg" ]
         }, {
           "detailfotografie" : "",
           "ansicht" : "Vorderansicht",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823133.jpg", "18823707.jpg" ],
-          "recamiereOttomaneRechts" : [ "18822937.jpg", "18823819.jpg" ]
+          "recamiereOttomaneLinks" : [ "18823707.jpg" ],
+          "recamiereOttomaneRechts" : [ "18822937.jpg" ]
         }, {
           "detailfotografie" : "",
           "ansicht" : "Rückansicht",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823134.jpg", "18823708.jpg" ],
-          "recamiereOttomaneRechts" : [ "18822938.jpg", "18823820.jpg" ]
+          "recamiereOttomaneLinks" : [ "18823708.jpg" ],
+          "recamiereOttomaneRechts" : [ "18822938.jpg" ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18822942.jpg", "18823138.jpg", "18823712.jpg", "18823824.jpg" ],
+          "recamiereOttomaneLinks" : [ "18822942.jpg", "18823712.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18822943.jpg", "18823139.jpg", "18823713.jpg", "18823825.jpg" ],
+          "recamiereOttomaneLinks" : [ "18822943.jpg", "18823713.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18822944.jpg", "18823140.jpg", "18823714.jpg", "18823826.jpg" ],
+          "recamiereOttomaneLinks" : [ "18822944.jpg", "18823714.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18822945.jpg", "18823141.jpg", "18823715.jpg", "18823827.jpg" ],
+          "recamiereOttomaneLinks" : [ "18822945.jpg", "18823715.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18822946.jpg", "18823142.jpg", "18823716.jpg", "18823828.jpg" ],
+          "recamiereOttomaneLinks" : [ "18822946.jpg", "18823716.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Farbfleck",
           "ansicht" : "",
           "aufnahmeart" : "",
-          "recamiereOttomaneLinks" : [ "18822947.jpg", "18823143.jpg", "18823717.jpg", "18823829.jpg" ],
+          "recamiereOttomaneLinks" : [ "18822947.jpg", "18823717.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Material / Stoff",
           "ansicht" : "",
           "aufnahmeart" : "",
-          "recamiereOttomaneLinks" : [ "18822948.jpg", "18823144.jpg", "18823718.jpg", "18823830.jpg" ],
+          "recamiereOttomaneLinks" : [ "18822948.jpg", "18823718.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         } ]
       }, {
@@ -2190,12 +3630,6 @@
           "articleNumber" : "15495420",
           "name" : "ECK,OTTli (ECK,OTTli)"
         }, {
-          "articleNumber" : "30798002",
-          "name" : "ECK,OTTli,FKT,BK (ECK,OTTli,FKT,BK)"
-        }, {
-          "articleNumber" : "54222429",
-          "name" : "ECK,OTTre,FKT,BK (ECK,OTTre,FKT,BK)"
-        }, {
           "articleNumber" : "69086421",
           "name" : "ECK,OTTre (ECK,OTTre)"
         } ],
@@ -2203,61 +3637,233 @@
           "detailfotografie" : "",
           "ansicht" : "Vorderansicht leicht seitlich links",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18822963.jpg", "18823159.jpg" ],
-          "recamiereOttomaneRechts" : [ "18823453.jpg", "18823677.jpg" ]
+          "recamiereOttomaneLinks" : [ "18822963.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823677.jpg" ]
         }, {
           "detailfotografie" : "",
           "ansicht" : "Vorderansicht",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18822965.jpg", "18823161.jpg" ],
-          "recamiereOttomaneRechts" : [ "18823455.jpg", "18823679.jpg" ]
+          "recamiereOttomaneLinks" : [ "18822965.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823679.jpg" ]
         }, {
           "detailfotografie" : "",
           "ansicht" : "Rückansicht",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18822966.jpg", "18823162.jpg" ],
-          "recamiereOttomaneRechts" : [ "18823456.jpg", "18823680.jpg" ]
+          "recamiereOttomaneLinks" : [ "18822966.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823680.jpg" ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18822970.jpg", "18823166.jpg", "18823460.jpg", "18823684.jpg" ],
+          "recamiereOttomaneLinks" : [ "18822970.jpg", "18823684.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18822971.jpg", "18823167.jpg", "18823461.jpg", "18823685.jpg" ],
+          "recamiereOttomaneLinks" : [ "18822971.jpg", "18823685.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18822972.jpg", "18823168.jpg", "18823462.jpg", "18823686.jpg" ],
+          "recamiereOttomaneLinks" : [ "18822972.jpg", "18823686.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18822973.jpg", "18823169.jpg", "18823463.jpg", "18823687.jpg" ],
+          "recamiereOttomaneLinks" : [ "18822973.jpg", "18823687.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18822974.jpg", "18823170.jpg", "18823464.jpg", "18823688.jpg" ],
+          "recamiereOttomaneLinks" : [ "18822974.jpg", "18823688.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Farbfleck",
           "ansicht" : "",
           "aufnahmeart" : "",
-          "recamiereOttomaneLinks" : [ "18822975.jpg", "18823171.jpg", "18823465.jpg", "18823689.jpg" ],
+          "recamiereOttomaneLinks" : [ "18822975.jpg", "18823689.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Material / Stoff",
           "ansicht" : "",
           "aufnahmeart" : "",
-          "recamiereOttomaneLinks" : [ "18822976.jpg", "18823172.jpg", "18823466.jpg", "18823690.jpg" ],
+          "recamiereOttomaneLinks" : [ "18822976.jpg", "18823690.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        } ]
+      }, {
+        "materialCode" : "steinpol_olympia_clean_silber_121",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "steinpol_olympia_clean_silber_121"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Struktur weich]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[silber]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Kunststoff]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "30798002",
+          "name" : "ECK,OTTli,FKT,BK (ECK,OTTli,FKT,BK)"
+        }, {
+          "articleNumber" : "54222429",
+          "name" : "ECK,OTTre,FKT,BK (ECK,OTTre,FKT,BK)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823159.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823453.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823161.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823455.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823162.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823456.jpg" ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823166.jpg", "18823460.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823167.jpg", "18823461.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823168.jpg", "18823462.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823169.jpg", "18823463.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823170.jpg", "18823464.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "18823171.jpg", "18823465.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "18823172.jpg", "18823466.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        } ]
+      }, {
+        "materialCode" : "steinpol_paris_taupe_710",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "steinpol_paris_taupe_710"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Luxus-Microfaser Paris]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[taupe]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Kunststoff]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[schwarz]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "76089038",
+          "name" : "ECK,OTTre (ECK,OTTre)"
+        }, {
+          "articleNumber" : "84125544",
+          "name" : "ECK,OTTli (ECK,OTTli)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht leicht seitlich links",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823929.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823803.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823931.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823805.jpg" ]
+        }, {
+          "detailfotografie" : "",
+          "ansicht" : "Rückansicht",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823932.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823806.jpg" ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823810.jpg", "18823936.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823811.jpg", "18823937.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823812.jpg", "18823938.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823813.jpg", "18823939.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Sortimentsdetail",
+          "ansicht" : "",
+          "aufnahmeart" : "alleinstehend",
+          "recamiereOttomaneLinks" : [ "18823814.jpg", "18823940.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Farbfleck",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "18823815.jpg", "18823941.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        }, {
+          "detailfotografie" : "Material / Stoff",
+          "ansicht" : "",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "18823816.jpg", "18823942.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         } ]
       }, {
@@ -2284,72 +3890,66 @@
         }, {
           "articleNumber" : "55681549",
           "name" : "ECK,OTTli,FKT,BK (ECK,OTTli,FKT,BK)"
-        }, {
-          "articleNumber" : "76089038",
-          "name" : "ECK,OTTre (ECK,OTTre)"
-        }, {
-          "articleNumber" : "84125544",
-          "name" : "ECK,OTTli (ECK,OTTli)"
         } ],
         "images" : [ {
           "detailfotografie" : "",
           "ansicht" : "Vorderansicht leicht seitlich links",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823481.jpg", "18823929.jpg" ],
-          "recamiereOttomaneRechts" : [ "18823215.jpg", "18823803.jpg" ]
+          "recamiereOttomaneLinks" : [ "18823481.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823215.jpg" ]
         }, {
           "detailfotografie" : "",
           "ansicht" : "Vorderansicht",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823483.jpg", "18823931.jpg" ],
-          "recamiereOttomaneRechts" : [ "18823217.jpg", "18823805.jpg" ]
+          "recamiereOttomaneLinks" : [ "18823483.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823217.jpg" ]
         }, {
           "detailfotografie" : "",
           "ansicht" : "Rückansicht",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823484.jpg", "18823932.jpg" ],
-          "recamiereOttomaneRechts" : [ "18823218.jpg", "18823806.jpg" ]
+          "recamiereOttomaneLinks" : [ "18823484.jpg" ],
+          "recamiereOttomaneRechts" : [ "18823218.jpg" ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823222.jpg", "18823488.jpg", "18823810.jpg", "18823936.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823222.jpg", "18823488.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823223.jpg", "18823489.jpg", "18823811.jpg", "18823937.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823223.jpg", "18823489.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823224.jpg", "18823490.jpg", "18823812.jpg", "18823938.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823224.jpg", "18823490.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823225.jpg", "18823491.jpg", "18823813.jpg", "18823939.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823225.jpg", "18823491.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Sortimentsdetail",
           "ansicht" : "",
           "aufnahmeart" : "alleinstehend",
-          "recamiereOttomaneLinks" : [ "18823226.jpg", "18823492.jpg", "18823814.jpg", "18823940.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823226.jpg", "18823492.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Farbfleck",
           "ansicht" : "",
           "aufnahmeart" : "",
-          "recamiereOttomaneLinks" : [ "18823227.jpg", "18823493.jpg", "18823815.jpg", "18823941.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823227.jpg", "18823493.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         }, {
           "detailfotografie" : "Material / Stoff",
           "ansicht" : "",
           "aufnahmeart" : "",
-          "recamiereOttomaneLinks" : [ "18823228.jpg", "18823494.jpg", "18823816.jpg", "18823942.jpg" ],
+          "recamiereOttomaneLinks" : [ "18823228.jpg", "18823494.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         } ]
       } ]

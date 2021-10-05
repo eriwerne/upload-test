@@ -4,6 +4,7 @@ import core.article.Materials;
 import core.image.ImageOrder;
 import core.order.CgiModel;
 import core.order.ImageGroupOrder;
+import core.order.ImageOrderGroupKey;
 import core.order.Order;
 
 import java.util.ArrayList;
@@ -29,7 +30,7 @@ public class ContainerIdExtractorForOrderObject implements ContainerIdExtractor 
 
     private List<String> handleModel(CgiModel model) {
         List<String> containerIds = new ArrayList<>();
-        for (Materials material : model.getMaterialsImageOrderListMap().keySet()) {
+        for (ImageOrderGroupKey material : model.getMaterialsImageOrderListMap().keySet()) {
             for (ImageOrder imageOrder : model.getMaterialsImageOrderListMap().get(material)) {
                 containerIds.addAll(imageOrder.getFilenames());
                 containerIds.addAll(imageOrder.getFilenamesMirror());

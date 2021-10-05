@@ -22,9 +22,6 @@
           "values" : "[silber]"
         } ],
         "articles" : [ {
-          "articleNumber" : "123456",
-          "name" : "Ecksofa (Rec re)"
-        }, {
           "articleNumber" : "345678",
           "name" : "Ecksofa (Rec re)"
         } ],
@@ -32,7 +29,36 @@
           "detailfotografie" : "",
           "ansicht" : "Vorderansicht",
           "aufnahmeart" : "",
-          "recamiereOttomaneLinks" : [ "1231.jpg", "3451.jpg" ],
+          "recamiereOttomaneLinks" : [ "3451.jpg" ],
+          "recamiereOttomaneRechts" : [ ]
+        } ]
+      }, {
+        "materialCode" : "steinpol_lars_braun_99",
+        "materialAttributes" : [ {
+          "name" : "materialCode",
+          "values" : "steinpol_lars_braun_99"
+        }, {
+          "name" : "furnitureCoverMaterial",
+          "values" : "[Flachgewebe]"
+        }, {
+          "name" : "furnitureCoverColor",
+          "values" : "[anthrazit]"
+        }, {
+          "name" : "feetMaterial",
+          "values" : "[Metall]"
+        }, {
+          "name" : "feetColor",
+          "values" : "[silber]"
+        } ],
+        "articles" : [ {
+          "articleNumber" : "123456",
+          "name" : "Ecksofa (Rec re)"
+        } ],
+        "images" : [ {
+          "detailfotografie" : "",
+          "ansicht" : "Vorderansicht",
+          "aufnahmeart" : "",
+          "recamiereOttomaneLinks" : [ "1231.jpg" ],
           "recamiereOttomaneRechts" : [ ]
         } ]
       } ]

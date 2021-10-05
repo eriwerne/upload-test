@@ -8,6 +8,7 @@ import core.article.Materials;
 import core.image.ImageOrder;
 import core.order.CgiModel;
 import core.order.ImageGroupOrder;
+import core.order.ImageOrderGroupKey;
 import core.order.Order;
 
 import java.io.StringWriter;
@@ -41,10 +42,10 @@ public class CsvFormat implements OutputFormat {
 
     private List<String[]> getModelLines(String styleId, CgiModel model, String function) throws InvalidCsvContent {
         List<String[]> lines = new ArrayList<>();
-        LinkedHashMap<Materials, List<ImageOrder>> materialsImageOrderMap = model.getMaterialsImageOrderListMap();
-        for (Materials material : materialsImageOrderMap.keySet()) {
+        LinkedHashMap<ImageOrderGroupKey, List<ImageOrder>> materialsImageOrderMap = model.getMaterialsImageOrderListMap().imageOrderGroups;
+        for (ImageOrderGroupKey material : materialsImageOrderMap.keySet()) {
             List<ImageOrder> imageOrders = materialsImageOrderMap.get(material);
-            lines.addAll(getMaterialLines(styleId, material, imageOrders));
+            lines.addAll(getMaterialLines(styleId, material.materials, imageOrders));
             int imageCounter = 0;
             for (ImageOrder imageOrder : imageOrders) {
                 imageCounter++;

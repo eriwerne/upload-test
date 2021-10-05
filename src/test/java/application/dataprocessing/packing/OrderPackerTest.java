@@ -7,6 +7,7 @@ import core.article.Materials;
 import core.image.DetailFotografie;
 import core.image.ImageOrder;
 import core.order.ImageGroupOrder;
+import core.order.ImageOrderGroupKey;
 import core.order.Order;
 import org.junit.Before;
 import org.junit.Test;
@@ -23,10 +24,10 @@ public class OrderPackerTest extends UnitTest {
 
     private int getImageOrderCount(ImageGroupOrder imageGroupOrder) {
         int imageCount = 0;
-        for (List<ImageOrder> imageOrderList : imageGroupOrder.getBasicModel().getMaterialsImageOrderListMap().values())
+        for (List<ImageOrder> imageOrderList : imageGroupOrder.getBasicModel().getMaterialsImageOrderListMap().imageOrderGroups.values())
             imageCount += imageOrderList.size();
         for (String function : imageGroupOrder.getFunctions())
-            for (List<ImageOrder> imageOrderList : imageGroupOrder.getFunctionModel(function).getMaterialsImageOrderListMap().values())
+            for (List<ImageOrder> imageOrderList : imageGroupOrder.getFunctionModel(function).getMaterialsImageOrderListMap().imageOrderGroups.values())
                 imageCount += imageOrderList.size();
 
         return imageCount;
@@ -125,7 +126,7 @@ public class OrderPackerTest extends UnitTest {
         ImageGroupOrder act = cut.createOrder("", articleImageOrders).getImageGroupOrders().get(0);
 
         assertNotNull(act.getBasicModel());
-        List<ImageOrder> actBasicImageOrders = act.getBasicModel().getMaterialsImageOrderListMap().get(articleWithFunction.getMaterials());
+        List<ImageOrder> actBasicImageOrders = act.getBasicModel().getMaterialsImageOrderListMap().get(new ImageOrderGroupKey(articleWithFunction.getMaterials(), function));
         assertEquals(1, actBasicImageOrders.get(0).getFilenames().size());
         assertTrue(actBasicImageOrders.get(0).getFilenames().contains(filenameNonFunction));
         assertFalse(actBasicImageOrders.get(0).getFilenames().contains(filenameFunction));
@@ -148,7 +149,7 @@ public class OrderPackerTest extends UnitTest {
         ImageGroupOrder act = cut.createOrder("", articleImageOrders).getImageGroupOrders().get(0);
 
         assertNotNull(act.getFunctionModel(function));
-        List<ImageOrder> actImageOrdersForFunction = act.getFunctionModel(function).getMaterialsImageOrderListMap().get(articleWithFunction.getMaterials());
+        List<ImageOrder> actImageOrdersForFunction = act.getFunctionModel(function).getMaterialsImageOrderListMap().get(new ImageOrderGroupKey(articleWithFunction.getMaterials(), function));
         assertEquals(1, actImageOrdersForFunction.get(0).getFilenames().size());
         assertTrue(actImageOrdersForFunction.get(0).getFilenames().contains(filenameFunction));
         assertFalse(actImageOrdersForFunction.get(0).getFilenames().contains(filenameNonFunction));
@@ -171,10 +172,10 @@ public class OrderPackerTest extends UnitTest {
 
         ImageGroupOrder act = cut.createOrder("", articleImageOrders).getImageGroupOrders().get(0);
 
-        assertEquals(2, act.getBasicModel().getMaterialsImageOrderListMap().size());
+        assertEquals(2, act.getBasicModel().getMaterialsImageOrderListMap().imageOrderGroups.size());
 
-        List<ImageOrder> imageOrderListForMaterialsA = act.getBasicModel().getMaterialsImageOrderListMap().get(articleMaterialsA.getMaterials());
-        List<ImageOrder> imageOrderListForMaterialsB = act.getBasicModel().getMaterialsImageOrderListMap().get(articleMaterialsB.getMaterials());
+        List<ImageOrder> imageOrderListForMaterialsA = act.getBasicModel().getMaterialsImageOrderListMap().get(articleMaterialsA.getMaterials(), "");
+        List<ImageOrder> imageOrderListForMaterialsB = act.getBasicModel().getMaterialsImageOrderListMap().get(articleMaterialsB.getMaterials(), "");
 
         for (ImageOrder imageOrderMaterialsA : imageOrderListForMaterialsA) {
             assertTrue(imageOrderMaterialsA.getFilenames().contains(filenameMaterialsA));
@@ -208,8 +209,8 @@ public class OrderPackerTest extends UnitTest {
         ImageGroupOrder act = cut.createOrder("", articleImageOrders).getImageGroupOrders().get(0);
 
         assertEquals(2, act.getFunctions().size());
-        List<ImageOrder> actImageList1 = act.getFunctionModel(function1).getMaterialsImageOrderListMap().get(materials);
-        List<ImageOrder> actImageList2 = act.getFunctionModel(function2).getMaterialsImageOrderListMap().get(materials);
+        List<ImageOrder> actImageList1 = act.getFunctionModel(function1).getMaterialsImageOrderListMap().get(materials, function1);
+        List<ImageOrder> actImageList2 = act.getFunctionModel(function2).getMaterialsImageOrderListMap().get(materials, function2);
         assertTrue(actImageList1.get(0).getFilenames().contains(filename1));
         assertFalse(actImageList1.get(0).getFilenames().contains(filename2));
         assertFalse(actImageList2.get(0).getFilenames().contains(filename1));
@@ -307,8 +308,8 @@ public class OrderPackerTest extends UnitTest {
 
         ImageGroupOrder act = cut.createOrder("", articleImageOrders).getImageGroupOrders().get(0);
 
-        List<ImageOrder> imageOrdersBasic = act.getBasicModel().getMaterialsImageOrderListMap().get(articleFunctionA.getMaterials());
-        List<ImageOrder> imageOrdersFunction = act.getFunctionModel(functionA).getMaterialsImageOrderListMap().get(articleFunctionA.getMaterials());
+        List<ImageOrder> imageOrdersBasic = act.getBasicModel().getMaterialsImageOrderListMap().get(articleFunctionA.getMaterials(), functionA);
+        List<ImageOrder> imageOrdersFunction = act.getFunctionModel(functionA).getMaterialsImageOrderListMap().get(articleFunctionA.getMaterials(), functionA);
         assertEquals(1, imageOrdersBasic.size());
         assertEquals(1, imageOrdersFunction.size());
 

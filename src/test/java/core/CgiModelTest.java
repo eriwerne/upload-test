@@ -3,6 +3,7 @@ package core;
 import core.article.Materials;
 import core.image.ImageOrder;
 import core.order.CgiModel;
+import core.order.ImageOrderGroupKey;
 import org.junit.Before;
 import org.junit.Test;
 import utils.UnitTest;
@@ -37,9 +38,9 @@ public class CgiModelTest extends UnitTest {
         ImageOrder imageOrder2 = new ImageOrder(perspective, filenamesReverse, inhaltsklassifizierung, aufnahmeart, null);
 
         Materials materials = fixtureMaterials();
-        cut.appendImageOrdersToMaterials(imageOrder1, materials);
-        cut.appendImageOrdersToMaterials(imageOrder2, materials);
-        List<ImageOrder> act = cut.getMaterialsImageOrderListMap().get(materials);
+        cut.appendImageOrdersToMaterials(imageOrder1, materials, "");
+        cut.appendImageOrdersToMaterials(imageOrder2, materials, "");
+        List<ImageOrder> act = cut.getMaterialsImageOrderListMap().get(materials, "");
 
         assertEquals(1, act.size());
     }

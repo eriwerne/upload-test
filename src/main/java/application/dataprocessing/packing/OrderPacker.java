@@ -57,9 +57,7 @@ public class OrderPacker {
             if (!(article.getImageGroup().hashCode() == imageGroupHash && article.getMaterials().equals(materials)))
                 continue;
             for (ImageOrder imageOrder : articleImageOrders.getImageOrdersForArticle(article.getArticleNumber())) {
-                if (!function.equals("") && (imageOrder.isFunctionImage()) && article.getArticleFunctionDescription().equals(function))
-                    imageOrders.add(imageOrder);
-                if (function.equals("") && (!imageOrder.isFunctionImage()))
+                if (article.getArticleFunctionDescription().equals(function))
                     imageOrders.add(imageOrder);
             }
         }

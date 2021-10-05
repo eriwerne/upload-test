@@ -25,7 +25,7 @@ public class ImageGroupOrder  implements Serializable {
             } else {
                 relevantModel = basicModelInstructions;
             }
-            relevantModel.appendImageOrdersToMaterials(imageOrder, materials);
+            relevantModel.appendImageOrdersToMaterials(imageOrder, materials, function);
         }
     }
 

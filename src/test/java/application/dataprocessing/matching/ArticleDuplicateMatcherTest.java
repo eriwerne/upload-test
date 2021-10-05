@@ -78,7 +78,7 @@ public class ArticleDuplicateMatcherTest extends UnitTest {
     }
 
     @Test
-    public void when_duplicate_matcher_is_called_for_duplicate_articles_then_articles_with_different_functions_matches() {
+    public void when_duplicate_matcher_is_called_for_duplicate_articles_then_articles_with_different_functions_do_not_matche_as_duplicates() {
         String articleNumber1 = fixtureString();
         String articleNumber2 = fixtureString();
         Materials materials = fixtureMaterials();
@@ -93,10 +93,10 @@ public class ArticleDuplicateMatcherTest extends UnitTest {
         articles.add(new Article(articleNumber3, materials, functionsB, false, "", imageGroupCharacteristics));
 
         List<List<String>> act = cut.matchDuplicatesGroups(articles);
-        assertEquals(1, act.size());
+        assertEquals(3, act.size());
         assertTrue(act.get(0).contains(articleNumber1));
-        assertTrue(act.get(0).contains(articleNumber2));
-        assertTrue(act.get(0).contains(articleNumber3));
+        assertTrue(act.get(1).contains(articleNumber2));
+        assertTrue(act.get(2).contains(articleNumber3));
     }
 
     @Test
