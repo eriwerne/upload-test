@@ -44,4 +44,14 @@ public class ImageGroupCharacteristics  implements Serializable {
                 width.hashCode(),
                 depth.hashCode());
     }
+
+    @Override
+    public String toString() {
+        return "ImageGroupCharacteristics{" +
+                "styleId='" + styleId + '\'' +
+                ", height=" + height +
+                ", depth=" + depth +
+                ", width=" + width +
+                '}';
+    }
 }

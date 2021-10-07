@@ -13,6 +13,7 @@ import application.validation.exceptions.CouldNotPerformValidationException;
 import application.validation.exceptions.DuplicateContainerIdsException;
 import application.validation.exceptions.MissingContainerIdsException;
 import application.validation.exceptions.TooManyContainerIdsException;
+import core.ArticleImageOrderCollection;
 import core.article.Article;
 import core.article.exceptions.InvalidArticleData;
 import core.image.ImageOrder;
@@ -82,7 +83,7 @@ public class OrderValidatorTest extends UnitTest {
         when(articleReaderSourceMock.readArticles(articleNumbers)).thenReturn(articles);
         when(imageOrderReaderSourceMock.readImageOrdersForOrderNumber(orderNumber)).thenReturn(imageOrders);
         ContainerIdExtractorForJSON containerIdExtractor = new ContainerIdExtractorForJSON(getJsonFromFile("valid_order"));
-        cut.validateContainerIdsForOrderNumber(orderNumber, containerIdExtractor.readContainerIdsInObject());
+        cut.validateContainerIdsForOrderNumber(orderNumber, containerIdExtractor.readContainerIdsInObject(),  new ArticleImageOrderCollection());
     }
 
     @Test(expected = MissingContainerIdsException.class)
@@ -108,7 +109,7 @@ public class OrderValidatorTest extends UnitTest {
         when(articleReaderSourceMock.readArticles(articleNumbers)).thenReturn(articles);
         when(imageOrderReaderSourceMock.readImageOrdersForOrderNumber(orderNumber)).thenReturn(imageOrders);
         final ContainerIdExtractorForJSON containerIdExtractor = new ContainerIdExtractorForJSON(getJsonFromFile("missing_container_ids"));
-        cut.validateContainerIdsForOrderNumber(orderNumber, containerIdExtractor.readContainerIdsInObject());
+        cut.validateContainerIdsForOrderNumber(orderNumber, containerIdExtractor.readContainerIdsInObject(),  new ArticleImageOrderCollection());
     }
 
     @Test(expected = TooManyContainerIdsException.class)
@@ -134,7 +135,7 @@ public class OrderValidatorTest extends UnitTest {
         when(articleReaderSourceMock.readArticles(articleNumbers)).thenReturn(articles);
         when(imageOrderReaderSourceMock.readImageOrdersForOrderNumber(orderNumber)).thenReturn(imageOrders);
         final ContainerIdExtractorForJSON containerIdExtractor = new ContainerIdExtractorForJSON(getJsonFromFile("too_many_container_ids"));
-        cut.validateContainerIdsForOrderNumber(orderNumber, containerIdExtractor.readContainerIdsInObject());
+        cut.validateContainerIdsForOrderNumber(orderNumber, containerIdExtractor.readContainerIdsInObject(), new ArticleImageOrderCollection());
     }
 
     @Test(expected = DuplicateContainerIdsException.class)
@@ -160,6 +161,6 @@ public class OrderValidatorTest extends UnitTest {
         when(articleReaderSourceMock.readArticles(articleNumbers)).thenReturn(articles);
         when(imageOrderReaderSourceMock.readImageOrdersForOrderNumber(orderNumber)).thenReturn(imageOrders);
         final ContainerIdExtractorForJSON containerIdExtractor = new ContainerIdExtractorForJSON(getJsonFromFile("double_container_ids"));
-        cut.validateContainerIdsForOrderNumber(orderNumber, containerIdExtractor.readContainerIdsInObject());
+        cut.validateContainerIdsForOrderNumber(orderNumber, containerIdExtractor.readContainerIdsInObject(),  new ArticleImageOrderCollection());
     }
 }

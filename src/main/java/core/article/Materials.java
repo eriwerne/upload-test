@@ -88,4 +88,15 @@ public class Materials implements Serializable {
             for (String s : attribute)
                 sortValue.append(s);
     }
+
+    @Override
+    public String toString() {
+        return "Materials{" +
+                "materialCode='" + materialCode + '\'' +
+                ", furnitureCoverMaterial=" + Arrays.toString(furnitureCoverMaterial) +
+                ", furnitureCoverColor=" + Arrays.toString(furnitureCoverColor) +
+                ", feetMaterial=" + Arrays.toString(feetMaterial) +
+                ", feetColor=" + Arrays.toString(feetColor) +
+                '}';
+    }
 }

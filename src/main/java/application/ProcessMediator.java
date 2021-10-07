@@ -52,7 +52,7 @@ public class ProcessMediator {
             filterUnnecessaryImageOrders(articleImageOrders);
             Order order = createOrder(articleImageOrders, orderNumber);
             outputStrings = generateOutputFiles(order, filename, foldername);
-            validate(order, outputStrings);
+            validate(order, outputStrings, articleImageOrders);
 
         } catch (ContainerIdValidationException | OutputFailed | InvalidArticleData | OrderNotFound | ResourceFailure | ArticleNotFound e) {
             throw new ApplicationFailed(e);
@@ -81,7 +81,7 @@ public class ProcessMediator {
         imageOrderDuplicateMerger.mergeFilenamesToDuplicateImageOrders(duplicatesGroups, articleImageOrders);
     }
 
-    private void validate(Order order, HashMap<OutputFormatType, String> output) throws ContainerIdValidationException, ArticleNotFound {
+    private void validate(Order order, HashMap<OutputFormatType, String> output, ArticleImageOrderCollection articleImageOrders) throws ContainerIdValidationException, ArticleNotFound {
         System.out.println("* Validating container ids in output files");
         List<ContainerIdExtractor> containerIdExtractorList = new ArrayList<>();
         containerIdExtractorList.add(new ContainerIdExtractorForOrderObject(order));
@@ -91,7 +91,7 @@ public class ProcessMediator {
         for (ContainerIdExtractor extractor : containerIdExtractorList) {
             try {
                 OrderValidator orderValidator = new OrderValidator(orderReader, articleReader, imageOrderReader);
-                orderValidator.validateContainerIdsForOrderNumber(order.getOrderNumber(), extractor.readContainerIdsInObject());
+                orderValidator.validateContainerIdsForOrderNumber(order.getOrderNumber(), extractor.readContainerIdsInObject(), articleImageOrders);
             } catch (CouldNotPerformValidationException e) {
                 e.printStackTrace();
             }

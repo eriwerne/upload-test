@@ -77,6 +77,10 @@ public class ArticleImageOrderCollection {
         return articleImageOrders.get(articleNumber);
     }
 
+    public Article getArticle(String articleNumber) {
+        return articles.get(articleNumber);
+    }
+
     private void sortImageOrdersForArticle(String articleNumber) {
         articleImageOrders.get(articleNumber).sort((o1, o2) -> {
             try {

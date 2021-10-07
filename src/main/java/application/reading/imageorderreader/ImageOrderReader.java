@@ -15,12 +15,22 @@ public class ImageOrderReader {
     ImageOrderReaderSource imageOrderReaderSource;
     private HashMap<String, List<ImageOrder>> responseArticleImageOrderMap = new HashMap<>();
 
+    public HashMap<String, String> getResponseFilenamesArticleMap() {
+        return responseFilenamesArticleMap;
+    }
+
+    private HashMap<String, String> responseFilenamesArticleMap = new HashMap<>();
+
     public ImageOrderReader() {
         DaggerImageOrderReaderInjection.builder().build().inject(this);
     }
 
     public void readImageOrdersForOrderNumber(String orderNumber) throws OrderNotFound, ResourceFailure {
         responseArticleImageOrderMap = imageOrderReaderSource.readImageOrdersForOrderNumber(orderNumber);
+        responseArticleImageOrderMap.forEach((article, imageOrders) ->
+                imageOrders.forEach(imageOrder ->
+                        imageOrder.getFilenames().forEach(filename ->
+                                responseFilenamesArticleMap.put(filename, article))));
     }
 
     public List<ImageOrder> returnImageOrdersForArticle(String articleNumber) throws ArticleNotFound {

@@ -93,4 +93,16 @@ public class Article implements Serializable {
     public ImageGroupCharacteristics getImageGroup() {
         return imageGroupCharacteristics;
     }
+
+    @Override
+    public String toString() {
+        return "\nArticle{" +
+                "\n\tarticleNumber='" + articleNumber + '\'' +
+                ", \n\tarticleFunctions=" + articleFunctions +
+                ", \n\tisMirror=" + isMirror +
+                ", \n\tmaterials=" + materials +
+                ", \n\tname='" + name + '\'' +
+                ", \n\timageGroupCharacteristics=" + imageGroupCharacteristics +
+                "\n}";
+    }
 }
