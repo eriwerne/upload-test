@@ -42,8 +42,8 @@ public class M2 implements M2Api {
         try {
             System.out.println("Reads article from M2: " + articleNumber);
             if (basicAuthToken == null) {
-                String m2ProdUser = credentialStore.getSecretValueForKey("m2ProdUser");
-                String m2ProdPassword = credentialStore.getSecretValueForKey("m2ProdPassword");
+                String m2ProdUser = credentialStore.getSecretValueForKey("username");
+                String m2ProdPassword = credentialStore.getSecretValueForKey("password");
                 basicAuthToken = "Basic " + Base64.getEncoder().encodeToString((m2ProdUser + ":" + m2ProdPassword).getBytes());
             }
             HttpUriRequest request = RequestBuilder.get()

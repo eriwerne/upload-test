@@ -73,8 +73,8 @@ public class Mmp implements MmpApi {
             HttpPost post = new HttpPost(Configuration.mmpProdUrl + "/Session/statelessLogin");
             String body =
                     "{\"tenant\": \"OV\"," +
-                            "\"username\": \"" + credentialStore.getSecretValueForKey("mmpProdUser") + "\"," +
-                            "\"password\": \"" + credentialStore.getSecretValueForKey("mmpProdPassword") + "\"}";
+                            "\"username\": \"" + credentialStore.getSecretValueForKey("mmpUser") + "\"," +
+                            "\"password\": \"" + credentialStore.getSecretValueForKey("mmpPassword") + "\"}";
             post.setEntity(new StringEntity(body));
 
             HttpResponse response = client.execute(post);

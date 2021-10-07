@@ -14,7 +14,8 @@ custom:
   S3_BUCKET_EXPORT: S3BucketExport
   MMP_PROD_URL: "http://mmp-prod.ov.otto.de/media_production/api"
   M2_PROD_URL: "https://api.prod.m2.ov.otto.de"
-  SECRET_NAME": "order-extractor"
+  MMP_SECRET_NAME": "mmp-order-mmp-credentials"
+  M2_SECRET_NAME": "m2-stage-api-credential"
   AWS_REGION: "eu-central-1"
 
 resources:
@@ -71,7 +72,10 @@ resources:
                         - "Ref": S3BucketExport
                 - Effect: "Allow"
                   Action: "secretsmanager:GetSecretValue"
-                  Resource: "arn:aws:secretsmanager:eu-central-1:379547031598:secret:order-extractor-jupDNH"
+                  Resource: "arn:aws:secretsmanager:eu-central-1:215321956005:secret:m2-stage-api-credential-Ce2Sr8"
+                - Effect: "Allow"
+                  Action: "secretsmanager:GetSecretValue"
+                  Resource: "arn:aws:secretsmanager:eu-central-1:215321956005:secret:mmp-order-mmp-credentials-SvMBlc"
     lambdaInvoke:
       Type: AWS::IAM::Role
       Properties:
@@ -145,7 +149,8 @@ functions:
         Ref: S3BucketExport
       MMP_PROD_URL: ${self:custom:MMP_PROD_URL}
       M2_PROD_URL: ${self:custom:M2_PROD_URL}
-      SECRET_NAME: ${self:custom:SECRET_NAME}
+      M2_SECRET_NAME: ${self:custom:M2_SECRET_NAME}
+      MMP_SECRET_NAME: ${self:custom:MMP_SECRET_NAME}
       AWS_REGION: ${self:custom:AWS_REGION}
   order-reset:
     handler: lambdas.orderreset.OrderResetLambda

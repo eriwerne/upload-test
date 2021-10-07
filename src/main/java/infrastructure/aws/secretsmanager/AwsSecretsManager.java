@@ -11,13 +11,16 @@ import com.google.gson.reflect.TypeToken;
 import config.Configuration;
 
 import java.lang.reflect.Type;
+import java.util.HashMap;
 import java.util.Map;
 
 public class AwsSecretsManager implements CredentialStore {
     private final Map<String, Object> secretsMap;
 
     public AwsSecretsManager() {
-        secretsMap = initSecretsMap();
+        secretsMap = new HashMap<>();
+        initSecretsMap(Configuration.m2SecretName).forEach(secretsMap::put);
+        initSecretsMap(Configuration.mmpSecretName).forEach(secretsMap::put);
     }
 
     @Override
@@ -28,12 +31,12 @@ public class AwsSecretsManager implements CredentialStore {
         return secretValue;
     }
 
-    private Map<String, Object> initSecretsMap() {
+    private Map<String, Object> initSecretsMap(String secretName) {
         AWSSecretsManager awsSecretsManager = AWSSecretsManagerClientBuilder.standard()
                 .withRegion(Configuration.awsRegion)
                 .build();
         GetSecretValueRequest getSecretValueRequest = new GetSecretValueRequest()
-                .withSecretId(Configuration.secretName);
+                .withSecretId(secretName);
 
         GetSecretValueResult getSecretValueResult = awsSecretsManager.getSecretValue(getSecretValueRequest);
 
