@@ -12,9 +12,11 @@ public class ImageGroupOrder  implements Serializable {
     private final String syleId;
     private final CgiModel basicModelInstructions = new CgiModel();
     private final HashMap<String, CgiModel> functionModelInstructionsMap = new HashMap<>();
+    private final String sizes;
 
-    public ImageGroupOrder(String syleId) {
+    public ImageGroupOrder(String syleId, String sizes) {
         this.syleId = syleId;
+        this.sizes = sizes;
     }
 
     public void appendImageOrders(Materials materials, String function, List<ImageOrder> imageOrders) {
@@ -28,7 +30,6 @@ public class ImageGroupOrder  implements Serializable {
             relevantModel.appendImageOrdersToMaterials(imageOrder, materials, function);
         }
     }
-
 
     private CgiModel getCgiModelForFunction(String function) {
         CgiModel functionModelInstructions;
@@ -55,5 +56,9 @@ public class ImageGroupOrder  implements Serializable {
 
     public String getStyleId() {
         return syleId;
+    }
+
+    public String getSizes() {
+        return sizes;
     }
 }

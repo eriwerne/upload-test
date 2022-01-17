@@ -2,6 +2,7 @@
   "orderNumber" : "10043142",
   "imageGroups" : [ {
     "productComKey" : "1158909319",
+    "sizes" : "B:[70 cm, 70 cm],T:[65 cm, 65 cm],H:[43 cm, 43 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "domo_nossa_anthrazit_3678",
@@ -921,6 +922,7 @@
     "functionModels" : [ ]
   }, {
     "productComKey" : "1158909328",
+    "sizes" : "B:[96 cm, 60 cm],T:[86 cm, 56 cm],H:[81 cm, 43 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "domo_nossa_anthrazit_3678",
@@ -1840,6 +1842,7 @@
     "functionModels" : [ ]
   }, {
     "productComKey" : "1158909337",
+    "sizes" : "B:[156 cm, 120 cm],T:[86 cm, 56 cm],H:[81 cm, 43 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "domo_nossa_anthrazit_3678",
@@ -2759,6 +2762,7 @@
     "functionModels" : [ ]
   }, {
     "productComKey" : "1158909346",
+    "sizes" : "B:[226 cm, 190 cm],T:[86 cm, 56 cm],H:[81 cm, 43 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "domo_nossa_anthrazit_3678",
@@ -3678,6 +3682,7 @@
     "functionModels" : [ ]
   }, {
     "productComKey" : "1158909355",
+    "sizes" : "B:[249 cm, 213 cm],T:[159 cm, 56 cm],H:[81 cm, 43 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "domo_nossa_anthrazit_3678",

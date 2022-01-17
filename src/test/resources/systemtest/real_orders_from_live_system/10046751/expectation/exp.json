@@ -2,6 +2,7 @@
   "orderNumber" : "10046751",
   "imageGroups" : [ {
     "productComKey" : "1203360990",
+    "sizes" : "B:[286 cm],T:[176 cm],H:[92 cm, 46 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "steinpol_lars_beige_81",
@@ -4366,6 +4367,7 @@
     } ]
   }, {
     "productComKey" : "1203360996",
+    "sizes" : "B:[72 cm, 72 cm],T:[72 cm, 72 cm],H:[46 cm, 46 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "steinpol_lars_beige_81",
@@ -5700,6 +5702,7 @@
     "functionModels" : [ ]
   }, {
     "productComKey" : "1203361041",
+    "sizes" : "B:[50 cm],T:[12 cm],H:[25 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "steinpol_lars_beige_81",
@@ -7034,6 +7037,7 @@
     "functionModels" : [ ]
   }, {
     "productComKey" : "1203361042",
+    "sizes" : "B:[65 cm],T:[11 cm],H:[25 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "steinpol_lars_beige_81",
@@ -8368,6 +8372,7 @@
     "functionModels" : [ ]
   }, {
     "productComKey" : "1205536155",
+    "sizes" : "B:[276 cm, 204 cm],T:[181 cm, 52 cm],H:[46 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "steinpol_altara_nubuck_azur_13",
@@ -11916,6 +11921,7 @@
     } ]
   }, {
     "productComKey" : "1205538803",
+    "sizes" : "B:[332 cm, 263 cm],T:[188 cm, 52 cm],H:[46 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "steinpol_altara_nubuck_azur_13",
@@ -15464,6 +15470,7 @@
     } ]
   }, {
     "productComKey" : "1205540146",
+    "sizes" : "B:[98 cm, 98 cm],T:[67 cm, 67 cm],H:[46 cm, 46 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "steinpol_altara_nubuck_azur_13",
@@ -16549,6 +16556,7 @@
     "functionModels" : [ ]
   }, {
     "productComKey" : "1208613416",
+    "sizes" : "B:[315 cm, 252 cm],T:[216 cm, 52 cm],H:[84 cm, 48 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "steinpol_punch_altweiss",
@@ -19000,6 +19008,7 @@
     } ]
   }, {
     "productComKey" : "1208613917",
+    "sizes" : "B:[59 cm, 59 cm],T:[59 cm, 59 cm],H:[48 cm, 48 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "steinpol_punch_altweiss",
@@ -19919,6 +19928,7 @@
     "functionModels" : [ ]
   }, {
     "productComKey" : "1239429271",
+    "sizes" : "B:[257 cm, 215 cm],T:[166 cm, 52 cm],H:[84 cm, 48 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "steinpol_punch_altweiss",
@@ -22367,6 +22377,7 @@
     } ]
   }, {
     "productComKey" : "1239429272",
+    "sizes" : "B:[252 cm, 192 cm],T:[216 cm, 52 cm],H:[84 cm, 48 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "steinpol_punch_altweiss",

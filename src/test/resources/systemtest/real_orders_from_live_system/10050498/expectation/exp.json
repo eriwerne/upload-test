@@ -2,6 +2,7 @@
   "orderNumber" : "10050498",
   "imageGroups" : [ {
     "productComKey" : "1272907966",
+    "sizes" : "B:[243 cm, 193 cm],T:[155 cm, 54 cm],H:[87 cm, 43 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "steinpol_olympia_clean_weiss_02",
@@ -2231,6 +2232,7 @@
     } ]
   }, {
     "productComKey" : "1272910428",
+    "sizes" : "B:[243 cm, 193 cm],T:[175 cm, 54 cm],H:[87 cm, 43 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "steinpol_olympia_clean_weiss_02",
@@ -4460,6 +4462,7 @@
     } ]
   }, {
     "productComKey" : "1272913050",
+    "sizes" : "B:[50 cm],T:[11 cm],H:[25 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "steinpol_olympia_clean_weiss_02",

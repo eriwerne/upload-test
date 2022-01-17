@@ -2,6 +2,7 @@
   "orderNumber" : "10038228",
   "imageGroups" : [ {
     "productComKey" : "1074155770",
+    "sizes" : "B:[64],T:[64],H:[42]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : null,
@@ -1842,6 +1843,7 @@
     "functionModels" : [ ]
   }, {
     "productComKey" : "1074155770",
+    "sizes" : "B:[104],T:[104],H:[42]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : null,
@@ -3682,6 +3684,7 @@
     "functionModels" : [ ]
   }, {
     "productComKey" : "1074175003",
+    "sizes" : "B:[59],T:[10],H:[27]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : null,
@@ -5522,6 +5525,7 @@
     "functionModels" : [ ]
   }, {
     "productComKey" : "1074529705",
+    "sizes" : "B:[249, 257],T:[213, 55],H:[82, 41]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : null,
@@ -5873,6 +5877,7 @@
     } ]
   }, {
     "productComKey" : "1074529705",
+    "sizes" : "B:[312, 257],T:[213, 55],H:[82, 41]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : null,
@@ -9846,6 +9851,7 @@
     } ]
   }, {
     "productComKey" : "1074530585",
+    "sizes" : "B:[60, 60],T:[60, 60],H:[41, 41]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : null,
@@ -11424,6 +11430,7 @@
     "functionModels" : [ ]
   }, {
     "productComKey" : "1074530743",
+    "sizes" : "B:[50],T:[12],H:[25]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : null,
@@ -13002,6 +13009,7 @@
     "functionModels" : [ ]
   }, {
     "productComKey" : "1088082186",
+    "sizes" : "B:[243, 184],T:[198, 72],H:[80, 42]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : null,
@@ -15923,6 +15931,7 @@
     } ]
   }, {
     "productComKey" : "1088104131",
+    "sizes" : "B:[356, 298],T:[292, 72],H:[80, 42]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : null,
@@ -18844,6 +18853,7 @@
     } ]
   }, {
     "productComKey" : "1088122233",
+    "sizes" : "B:[252, 206],T:[161, 55],H:[82, 41]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : null,
@@ -22957,6 +22967,7 @@
     } ]
   }, {
     "productComKey" : "1088123776",
+    "sizes" : "B:[249],T:[213, 55],H:[82, 41]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : null,

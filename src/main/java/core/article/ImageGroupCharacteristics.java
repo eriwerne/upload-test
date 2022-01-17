@@ -4,7 +4,9 @@ import java.io.Serializable;
 import java.util.List;
 import java.util.Objects;
 
-public class ImageGroupCharacteristics  implements Serializable {
+import static java.lang.String.format;
+
+public class ImageGroupCharacteristics implements Serializable {
     private final String styleId;
     private final List<String> height;
     private final List<String> depth;
@@ -53,5 +55,9 @@ public class ImageGroupCharacteristics  implements Serializable {
                 ", depth=" + depth +
                 ", width=" + width +
                 '}';
+    }
+
+    public String getSizeAsString() {
+        return format("B:%s,T:%s,H:%s", width, depth, height);
     }
 }

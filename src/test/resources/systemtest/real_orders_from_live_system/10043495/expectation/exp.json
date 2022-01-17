@@ -2,6 +2,7 @@
   "orderNumber" : "10043495",
   "imageGroups" : [ {
     "productComKey" : "1196526021",
+    "sizes" : "B:[275 cm],T:[173 cm, 59 cm],H:[82 cm, 41 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "steinpol_linea_aqua_11, Fuß: steinpol_buche_antik",
@@ -4451,6 +4452,7 @@
     } ]
   }, {
     "productComKey" : "1196526644",
+    "sizes" : "B:[259 cm],T:[224 cm, 59 cm],H:[82 cm, 41 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "steinpol_linea_aqua_11, Fuß: steinpol_buche_antik",
@@ -8900,6 +8902,7 @@
     } ]
   }, {
     "productComKey" : "1196528980",
+    "sizes" : "B:[329 cm, 256 cm],T:[224 cm],H:[82 cm, 41 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "steinpol_linea_aqua_11, Fuß: steinpol_buche_antik",
@@ -10626,6 +10629,7 @@
     "functionModels" : [ ]
   }, {
     "productComKey" : "1196528980",
+    "sizes" : "B:[329 cm, 256 cm],T:[224 cm],H:[41 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "steinpol_linea_aqua_11, Fuß: steinpol_buche_antik",
@@ -13355,6 +13359,7 @@
     } ]
   }, {
     "productComKey" : "1196529603",
+    "sizes" : "B:[60 cm, 60 cm],T:[60 cm, 60 cm],H:[41 cm, 41 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "steinpol_linea_aqua_11, Fuß: steinpol_buche_antik",
@@ -15021,6 +15026,7 @@
     "functionModels" : [ ]
   }, {
     "productComKey" : "1196529758",
+    "sizes" : "B:[60 cm],T:[20 cm],H:[60 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "steinpol_riviera_grau_97",
@@ -15525,6 +15531,7 @@
     "functionModels" : [ ]
   }, {
     "productComKey" : "1196529758",
+    "sizes" : "B:[50 cm],T:[20 cm],H:[50 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "steinpol_riviera_anthrazit_96",
@@ -16029,6 +16036,7 @@
     "functionModels" : [ ]
   }, {
     "productComKey" : "1196529758",
+    "sizes" : "B:[45 cm],T:[20 cm],H:[45 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "steinpol_riviera_anthrazit_96",

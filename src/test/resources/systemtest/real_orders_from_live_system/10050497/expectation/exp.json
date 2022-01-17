@@ -2,6 +2,7 @@
   "orderNumber" : "10050497",
   "imageGroups" : [ {
     "productComKey" : "1324611506",
+    "sizes" : "B:[221 cm],T:[185 cm, 60 cm],H:[79 cm, 45 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "steinpol_lars_beige_81, Fuß: steinpol_metallfuß nickel satiniert",
@@ -6100,6 +6101,7 @@
     } ]
   }, {
     "productComKey" : "1324611945",
+    "sizes" : "B:[221 cm],T:[185 cm, 60 cm],H:[79 cm, 45 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "steinpol_lars_beige_81, Fuß: steinpol_metallfuß nickel_schwarz",
@@ -12198,6 +12200,7 @@
     } ]
   }, {
     "productComKey" : "1324615201",
+    "sizes" : "B:[197 cm],T:[220 cm, 60 cm],H:[79 cm, 45 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "steinpol_lars_beige_81, Fuß: steinpol_metallfuß nickel satiniert",
@@ -18296,6 +18299,7 @@
     } ]
   }, {
     "productComKey" : "1324615610",
+    "sizes" : "B:[197 cm],T:[220 cm, 60 cm],H:[79 cm, 45 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "steinpol_lars_beige_81, Fuß: steinpol_metallfuß nickel_schwarz",
@@ -24394,6 +24398,7 @@
     } ]
   }, {
     "productComKey" : "1324618731",
+    "sizes" : "B:[102 cm, 102 cm],T:[68 cm, 68 cm],H:[45 cm, 45 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "steinpol_lars_beige_81, Fuß: steinpol_metallfuß nickel satiniert",
@@ -25811,6 +25816,7 @@
     "functionModels" : [ ]
   }, {
     "productComKey" : "1324619092",
+    "sizes" : "B:[102 cm, 102 cm],T:[68 cm, 68 cm],H:[45 cm, 45 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "steinpol_lars_beige_81, Fuß: steinpol_metallfuß nickel_schwarz",

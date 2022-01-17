@@ -10,6 +10,7 @@ import java.util.List;
 @SuppressWarnings("unused")
 public class JsonNodeImageGroup {
     private final String productComKey;
+    private final String sizes;
     private final JsonNodeBasicModel basisOcvModel;
     private final List<JsonNodeFunctionModel> functionModels;
 
@@ -20,10 +21,15 @@ public class JsonNodeImageGroup {
         functionModels = new ArrayList<>();
         for (String function : imageGroupOrder.getFunctions())
             functionModels.add(new JsonNodeFunctionModel(function, imageGroupOrder.getFunctionModel(function), filenameArticleRelations));
+        sizes = imageGroupOrder.getSizes();
     }
 
     public String getProductComKey() {
         return productComKey;
+    }
+
+    public String getSizes() {
+        return sizes;
     }
 
     public JsonNodeBasicModel getBasisOcvModel() {

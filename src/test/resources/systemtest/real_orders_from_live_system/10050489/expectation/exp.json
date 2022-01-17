@@ -2,6 +2,7 @@
   "orderNumber" : "10050489",
   "imageGroups" : [ {
     "productComKey" : "1298135852",
+    "sizes" : "B:[277 cm, 215 cm],T:[170 cm, 71 cm],H:[89 cm, 47 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "steinpol_sofia_beige_170, steinpol_metallfuß_chromfarben",
@@ -3822,6 +3823,7 @@
     } ]
   }, {
     "productComKey" : "1298136077",
+    "sizes" : "B:[276 cm, 208 cm],T:[228 cm, 71 cm],H:[89 cm, 47 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "steinpol_sofia_beige_170, steinpol_metallfuß_chromfarben",
@@ -7642,6 +7644,7 @@
     } ]
   }, {
     "productComKey" : "1298136305",
+    "sizes" : "B:[340 cm, 270 cm],T:[228 cm, 71 cm],H:[89 cm, 47 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "steinpol_sofia_beige_170, steinpol_metallfuß_chromfarben",
@@ -11462,6 +11465,7 @@
     } ]
   }, {
     "productComKey" : "1298137683",
+    "sizes" : "B:[100 cm],T:[66 cm],H:[47 cm, 47 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "steinpol_sofia_beige_170, steinpol_metallfuß_chromfarben",
@@ -13291,6 +13295,7 @@
     } ]
   }, {
     "productComKey" : "1298137802",
+    "sizes" : "B:[52 cm],T:[12 cm],H:[22 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "steinpol_sofia_beige_170, steinpol_metallfuß_chromfarben",

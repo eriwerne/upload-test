@@ -2,6 +2,7 @@
   "orderNumber" : "10050437",
   "imageGroups" : [ {
     "productComKey" : "1296889657",
+    "sizes" : "B:[248 cm, 207 cm],T:[162 cm, 56 cm],H:[87 cm, 48 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "steinpol_linea_altrosa_10, steinpol_buche_natur",
@@ -4451,6 +4452,7 @@
     } ]
   }, {
     "productComKey" : "1296890298",
+    "sizes" : "B:[248 cm, 194 cm],T:[213 cm, 56 cm],H:[87 cm, 48 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "steinpol_linea_altrosa_10, steinpol_buche_natur",
@@ -8900,6 +8902,7 @@
     } ]
   }, {
     "productComKey" : "1296892031",
+    "sizes" : "B:[248 cm, 207 cm],T:[162 cm, 56 cm],H:[87 cm, 48 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "steinpol_linea_altrosa_10, steinpol_metallfuß nickel satiniert",
@@ -13349,6 +13352,7 @@
     } ]
   }, {
     "productComKey" : "1296892672",
+    "sizes" : "B:[248 cm, 194 cm],T:[213 cm, 56 cm],H:[87 cm, 48 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "steinpol_linea_altrosa_10, steinpol_metallfuß nickel satiniert",

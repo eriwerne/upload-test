@@ -23,7 +23,7 @@ public class OrderPacker {
         HashMap<Integer, ImageGroupOrder> imageGroupOrders = new HashMap<>();
         for (ImageGroupCharacteristics imageGroup : imageOrders.getImageGroupCharacteristics()) {
             int imageGroupHashCode = imageGroup.hashCode();
-            ImageGroupOrder imageGroupOrder = new ImageGroupOrder(imageGroup.getStyleId());
+            ImageGroupOrder imageGroupOrder = new ImageGroupOrder(imageGroup.getStyleId(), imageGroup.getSizeAsString());
             imageGroupOrders.put(imageGroupHashCode, imageGroupOrder);
 
             for (Materials materials : imageOrders.getMaterialsForImageGroupHash(imageGroupHashCode))

@@ -2,6 +2,7 @@
   "orderNumber" : "10040686",
   "imageGroups" : [ {
     "productComKey" : "1074155770",
+    "sizes" : "B:[104 cm],T:[104 cm],H:[42 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "steinpol_linea_altrosa_10",
@@ -799,6 +800,7 @@
     "functionModels" : [ ]
   }, {
     "productComKey" : "1074155770",
+    "sizes" : "B:[64 cm],T:[64 cm],H:[42 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "steinpol_linea_altrosa_10",
@@ -1596,6 +1598,7 @@
     "functionModels" : [ ]
   }, {
     "productComKey" : "1074175003",
+    "sizes" : "B:[59 cm],T:[10 cm],H:[27 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "steinpol_linea_aqua_11",
@@ -2393,6 +2396,7 @@
     "functionModels" : [ ]
   }, {
     "productComKey" : "1088082186",
+    "sizes" : "B:[243 cm, 184 cm],T:[198 cm, 72 cm],H:[80 cm, 42 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "steinpol_linea_aqua_11",
@@ -3774,6 +3778,7 @@
     } ]
   }, {
     "productComKey" : "1088104131",
+    "sizes" : "B:[356 cm, 298 cm],T:[292 cm, 72 cm],H:[80 cm, 42 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "steinpol_linea_aqua_11",

@@ -58,6 +58,7 @@ public class CsvFormat implements OutputFormat {
                         "",
                         "",
                         "",
+                        "",
                         function,
                         Integer.toString(imageCounter),
                         imageOrder.getInhaltsklassifizierung(),
@@ -87,6 +88,7 @@ public class CsvFormat implements OutputFormat {
         for (Article article : sortedArticles) {
             lines.add(new String[]{
                     styleId,
+                    article.getImageGroup().getSizeAsString(),
                     materials.getMaterialCode(),
                     arrayAsString(materials.getFurnitureCoverMaterial()),
                     arrayAsString(materials.getFurnitureCoverColor()),
@@ -121,6 +123,7 @@ public class CsvFormat implements OutputFormat {
     private String[] buildCsvHeader() {
         return new String[]{
                 "ProductComKey",
+                "Größen",
                 "Material",
                 "Bezug",
                 "Farbe",

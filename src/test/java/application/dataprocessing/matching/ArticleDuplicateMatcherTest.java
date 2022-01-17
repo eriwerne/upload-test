@@ -94,6 +94,7 @@ public class ArticleDuplicateMatcherTest extends UnitTest {
 
         List<List<String>> act = cut.matchDuplicatesGroups(articles);
         assertEquals(3, act.size());
+
         assertTrue(act.get(0).contains(articleNumber1));
         assertTrue(act.get(1).contains(articleNumber2));
         assertTrue(act.get(2).contains(articleNumber3));

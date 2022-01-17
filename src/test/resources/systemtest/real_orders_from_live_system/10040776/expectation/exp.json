@@ -2,6 +2,7 @@
   "orderNumber" : "10040776",
   "imageGroups" : [ {
     "productComKey" : "1130675070",
+    "sizes" : "B:[99, 99],T:[65, 65],H:[42, 43]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : null,
@@ -1187,6 +1188,7 @@
     "functionModels" : [ ]
   }, {
     "productComKey" : "1130675079",
+    "sizes" : "B:[234, 190],T:[173, 65],H:[83, 43]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : null,
@@ -3068,6 +3070,7 @@
     } ]
   }, {
     "productComKey" : "1130675096",
+    "sizes" : "B:[329, 275],T:[173, 65],H:[81, 43]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : null,
@@ -4949,6 +4952,7 @@
     } ]
   }, {
     "productComKey" : "1130675113",
+    "sizes" : "B:[438, 390],T:[173, 60],H:[83, 43]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : null,

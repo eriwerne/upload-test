@@ -2,6 +2,7 @@
   "orderNumber" : "10043494",
   "imageGroups" : [ {
     "productComKey" : "1195302181",
+    "sizes" : "B:[284 cm, 223 cm],T:[175 cm],H:[84 cm, 42 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "steinpol_punch_reinweiss, Fuß: steinpol_metallfuß nickel_satiniert",
@@ -4638,6 +4639,7 @@
     } ]
   }, {
     "productComKey" : "1195303830",
+    "sizes" : "B:[258 cm, 193 cm],T:[226 cm],H:[84 cm, 42 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "steinpol_punch_reinweiss, Fuß: steinpol_metallfuß nickel_satiniert",
@@ -9274,6 +9276,7 @@
     } ]
   }, {
     "productComKey" : "1195304788",
+    "sizes" : "B:[332 cm, 265 cm],T:[226 cm],H:[84 cm, 42 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "steinpol_punch_reinweiss, Fuß: steinpol_metallfuß nickel_satiniert",
@@ -13910,6 +13913,7 @@
     } ]
   }, {
     "productComKey" : "1195306626",
+    "sizes" : "B:[114 cm, 114 cm],T:[71 cm, 71 cm],H:[42 cm, 42 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "steinpol_punch_reinweiss, Fuß: steinpol_metallfuß nickel_satiniert",
@@ -18342,6 +18346,7 @@
     } ]
   }, {
     "productComKey" : "1195316659",
+    "sizes" : "B:[284 cm, 223 cm],T:[175 cm],H:[45 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "steinpol_punch_reinweiss, Fuß: steinpol_metallfuß nickel_satiniert",
@@ -22978,6 +22983,7 @@
     } ]
   }, {
     "productComKey" : "1195318443",
+    "sizes" : "B:[258 cm, 193 cm],T:[226 cm],H:[87 cm, 45 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "steinpol_punch_reinweiss, Fuß: steinpol_metallfuß nickel_satiniert",
@@ -27614,6 +27620,7 @@
     } ]
   }, {
     "productComKey" : "1195321354",
+    "sizes" : "B:[332 cm, 265 cm],T:[226 cm],H:[84 cm, 42 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "steinpol_punch_reinweiss, Fuß: steinpol_metallfuß nickel_satiniert",
@@ -32250,6 +32257,7 @@
     } ]
   }, {
     "productComKey" : "1195323973",
+    "sizes" : "B:[114 cm, 114 cm],T:[71 cm, 71 cm],H:[45 cm, 42 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "steinpol_punch_reinweiss, Fuß: steinpol_metallfuß nickel_satiniert",
@@ -36682,6 +36690,7 @@
     } ]
   }, {
     "productComKey" : "1195338465",
+    "sizes" : "B:[50 cm],T:[12 cm],H:[25 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "steinpol_punch_reinweiss",
@@ -38099,6 +38108,7 @@
     "functionModels" : [ ]
   }, {
     "productComKey" : "1195340018",
+    "sizes" : "B:[65 cm],T:[10 cm],H:[25 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "steinpol_punch_reinweiss",

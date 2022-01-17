@@ -2,6 +2,7 @@
   "orderNumber" : "10040660",
   "imageGroups" : [ {
     "productComKey" : "358690228",
+    "sizes" : "B:[283 cm],T:[174 cm, 60 cm],H:[88 cm, 40 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : null,
@@ -2741,6 +2742,7 @@
     } ]
   }, {
     "productComKey" : "358690228",
+    "sizes" : "B:[283],T:[174, 60],H:[88, 40]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : null,
@@ -3294,6 +3296,7 @@
     } ]
   }, {
     "productComKey" : "749372608",
+    "sizes" : "B:[229, 171],T:[93, 51],H:[114, 46]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : null,
@@ -4316,6 +4319,7 @@
     } ]
   }, {
     "productComKey" : "749372608",
+    "sizes" : "B:[229 cm, 171 cm],T:[93 cm, 51 cm],H:[114 cm, 46 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : null,
@@ -5742,6 +5746,7 @@
     } ]
   }, {
     "productComKey" : "861013008",
+    "sizes" : "B:[],T:[],H:[]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : null,

@@ -2,6 +2,7 @@
   "orderNumber" : "12345",
   "imageGroups" : [ {
     "productComKey" : "889345295",
+    "sizes" : "B:[252, 200],T:[165, 51],H:[84, 48]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "steinpol_lars_braun_99",

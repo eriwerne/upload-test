@@ -2,6 +2,7 @@
   "orderNumber" : "10053746",
   "imageGroups" : [ {
     "productComKey" : "1391989831",
+    "sizes" : "B:[134 cm, 135 cm],T:[85 cm, 85 cm],H:[44 cm, 44 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "domo_newport_steel_3415, Fuß: domo_metallfuss_schwarz",
@@ -97,6 +98,7 @@
     "functionModels" : [ ]
   }, {
     "productComKey" : "1391989831",
+    "sizes" : "B:[134 cm, 134 cm],T:[85 cm, 85 cm],H:[44 cm, 44 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "domo_newport_beige_3420, Fuß: domo_metallfuss_schwarz",
@@ -726,6 +728,7 @@
     "functionModels" : [ ]
   }, {
     "productComKey" : "1391989882",
+    "sizes" : "B:[232 cm, 156 cm],T:[95 cm, 60 cm],H:[95 cm, 44 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "domo_newport_beige_3420, Fuß: domo_metallfuss_schwarz",
@@ -1823,6 +1826,7 @@
     } ]
   }, {
     "productComKey" : "1391989933",
+    "sizes" : "B:[252 cm, 176 cm],T:[95 cm, 60 cm],H:[95 cm, 44 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "domo_newport_beige_3420, Fuß: domo_metallfuss_schwarz",
@@ -2920,6 +2924,7 @@
     } ]
   }, {
     "productComKey" : "1391989966",
+    "sizes" : "B:[257 cm, 178 cm],T:[190 cm, 60 cm],H:[95 cm, 44 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "domo_newport_beige_3420, Fuß: domo_metallfuss_schwarz",
@@ -4065,6 +4070,7 @@
     } ]
   }, {
     "productComKey" : "1394147584",
+    "sizes" : "B:[87 cm, 87 cm],T:[87 cm, 87 cm],H:[40 cm, 40 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "domo_smile_beere_3667",
@@ -4694,6 +4700,7 @@
     "functionModels" : [ ]
   }, {
     "productComKey" : "1394147609",
+    "sizes" : "B:[211 cm, 140 cm],T:[96 cm, 58 cm],H:[76 cm, 40 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "domo_smile_beere_3667",
@@ -5323,6 +5330,7 @@
     "functionModels" : [ ]
   }, {
     "productComKey" : "1394147634",
+    "sizes" : "B:[232 cm, 160 cm],T:[96 cm, 58 cm],H:[76 cm, 40 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "domo_smile_beere_3667",
@@ -5952,6 +5960,7 @@
     "functionModels" : [ ]
   }, {
     "productComKey" : "1394147659",
+    "sizes" : "B:[271 cm, 196 cm],T:[232 cm, 58 cm],H:[76 cm, 40 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "domo_smile_beere_3667",

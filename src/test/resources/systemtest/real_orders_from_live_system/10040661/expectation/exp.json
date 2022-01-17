@@ -2,6 +2,7 @@
   "orderNumber" : "10040661",
   "imageGroups" : [ {
     "productComKey" : "1074529705",
+    "sizes" : "B:[249 cm, 257 cm],T:[213 cm, 55 cm],H:[82 cm, 41 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "steinpol_altara_nubuck_bordeaux_63",
@@ -323,6 +324,7 @@
     } ]
   }, {
     "productComKey" : "1074529705",
+    "sizes" : "B:[312 cm, 257 cm],T:[213 cm, 55 cm],H:[82 cm, 41 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "steinpol_altara_nubuck_blau",
@@ -1892,6 +1894,7 @@
     } ]
   }, {
     "productComKey" : "1074530585",
+    "sizes" : "B:[60 cm, 60 cm],T:[60 cm, 60 cm],H:[41 cm, 41 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "steinpol_altara_nubuck_blau",
@@ -2350,6 +2353,7 @@
     "functionModels" : [ ]
   }, {
     "productComKey" : "1074530743",
+    "sizes" : "B:[50 cm],T:[12 cm],H:[25 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "steinpol_paris_creme_01",
@@ -2808,6 +2812,7 @@
     "functionModels" : [ ]
   }, {
     "productComKey" : "1088122233",
+    "sizes" : "B:[252 cm, 206 cm],T:[161 cm, 55 cm],H:[82 cm, 41 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "steinpol_altara_nubuck_blau",
@@ -4689,6 +4694,7 @@
     } ]
   }, {
     "productComKey" : "1088123776",
+    "sizes" : "B:[249 cm],T:[213 cm, 55 cm],H:[82 cm, 41 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "steinpol_altara_nubuck_blau",

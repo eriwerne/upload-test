@@ -2,6 +2,7 @@
   "orderNumber" : "10046750",
   "imageGroups" : [ {
     "productComKey" : "1246966663",
+    "sizes" : "B:[279 cm, 207 cm],T:[228 cm, 57 cm],H:[45 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "cotta_new york_anthracite_G003",

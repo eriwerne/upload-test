@@ -2,6 +2,7 @@
   "orderNumber" : "10052862",
   "imageGroups" : [ {
     "productComKey" : "1362550141",
+    "sizes" : "B:[100 cm, 100 cm],T:[70 cm, 70 cm],H:[46 cm, 46 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "domo_marty_beere_3579",
@@ -672,6 +673,7 @@
     "functionModels" : [ ]
   }, {
     "productComKey" : "1362550150",
+    "sizes" : "B:[297 cm, 222 cm],T:[160 cm, 60 cm],H:[84 cm, 46 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "domo_marty_beere_3579",
@@ -2860,6 +2862,7 @@
     } ]
   }, {
     "productComKey" : "1362550186",
+    "sizes" : "B:[348 cm, 279 cm],T:[204 cm, 60 cm],H:[84 cm, 46 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "domo_marty_beere_3579",

@@ -2,6 +2,7 @@
   "orderNumber" : "10051720",
   "imageGroups" : [ {
     "productComKey" : "1355239246",
+    "sizes" : "B:[264 cm, 205 cm],T:[175 cm, 60 cm],H:[86 cm, 46 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "steinpol_paris_espresso_210",
@@ -3952,6 +3953,7 @@
     } ]
   }, {
     "productComKey" : "1355240853",
+    "sizes" : "B:[263 cm, 189 cm],T:[219 cm, 60 cm],H:[86 cm, 46 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "steinpol_paris_espresso_210",
@@ -7902,6 +7904,7 @@
     } ]
   }, {
     "productComKey" : "1355245726",
+    "sizes" : "B:[338 cm, 265 cm],T:[219 cm, 60 cm],H:[86 cm, 46 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "steinpol_paris_espresso_210",
@@ -11852,6 +11855,7 @@
     } ]
   }, {
     "productComKey" : "1355249747",
+    "sizes" : "B:[75 cm],T:[],H:[46 cm, 46 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "steinpol_paris_espresso_210",

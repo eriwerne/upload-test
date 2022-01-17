@@ -1,9 +1,9 @@
-﻿ProductComKey;Material;Bezug;Farbe;Material Füße;Farbe Füße;Artikelnummer;Artikelbezeichnung;Funktionsbezeichnungen;Image counter;Inhaltsklassifizierung;Detailfotografie;Ansicht;Aufnahmeart;Recamiere/Ottomane links;Recamiere/Ottomane rechts
-123456789;steinpol_lars_braun_99;[Flachgewebe];[anthrazit];[Metall];[silber];345678;Ecksofa (Rec re)
-123456789;;;;;;;;;1;Produktbild;;Vorderansicht;;[3451.jpg];[]
-123456789;steinpol_lars_braun_99;[Flachgewebe];[anthrazit];[Metall];[silber];345678;Ecksofa (Rec re)
-123456789;;;;;;;;andere Funktion;1;Produktbild;Funktion;Vorderansicht;;[3452.jpg];[]
-889345295;steinpol_lars_braun_99;[Flachgewebe];[anthrazit];[Metall];[silber];123456;Ecksofa (Rec re)
-889345295;;;;;;;;;1;Produktbild;;Vorderansicht;;[1231.jpg];[]
-889345295;steinpol_lars_braun_99;[Flachgewebe];[anthrazit];[Metall];[silber];123456;Ecksofa (Rec re)
-889345295;;;;;;;;Funktion;1;Produktbild;Funktion;Vorderansicht;;[1232.jpg];[]
+﻿ProductComKey;Größen;Material;Bezug;Farbe;Material Füße;Farbe Füße;Artikelnummer;Artikelbezeichnung;Funktionsbezeichnungen;Image counter;Inhaltsklassifizierung;Detailfotografie;Ansicht;Aufnahmeart;Recamiere/Ottomane links;Recamiere/Ottomane rechts
+123456789;B:[252, 200],T:[165, 51],H:[84, 48];steinpol_lars_braun_99;[Flachgewebe];[anthrazit];[Metall];[silber];345678;Ecksofa (Rec re)
+123456789;;;;;;;;;;1;Produktbild;;Vorderansicht;;[3451.jpg];[]
+123456789;B:[252, 200],T:[165, 51],H:[84, 48];steinpol_lars_braun_99;[Flachgewebe];[anthrazit];[Metall];[silber];345678;Ecksofa (Rec re)
+123456789;;;;;;;;;andere Funktion;1;Produktbild;Funktion;Vorderansicht;;[3452.jpg];[]
+889345295;B:[252, 200],T:[165, 51],H:[84, 48];steinpol_lars_braun_99;[Flachgewebe];[anthrazit];[Metall];[silber];123456;Ecksofa (Rec re)
+889345295;;;;;;;;;;1;Produktbild;;Vorderansicht;;[1231.jpg];[]
+889345295;B:[252, 200],T:[165, 51],H:[84, 48];steinpol_lars_braun_99;[Flachgewebe];[anthrazit];[Metall];[silber];123456;Ecksofa (Rec re)
+889345295;;;;;;;;;Funktion;1;Produktbild;Funktion;Vorderansicht;;[1232.jpg];[]

@@ -2,6 +2,7 @@
   "orderNumber" : "10046554",
   "imageGroups" : [ {
     "productComKey" : "1246327753",
+    "sizes" : "B:[78 cm],T:[92 cm],H:[107 cm, 42 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "Z5929",
@@ -2166,6 +2167,7 @@
     "functionModels" : [ ]
   }, {
     "productComKey" : "1246327782",
+    "sizes" : "B:[78 cm],T:[92 cm],H:[107 cm, 42 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "Z5929",
@@ -4330,6 +4332,7 @@
     "functionModels" : [ ]
   }, {
     "productComKey" : "1246327937",
+    "sizes" : "B:[52 cm],T:[43 cm],H:[39 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "Z5929",
@@ -6494,6 +6497,7 @@
     "functionModels" : [ ]
   }, {
     "productComKey" : "1246327985",
+    "sizes" : "B:[52 cm],T:[43 cm],H:[39 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "Z5929",
@@ -8658,6 +8662,7 @@
     "functionModels" : [ ]
   }, {
     "productComKey" : "1246328241",
+    "sizes" : "B:[78 cm],T:[92 cm],H:[107 cm, 42 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "Z5929",
@@ -12047,6 +12052,7 @@
     } ]
   }, {
     "productComKey" : "1246328285",
+    "sizes" : "B:[78 cm],T:[92 cm],H:[107 cm, 42 cm]",
     "basisOcvModel" : {
       "materials" : [ {
         "materialCode" : "Z5929",
