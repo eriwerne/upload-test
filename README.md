@@ -172,7 +172,7 @@ MMP_PROD_URL=http://mmp-prod.ov.otto.de/media_production/api
 M2_PROD_URL=https://api.prod.m2.ov.otto.de
 MMP_SECRET_NAME=mmp-order-mmp-credentials
 M2_SECRET_NAME=m2-stage-api-credential
-AWS_REGION=eu-central-1
+REGION_AWS=eu-central-1
 ```
 Die entsprechenden Benutzernamen und Passwörter für M2 und MMP sind im AWS Secrets Manager hinterlegt.
 Dementsprechend muss auch eine Verbindung zum AWS-Account über ```saml2aws login ``` aufgebaut werden.

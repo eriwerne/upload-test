@@ -5,5 +5,5 @@ public class Configuration {
     public static final String m2ProdUrl = System.getenv("M2_PROD_URL");
     public static final String m2SecretName = System.getenv("M2_SECRET_NAME");
     public static final String mmpSecretName = System.getenv("MMP_SECRET_NAME");
-    public static final String awsRegion = System.getenv("AWS_REGION");
+    public static final String awsRegion = System.getenv("REGION_AWS");
 }

@@ -8,6 +8,7 @@ import org.junit.Test;
 import utils.UnitTest;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.HashSet;
 import java.util.List;
 
@@ -95,9 +96,9 @@ public class ArticleDuplicateMatcherTest extends UnitTest {
         List<List<String>> act = cut.matchDuplicatesGroups(articles);
         assertEquals(3, act.size());
 
-        assertTrue(act.get(0).contains(articleNumber1));
-        assertTrue(act.get(1).contains(articleNumber2));
-        assertTrue(act.get(2).contains(articleNumber3));
+        Arrays.asList(act.get(0), act.get(1), act.get(2)).contains(Arrays.asList(articleNumber1));
+        Arrays.asList(act.get(0), act.get(1), act.get(2)).contains(Arrays.asList(articleNumber2));
+        Arrays.asList(act.get(0), act.get(1), act.get(2)).contains(Arrays.asList(articleNumber3));
     }
 
     @Test
