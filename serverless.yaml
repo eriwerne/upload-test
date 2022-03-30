@@ -9,7 +9,12 @@ provider:
   logRetentionInDays: 14
   environment:
     S3_BUCKET_EXPORT: ${self:custom.S3_BUCKET_EXPORT}
-
+  vpc:
+    securityGroupIds:
+      - 'sg-0eb15e3888c7d5217'
+    subnetIds:
+      - 'subnet-07f1c11218105648f' # private AZ1
+      - 'subnet-07a3237360012f828' # private AZ2
 custom:
   S3_BUCKET_EXPORT: S3BucketExport
 
@@ -71,6 +76,14 @@ resources:
                 - Effect: "Allow"
                   Action: "secretsmanager:GetSecretValue"
                   Resource: "arn:aws:secretsmanager:eu-central-1:215321956005:secret:mmp-order-mmp-credentials-SvMBlc"
+                - Effect: "Allow"
+                  Action:
+                    - "ec2:DescribeInstances"
+                    - "ec2:CreateNetworkInterface"
+                    - "ec2:AttachNetworkInterface"
+                    - "ec2:DescribeNetworkInterfaces"
+                    - "ec2:DeleteNetworkInterface"
+                  Resource: "*"
     lambdaInvoke:
       Type: AWS::IAM::Role
       Properties:
@@ -119,7 +132,15 @@ resources:
                 - Effect: "Allow"
                   Action:
                     - "lambda:*"
-                  Resource: "arn:aws:lambda:eu-central-1:379547031598:function:order-execution"
+                  Resource: "arn:aws:lambda:eu-central-1:215321956005:function:order-execution"
+                - Effect: "Allow"
+                  Action:
+                    - "ec2:DescribeInstances"
+                    - "ec2:CreateNetworkInterface"
+                    - "ec2:AttachNetworkInterface"
+                    - "ec2:DescribeNetworkInterfaces"
+                    - "ec2:DeleteNetworkInterface"
+                  Resource: "*"
     S3BucketExport:
       Type: AWS::S3::Bucket
 package:

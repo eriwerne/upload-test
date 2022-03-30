@@ -9,6 +9,7 @@ import application.reading.orderreader.OrderReaderSource;
 import dagger.Module;
 import dagger.Provides;
 import infrastructure.aws.lambda.AsyncLambdaProcessCall;
+import infrastructure.aws.s3.S3Persister;
 import infrastructure.aws.secretsmanager.AwsSecretsManager;
 import infrastructure.filesystem.FilePersister;
 import infrastructure.m2.M2;
@@ -35,7 +36,7 @@ public class DaggerInjectionModule {
     @Provides
     public Persister providesPersister() {
         if (persister == null)
-            persister = new FilePersister();
+            persister = new S3Persister("order-extractor-dev-s3bucketexport-1icootg41gshp");
         return persister;
     }
 
